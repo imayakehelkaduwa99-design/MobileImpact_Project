@@ -1,0 +1,434 @@
+-- 01_data_cleaning_and_preparation.sql
+-- EXACTLY MATCHING YOUR COLUMNS
+
+-- CLEAN CUSTOMERS
+CREATE OR REPLACE TABLE mobileimpact_a3.customers_clean AS
+SELECT
+  SAFE_CAST(Customer_ID AS INT64) AS customer_id,
+  SAFE_CAST(Age AS INT64) AS age,
+  Gender AS gender,
+  Occupation AS occupation,
+  Income_Level AS income_level,
+  Location AS location,
+  City AS city,
+  SAFE_CAST(Family_Size AS INT64) AS family_size
+FROM mobileimpact_a3.customers_raw;
+
+-- CLEAN TRADITIONAL DONATIONS
+CREATE OR REPLACE TABLE mobileimpact_a3.traditional_clean AS
+SELECT
+  SAFE_CAST(Customer_ID AS INT64) AS customer_id,
+  Donation_ID AS donation_id,
+
+  -- Dates are already DATE type in the raw table
+  DonationDate    AS donation_date,
+  DonationEndDate AS donation_end_date,
+
+  SAFE_CAST(DonationAmount AS FLOAT64) AS donation_amount,
+  Product      AS product,
+  Channel_Pay  AS channel_pay
+FROM mobileimpact_a3.traditional_raw;
+
+-- CLEAN MOBILE IN-APP PURCHASES
+CREATE OR REPLACE TABLE `mobileimpact_a3.mobile_clean` AS
+SELECT
+  -- standardise id + types
+  CAST(Customer_ID AS INT64) AS customer_id,
+  Device,
+  GameGenre,
+  CAST(SessionCount AS INT64) AS session_count,
+  CAST(AverageSessionLength AS FLOAT64) AS avg_session_length,
+  SpendingSegment,
+  CAST(InAppPurchaseAmount AS NUMERIC) AS inapp_purchase_amount,
+  CAST(FirstPurchaseDaysAfterInstall AS INT64) AS days_to_first_purchase,
+  PaymentMethod,
+  -- if LastPurchaseDate is already a DATE in BigQuery, DATE() just returns it safely
+  DATE(LastPurchaseDate) AS last_purchase_date
+FROM
+  `mobileimpact_a3.mobile_raw`;
+
+-- CLEAN CAMPAIGNS
+CREATE OR REPLACE TABLE `mobileimpact_a3.campaigns_clean` AS
+SELECT
+  CAST(Campaign_ID AS INT64)      AS campaign_id,
+  CampaignType                    AS campaign_type,
+
+  -- Already DATE in BigQuery
+  CampaignDate                   AS campaign_date,
+
+  CampaignBudget                  AS campaign_budget,
+  TargetAudience                  AS target_audience
+FROM `mobileimpact_a3.campaigns_raw`;
+
+
+-- CLEAN CAMPAIGN RESPONSES
+CREATE OR REPLACE TABLE `mobileimpact_a3.response_clean` AS
+SELECT
+  CAST(Customer_ID AS INT64)           AS customer_id,
+  CAST(Campaign_ID AS INT64)           AS campaign_id,
+  Response                             AS response,
+  CAST(ClickThroughRate AS FLOAT64)    AS click_through_rate,
+  CAST(EngagementFrequency AS INT64)   AS engagement_frequency
+FROM `mobileimpact_a3.campaign_response_raw`;
+
+-- 03_overall_channel_summary.sql
+WITH trad AS (
+  SELECT
+    'Traditional'                         AS channel,
+    COUNT(DISTINCT customer_id)           AS donors,
+    COUNT(*)                              AS transactions,
+    SUM(donation_amount)                  AS revenue,
+    AVG(donation_amount)                  AS avg_gift
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT
+    'Mobile'                              AS channel,
+    COUNT(DISTINCT customer_id)           AS donors,
+    COUNT(*)                              AS transactions,
+    SUM(inapp_purchase_amount)            AS revenue,
+    AVG(inapp_purchase_amount)            AS avg_gift
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT * FROM trad
+UNION ALL
+SELECT * FROM mob;
+
+-- 04_donor_overlap.sql
+WITH trad AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT
+  COUNTIF(in_trad AND NOT in_mob) AS donors_trad_only,
+  COUNTIF(in_mob AND NOT in_trad) AS donors_mobile_only,
+  COUNTIF(in_trad AND in_mob)     AS donors_both,
+  COUNT(*)                        AS total_customers
+FROM (
+  SELECT
+    c.customer_id,
+    c.customer_id IN (SELECT customer_id FROM trad) AS in_trad,
+    c.customer_id IN (SELECT customer_id FROM mob)  AS in_mob
+  FROM `mobileimpact_a3.customers_clean` c
+);
+
+-- 05_per_customer_value_by_channel.sql
+WITH trad AS (
+  SELECT
+    customer_id,
+    SUM(donation_amount)         AS trad_revenue,
+    COUNT(*)                     AS trad_txn_count,
+    MIN(donation_date)           AS first_trad_date,
+    MAX(donation_date)           AS last_trad_date
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+mob AS (
+  SELECT
+    customer_id,
+    SUM(inapp_purchase_amount)   AS mobile_revenue,
+    COUNT(*)                     AS mobile_txn_count,
+    MIN(last_purchase_date)      AS first_mobile_date,
+    MAX(last_purchase_date)      AS last_mobile_date
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+)
+SELECT
+  c.customer_id,
+  c.gender,
+  c.age,
+  c.income_level,
+  IFNULL(trad_revenue, 0)        AS trad_revenue,
+  IFNULL(trad_txn_count, 0)      AS trad_txn_count,
+  IFNULL(mobile_revenue, 0)      AS mobile_revenue,
+  IFNULL(mobile_txn_count, 0)    AS mobile_txn_count,
+  IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0) AS total_revenue
+FROM `mobileimpact_a3.customers_clean` c
+LEFT JOIN trad USING (customer_id)
+LEFT JOIN mob USING (customer_id);
+
+-- 06_trad_revenue_by_product_channel.sql
+SELECT
+  product,
+  channel_pay,
+  COUNT(*)                        AS transaction_count,
+  COUNT(DISTINCT customer_id)     AS donors,
+  SUM(donation_amount)            AS total_revenue,
+  AVG(donation_amount)            AS avg_donation
+FROM `mobileimpact_a3.traditional_clean`
+GROUP BY product, channel_pay
+ORDER BY total_revenue DESC;
+
+-- 07_trad_recurring_vs_oneoff.sql
+WITH donor_txn AS (
+  SELECT
+    customer_id,
+    COUNT(*)                     AS txn_count,
+    SUM(donation_amount)         AS total_donated
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+)
+SELECT
+  IF(txn_count > 1, 'Recurring', 'One-off') AS donor_type,
+  COUNT(*)                                   AS donors,
+  SUM(total_donated)                         AS total_revenue,
+  AVG(total_donated)                         AS avg_revenue_per_donor
+FROM donor_txn
+GROUP BY donor_type;
+
+-- 08_trad_monthly_donation_trend.sql
+SELECT
+  FORMAT_DATE('%Y-%m', donation_date) AS year_month,
+  COUNT(*)                             AS transactions,
+  SUM(donation_amount)                 AS total_revenue
+FROM `mobileimpact_a3.traditional_clean`
+GROUP BY year_month
+ORDER BY year_month;
+
+-- 09_mobile_revenue_by_genre.sql
+SELECT
+  gamegenre                          AS game_genre,
+  COUNT(*)                           AS purchase_count,
+  COUNT(DISTINCT customer_id)        AS payers,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY game_genre
+ORDER BY total_revenue DESC;
+
+-- 10_mobile_device_payment_behaviour.sql
+SELECT
+  device,
+  paymentmethod                      AS payment_method,
+  COUNT(*)                           AS purchase_count,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase,
+  AVG(session_count)                  AS avg_session_count,
+  AVG(avg_session_length)          AS avg_session_length
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY device, payment_method
+ORDER BY total_revenue DESC;
+
+-- 11_mobile_spending_segment.sql
+SELECT
+  spendingsegment                    AS spending_segment,
+  COUNT(DISTINCT customer_id)        AS customers,
+  COUNT(*)                           AS purchase_count,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY spending_segment
+ORDER BY total_revenue DESC;
+
+-- 12_mobile_time_to_first_purchase.sql
+SELECT
+  CASE
+    WHEN days_to_first_purchase <= 1  THEN 'Day 0–1'
+    WHEN days_to_first_purchase <= 7  THEN 'Day 2–7'
+    WHEN days_to_first_purchase <= 30 THEN 'Day 8–30'
+    ELSE 'Day 31+'
+  END                                       AS first_purchase_bucket,
+  COUNT(DISTINCT customer_id)               AS customers,
+  SUM(inapp_purchase_amount)                AS revenue
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY first_purchase_bucket
+ORDER BY first_purchase_bucket;
+
+-- 13_channel_usage_by_demographics.sql
+WITH trad AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT
+  c.gender,
+  c.income_level,
+  c.location,
+  COUNT(*)                                                  AS customers,
+  COUNTIF(c.customer_id IN (SELECT customer_id FROM trad))  AS trad_customers,
+  COUNTIF(c.customer_id IN (SELECT customer_id FROM mob))   AS mobile_customers,
+  COUNTIF(
+    c.customer_id IN (SELECT customer_id FROM trad)
+    AND c.customer_id IN (SELECT customer_id FROM mob)
+  )                                                         AS both_channels
+FROM `mobileimpact_a3.customers_clean` c
+GROUP BY gender, income_level, location
+ORDER BY customers DESC;
+
+-- 14_revenue_by_gender_channel.sql
+WITH trad AS (
+  SELECT
+    customer_id,
+    SUM(donation_amount) AS trad_revenue
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+mob AS (
+  SELECT
+    customer_id,
+    SUM(inapp_purchase_amount) AS mobile_revenue
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+)
+SELECT
+  c.gender,
+  SUM(IFNULL(trad_revenue, 0))        AS trad_revenue,
+  SUM(IFNULL(mobile_revenue, 0))      AS mobile_revenue,
+  SUM(IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0)) AS total_revenue
+FROM `mobileimpact_a3.customers_clean` c
+LEFT JOIN trad USING (customer_id)
+LEFT JOIN mob USING (customer_id)
+GROUP BY gender;
+
+-- 15_campaign_response_summary.sql
+CREATE OR REPLACE TABLE `mobileimpact_a3.campaign_response_summary` AS
+SELECT
+  cr.campaign_id,
+  mc.campaign_type,
+  mc.campaign_date,
+  mc.campaign_budget,
+
+  COUNT(*) AS targeted_customers,
+
+  COUNTIF(cr.response = TRUE)  AS responses_yes,
+  COUNTIF(cr.response = FALSE) AS responses_no,
+
+  COUNTIF(cr.response = TRUE) / COUNT(*) AS response_rate,
+
+  AVG(click_through_rate)      AS avg_ctr,
+  AVG(engagement_frequency)     AS avg_engagement
+
+FROM `mobileimpact_a3.response_clean` cr
+LEFT JOIN `mobileimpact_a3.campaigns_clean` mc
+  ON cr.campaign_id = mc.campaign_id
+
+GROUP BY 
+  cr.campaign_id,
+  mc.campaign_type,
+  mc.campaign_date,
+  mc.campaign_budget;
+
+-- 16_campaign_revenue_30day_window.sql
+WITH campaign_window AS (
+  SELECT
+    campaign_id,
+    campaign_type,
+    campaign_date,
+    campaign_budget,
+    DATE_ADD(campaign_date, INTERVAL 30 DAY) AS campaign_end
+  FROM `mobileimpact_a3.campaigns_clean`
+),
+
+trad_attrib AS (
+  SELECT
+    cw.campaign_id,
+    SUM(t.donation_amount) AS trad_revenue_30d
+  FROM campaign_window cw
+  JOIN `mobileimpact_a3.traditional_clean` t
+    ON t.donation_date BETWEEN cw.campaign_date AND cw.campaign_end
+  GROUP BY cw.campaign_id
+),
+
+mob_attrib AS (
+  SELECT
+    cw.campaign_id,
+    SUM(m.inapp_purchase_amount) AS mobile_revenue_30d
+  FROM campaign_window cw
+  JOIN `mobileimpact_a3.mobile_clean` m
+    ON m.last_purchase_date BETWEEN cw.campaign_date AND cw.campaign_end
+  GROUP BY cw.campaign_id
+)
+
+SELECT
+  cw.campaign_id,
+  cw.campaign_type,
+  cw.campaign_date,
+  cw.campaign_budget,
+  IFNULL(trad_revenue_30d, 0)   AS trad_revenue_30d,
+  IFNULL(mobile_revenue_30d, 0) AS mobile_revenue_30d,
+  IFNULL(trad_revenue_30d, 0) + IFNULL(mobile_revenue_30d, 0) AS total_revenue_30d,
+  SAFE_DIVIDE(
+    IFNULL(trad_revenue_30d, 0) + IFNULL(mobile_revenue_30d, 0),
+    cw.campaign_budget
+  ) AS roi_30d
+FROM campaign_window cw
+LEFT JOIN trad_attrib  USING (campaign_id)
+LEFT JOIN mob_attrib   USING (campaign_id)
+ORDER BY roi_30d DESC;
+
+-- 17_high_value_donor_profile.sql
+WITH per_customer AS (
+  SELECT
+    c.customer_id,
+    c.age,
+    c.gender,
+    c.income_level,
+    c.location,
+    IFNULL(trad_revenue, 0)      AS trad_revenue,
+    IFNULL(mobile_revenue, 0)    AS mobile_revenue,
+    IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0) AS total_revenue
+  FROM `mobileimpact_a3.customers_clean` c
+  LEFT JOIN (
+    SELECT customer_id, SUM(donation_amount) AS trad_revenue
+    FROM `mobileimpact_a3.traditional_clean`
+    GROUP BY customer_id
+  ) t USING (customer_id)
+  LEFT JOIN (
+    SELECT customer_id, SUM(inapp_purchase_amount) AS mobile_revenue
+    FROM `mobileimpact_a3.mobile_clean`
+    GROUP BY customer_id
+  ) m USING (customer_id)
+),
+ranked AS (
+  SELECT
+    *,
+    NTILE(10) OVER (ORDER BY total_revenue DESC) AS revenue_decile
+  FROM per_customer
+)
+SELECT
+  gender,
+  income_level,
+  location,
+  COUNT(*)                   AS high_value_customers,
+  AVG(total_revenue)         AS avg_total_revenue,
+  AVG(mobile_revenue)        AS avg_mobile_revenue,
+  AVG(trad_revenue)          AS avg_trad_revenue
+FROM ranked
+WHERE revenue_decile = 1       -- top 10%
+GROUP BY gender, income_level, location
+ORDER BY high_value_customers DESC;
+
+-- 18_at_risk_donors.sql
+WITH last_trad AS (
+  SELECT customer_id, MAX(donation_date)       AS last_trad_date
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+last_mob AS (
+  SELECT customer_id, MAX(last_purchase_date)  AS last_mobile_date
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+),
+combined AS (
+  SELECT
+    c.customer_id,
+    c.gender,
+    c.income_level,
+    c.location,
+    GREATEST(IFNULL(last_trad_date, DATE '1900-01-01'),
+             IFNULL(last_mobile_date, DATE '1900-01-01')) AS last_activity_date
+  FROM `mobileimpact_a3.customers_clean` c
+  LEFT JOIN last_trad USING (customer_id)
+  LEFT JOIN last_mob  USING (customer_id)
+)
+SELECT *
+FROM combined
+WHERE last_activity_date < DATE_SUB(CURRENT_DATE(), INTERVAL 6 MONTH)
+ORDER BY last_activity_date;

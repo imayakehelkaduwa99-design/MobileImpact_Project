@@ -1,0 +1,22 @@
+-- 03_overall_channel_summary.sql
+WITH trad AS (
+  SELECT
+    'Traditional'                         AS channel,
+    COUNT(DISTINCT customer_id)           AS donors,
+    COUNT(*)                              AS transactions,
+    SUM(donation_amount)                  AS revenue,
+    AVG(donation_amount)                  AS avg_gift
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT
+    'Mobile'                              AS channel,
+    COUNT(DISTINCT customer_id)           AS donors,
+    COUNT(*)                              AS transactions,
+    SUM(inapp_purchase_amount)            AS revenue,
+    AVG(inapp_purchase_amount)            AS avg_gift
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT * FROM trad
+UNION ALL
+SELECT * FROM mob;

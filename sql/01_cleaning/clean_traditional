@@ -1,0 +1,14 @@
+-- CLEAN TRADITIONAL DONATIONS
+CREATE OR REPLACE TABLE mobileimpact_a3.traditional_clean AS
+SELECT
+  SAFE_CAST(Customer_ID AS INT64) AS customer_id,
+  Donation_ID AS donation_id,
+
+  -- Dates are already DATE type in the raw table
+  DonationDate    AS donation_date,
+  DonationEndDate AS donation_end_date,
+
+  SAFE_CAST(DonationAmount AS FLOAT64) AS donation_amount,
+  Product      AS product,
+  Channel_Pay  AS channel_pay
+FROM mobileimpact_a3.traditional_raw;

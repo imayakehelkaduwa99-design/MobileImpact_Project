@@ -1,0 +1,12 @@
+-- CLEAN CAMPAIGNS
+CREATE OR REPLACE TABLE `mobileimpact_a3.campaigns_clean` AS
+SELECT
+  CAST(Campaign_ID AS INT64)      AS campaign_id,
+  CampaignType                    AS campaign_type,
+
+  -- Already DATE in BigQuery
+  CampaignDate                   AS campaign_date,
+
+  CampaignBudget                  AS campaign_budget,
+  TargetAudience                  AS target_audience
+FROM `mobileimpact_a3.campaigns_raw`;

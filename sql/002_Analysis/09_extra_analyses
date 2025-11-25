@@ -1,0 +1,41 @@
+-- 17_high_value_donor_profile.sql
+WITH per_customer AS (
+  SELECT
+    c.customer_id,
+    c.age,
+    c.gender,
+    c.income_level,
+    c.location,
+    IFNULL(trad_revenue, 0)      AS trad_revenue,
+    IFNULL(mobile_revenue, 0)    AS mobile_revenue,
+    IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0) AS total_revenue
+  FROM `mobileimpact_a3.customers_clean` c
+  LEFT JOIN (
+    SELECT customer_id, SUM(donation_amount) AS trad_revenue
+    FROM `mobileimpact_a3.traditional_clean`
+    GROUP BY customer_id
+  ) t USING (customer_id)
+  LEFT JOIN (
+    SELECT customer_id, SUM(inapp_purchase_amount) AS mobile_revenue
+    FROM `mobileimpact_a3.mobile_clean`
+    GROUP BY customer_id
+  ) m USING (customer_id)
+),
+ranked AS (
+  SELECT
+    *,
+    NTILE(10) OVER (ORDER BY total_revenue DESC) AS revenue_decile
+  FROM per_customer
+)
+SELECT
+  gender,
+  income_level,
+  location,
+  COUNT(*)                   AS high_value_customers,
+  AVG(total_revenue)         AS avg_total_revenue,
+  AVG(mobile_revenue)        AS avg_mobile_revenue,
+  AVG(trad_revenue)          AS avg_trad_revenue
+FROM ranked
+WHERE revenue_decile = 1       -- top 10%
+GROUP BY gender, income_level, location
+ORDER BY high_value_customers DESC;

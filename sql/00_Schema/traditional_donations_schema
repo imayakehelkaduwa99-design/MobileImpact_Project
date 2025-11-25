@@ -1,0 +1,13 @@
+-- 02_traditional_donations_schema.sql
+-- Clean table for traditional donation behaviour
+
+CREATE TABLE EXISTS `mobileimpact_a3.traditional_clean` (
+  donation_id        INT64,     -- unique donation record
+  customer_id        INT64,
+  donation_date      DATE,
+  donation_amount    FLOAT64,
+  payment_method     STRING,
+  campaign_source    STRING,    -- e.g. email / tv / radio etc.
+  annual_income      FLOAT64,
+  donation_channel   STRING     -- e.g. online / in-person
+);

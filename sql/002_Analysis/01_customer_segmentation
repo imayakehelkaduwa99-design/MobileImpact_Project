@@ -1,0 +1,56 @@
+-- 04_donor_overlap.sql
+WITH trad AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT
+  COUNTIF(in_trad AND NOT in_mob) AS donors_trad_only,
+  COUNTIF(in_mob AND NOT in_trad) AS donors_mobile_only,
+  COUNTIF(in_trad AND in_mob)     AS donors_both,
+  COUNT(*)                        AS total_customers
+FROM (
+  SELECT
+    c.customer_id,
+    c.customer_id IN (SELECT customer_id FROM trad) AS in_trad,
+    c.customer_id IN (SELECT customer_id FROM mob)  AS in_mob
+  FROM `mobileimpact_a3.customers_clean` c
+);
+
+-- 05_per_customer_value_by_channel.sql
+WITH trad AS (
+  SELECT
+    customer_id,
+    SUM(donation_amount)         AS trad_revenue,
+    COUNT(*)                     AS trad_txn_count,
+    MIN(donation_date)           AS first_trad_date,
+    MAX(donation_date)           AS last_trad_date
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+mob AS (
+  SELECT
+    customer_id,
+    SUM(inapp_purchase_amount)   AS mobile_revenue,
+    COUNT(*)                     AS mobile_txn_count,
+    MIN(last_purchase_date)      AS first_mobile_date,
+    MAX(last_purchase_date)      AS last_mobile_date
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+)
+SELECT
+  c.customer_id,
+  c.gender,
+  c.age,
+  c.income_level,
+  IFNULL(trad_revenue, 0)        AS trad_revenue,
+  IFNULL(trad_txn_count, 0)      AS trad_txn_count,
+  IFNULL(mobile_revenue, 0)      AS mobile_revenue,
+  IFNULL(mobile_txn_count, 0)    AS mobile_txn_count,
+  IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0) AS total_revenue
+FROM `mobileimpact_a3.customers_clean` c
+LEFT JOIN trad USING (customer_id)
+LEFT JOIN mob USING (customer_id);

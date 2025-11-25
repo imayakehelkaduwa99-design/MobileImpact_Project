@@ -1,0 +1,9 @@
+-- CLEAN CAMPAIGN RESPONSES
+CREATE OR REPLACE TABLE `mobileimpact_a3.response_clean` AS
+SELECT
+  CAST(Customer_ID AS INT64)           AS customer_id,
+  CAST(Campaign_ID AS INT64)           AS campaign_id,
+  Response                             AS response,
+  CAST(ClickThroughRate AS FLOAT64)    AS click_through_rate,
+  CAST(EngagementFrequency AS INT64)   AS engagement_frequency
+FROM `mobileimpact_a3.campaign_response_raw`;

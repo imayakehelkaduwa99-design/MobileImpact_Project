@@ -1,5 +1,5 @@
 -- 01_data_cleaning_and_preparation.sql
--- EXACTLY MATCHING YOUR COLUMNS
+
 
 -- CLEAN CUSTOMERS
 CREATE OR REPLACE TABLE mobileimpact_a3.customers_clean AS

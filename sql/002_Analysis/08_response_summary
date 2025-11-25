@@ -1,0 +1,47 @@
+-- 16_campaign_revenue_30day_window.sql
+WITH campaign_window AS (
+  SELECT
+    campaign_id,
+    campaign_type,
+    campaign_date,
+    campaign_budget,
+    DATE_ADD(campaign_date, INTERVAL 30 DAY) AS campaign_end
+  FROM `mobileimpact_a3.campaigns_clean`
+),
+
+trad_attrib AS (
+  SELECT
+    cw.campaign_id,
+    SUM(t.donation_amount) AS trad_revenue_30d
+  FROM campaign_window cw
+  JOIN `mobileimpact_a3.traditional_clean` t
+    ON t.donation_date BETWEEN cw.campaign_date AND cw.campaign_end
+  GROUP BY cw.campaign_id
+),
+
+mob_attrib AS (
+  SELECT
+    cw.campaign_id,
+    SUM(m.inapp_purchase_amount) AS mobile_revenue_30d
+  FROM campaign_window cw
+  JOIN `mobileimpact_a3.mobile_clean` m
+    ON m.last_purchase_date BETWEEN cw.campaign_date AND cw.campaign_end
+  GROUP BY cw.campaign_id
+)
+
+SELECT
+  cw.campaign_id,
+  cw.campaign_type,
+  cw.campaign_date,
+  cw.campaign_budget,
+  IFNULL(trad_revenue_30d, 0)   AS trad_revenue_30d,
+  IFNULL(mobile_revenue_30d, 0) AS mobile_revenue_30d,
+  IFNULL(trad_revenue_30d, 0) + IFNULL(mobile_revenue_30d, 0) AS total_revenue_30d,
+  SAFE_DIVIDE(
+    IFNULL(trad_revenue_30d, 0) + IFNULL(mobile_revenue_30d, 0),
+    cw.campaign_budget
+  ) AS roi_30d
+FROM campaign_window cw
+LEFT JOIN trad_attrib  USING (campaign_id)
+LEFT JOIN mob_attrib   USING (campaign_id)
+ORDER BY roi_30d DESC;

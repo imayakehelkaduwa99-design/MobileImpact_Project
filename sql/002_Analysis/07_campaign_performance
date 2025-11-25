@@ -1,0 +1,27 @@
+-- 15_campaign_response_summary.sql
+CREATE OR REPLACE TABLE `mobileimpact_a3.campaign_response_summary` AS
+SELECT
+  cr.campaign_id,
+  mc.campaign_type,
+  mc.campaign_date,
+  mc.campaign_budget,
+
+  COUNT(*) AS targeted_customers,
+
+  COUNTIF(cr.response = TRUE)  AS responses_yes,
+  COUNTIF(cr.response = FALSE) AS responses_no,
+
+  COUNTIF(cr.response = TRUE) / COUNT(*) AS response_rate,
+
+  AVG(click_through_rate)      AS avg_ctr,
+  AVG(engagement_frequency)     AS avg_engagement
+
+FROM `mobileimpact_a3.response_clean` cr
+LEFT JOIN `mobileimpact_a3.campaigns_clean` mc
+  ON cr.campaign_id = mc.campaign_id
+
+GROUP BY 
+  cr.campaign_id,
+  mc.campaign_type,
+  mc.campaign_date,
+  mc.campaign_budget;

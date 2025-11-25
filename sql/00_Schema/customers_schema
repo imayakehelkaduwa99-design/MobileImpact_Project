@@ -1,0 +1,13 @@
+-- 01_customers_schema.sql
+-- Clean customer master data
+
+CREATE TABLE `mobileimpact_a3.customers_clean` (
+  customer_id    INT64,    -- unique customer identifier
+  age            INT64,
+  gender         STRING,
+  occupation     STRING,
+  income_level   STRING,
+  location       STRING,   -- country / region
+  city           STRING,
+  family_size    INT64
+);

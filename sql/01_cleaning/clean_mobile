@@ -1,0 +1,17 @@
+-- CLEAN MOBILE IN-APP PURCHASES
+CREATE OR REPLACE TABLE `mobileimpact_a3.mobile_clean` AS
+SELECT
+  -- standardise id + types
+  CAST(Customer_ID AS INT64) AS customer_id,
+  Device,
+  GameGenre,
+  CAST(SessionCount AS INT64) AS session_count,
+  CAST(AverageSessionLength AS FLOAT64) AS avg_session_length,
+  SpendingSegment,
+  CAST(InAppPurchaseAmount AS NUMERIC) AS inapp_purchase_amount,
+  CAST(FirstPurchaseDaysAfterInstall AS INT64) AS days_to_first_purchase,
+  PaymentMethod,
+  -- if LastPurchaseDate is already a DATE in BigQuery, DATE() just returns it safely
+  DATE(LastPurchaseDate) AS last_purchase_date
+FROM
+  `mobileimpact_a3.mobile_raw`;

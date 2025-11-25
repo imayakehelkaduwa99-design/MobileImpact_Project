@@ -1,0 +1,55 @@
+-- 06_trad_revenue_by_product_channel.sql
+SELECT
+  product,
+  channel_pay,
+  COUNT(*)                        AS transaction_count,
+  COUNT(DISTINCT customer_id)     AS donors,
+  SUM(donation_amount)            AS total_revenue,
+  AVG(donation_amount)            AS avg_donation
+FROM `mobileimpact_a3.traditional_clean`
+GROUP BY product, channel_pay
+ORDER BY total_revenue DESC;
+
+-- 08_trad_monthly_donation_trend.sql
+SELECT
+  FORMAT_DATE('%Y-%m', donation_date) AS year_month,
+  COUNT(*)                             AS transactions,
+  SUM(donation_amount)                 AS total_revenue
+FROM `mobileimpact_a3.traditional_clean`
+GROUP BY year_month
+ORDER BY year_month;
+
+-- 09_mobile_revenue_by_genre.sql
+SELECT
+  gamegenre                          AS game_genre,
+  COUNT(*)                           AS purchase_count,
+  COUNT(DISTINCT customer_id)        AS payers,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY game_genre
+ORDER BY total_revenue DESC;
+
+-- 10_mobile_device_payment_behaviour.sql
+SELECT
+  device,
+  paymentmethod                      AS payment_method,
+  COUNT(*)                           AS purchase_count,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase,
+  AVG(session_count)                  AS avg_session_count,
+  AVG(avg_session_length)          AS avg_session_length
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY device, payment_method
+ORDER BY total_revenue DESC;
+
+-- 11_mobile_spending_segment.sql
+SELECT
+  spendingsegment                    AS spending_segment,
+  COUNT(DISTINCT customer_id)        AS customers,
+  COUNT(*)                           AS purchase_count,
+  SUM(inapp_purchase_amount)         AS total_revenue,
+  AVG(inapp_purchase_amount)         AS avg_purchase
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY spending_segment
+ORDER BY total_revenue DESC;

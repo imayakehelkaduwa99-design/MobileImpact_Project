@@ -1,0 +1,8 @@
+-- 08_trad_monthly_donation_trend.sql
+SELECT
+  FORMAT_DATE('%Y-%m', donation_date) AS year_month,
+  COUNT(*)                             AS transactions,
+  SUM(donation_amount)                 AS total_revenue
+FROM `mobileimpact_a3.traditional_clean`
+GROUP BY year_month
+ORDER BY year_month;

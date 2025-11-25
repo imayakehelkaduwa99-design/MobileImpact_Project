@@ -1,0 +1,14 @@
+-- 04_marketing_campaigns_schema.sql
+-- Campaign metadata
+
+CREATE TABLE `mobileimpact_a3.campaigns_clean` (
+  campaign_id          INT64,
+  campaign_name        STRING,
+  campaign_type        STRING,     -- e.g. email / push / social / tv etc.
+  campaign_start_date  DATE,
+  campaign_end_date    DATE,
+  campaign_budget      FLOAT64,
+  target_region        STRING,
+  target_age_group     STRING,
+  target_platform      STRING      -- e.g. mobile / desktop / cross-channel
+);

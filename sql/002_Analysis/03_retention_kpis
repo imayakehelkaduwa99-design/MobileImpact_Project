@@ -1,0 +1,58 @@
+-- 07_trad_recurring_vs_oneoff.sql
+WITH donor_txn AS (
+  SELECT
+    customer_id,
+    COUNT(*)                     AS txn_count,
+    SUM(donation_amount)         AS total_donated
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+)
+SELECT
+  IF(txn_count > 1, 'Recurring', 'One-off') AS donor_type,
+  COUNT(*)                                   AS donors,
+  SUM(total_donated)                         AS total_revenue,
+  AVG(total_donated)                         AS avg_revenue_per_donor
+FROM donor_txn
+GROUP BY donor_type;
+
+-- 12_mobile_time_to_first_purchase.sql
+SELECT
+  CASE
+    WHEN days_to_first_purchase <= 1  THEN 'Day 0–1'
+    WHEN days_to_first_purchase <= 7  THEN 'Day 2–7'
+    WHEN days_to_first_purchase <= 30 THEN 'Day 8–30'
+    ELSE 'Day 31+'
+  END                                       AS first_purchase_bucket,
+  COUNT(DISTINCT customer_id)               AS customers,
+  SUM(inapp_purchase_amount)                AS revenue
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY first_purchase_bucket
+ORDER BY first_purchase_bucket;
+
+-- 18_at_risk_donors.sql
+WITH last_trad AS (
+  SELECT customer_id, MAX(donation_date)       AS last_trad_date
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+last_mob AS (
+  SELECT customer_id, MAX(last_purchase_date)  AS last_mobile_date
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+),
+combined AS (
+  SELECT
+    c.customer_id,
+    c.gender,
+    c.income_level,
+    c.location,
+    GREATEST(IFNULL(last_trad_date, DATE '1900-01-01'),
+             IFNULL(last_mobile_date, DATE '1900-01-01')) AS last_activity_date
+  FROM `mobileimpact_a3.customers_clean` c
+  LEFT JOIN last_trad USING (customer_id)
+  LEFT JOIN last_mob  USING (customer_id)
+)
+SELECT *
+FROM combined
+WHERE last_activity_date < DATE_SUB(CURRENT_DATE(), INTERVAL 6 MONTH)
+ORDER BY last_activity_date;

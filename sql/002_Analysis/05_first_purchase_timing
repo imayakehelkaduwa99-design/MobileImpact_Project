@@ -1,0 +1,13 @@
+-- 12_mobile_time_to_first_purchase.sql
+SELECT
+  CASE
+    WHEN days_to_first_purchase <= 1  THEN 'Day 0–1'
+    WHEN days_to_first_purchase <= 7  THEN 'Day 2–7'
+    WHEN days_to_first_purchase <= 30 THEN 'Day 8–30'
+    ELSE 'Day 31+'
+  END                                       AS first_purchase_bucket,
+  COUNT(DISTINCT customer_id)               AS customers,
+  SUM(inapp_purchase_amount)                AS revenue
+FROM `mobileimpact_a3.mobile_clean`
+GROUP BY first_purchase_bucket
+ORDER BY first_purchase_bucket;

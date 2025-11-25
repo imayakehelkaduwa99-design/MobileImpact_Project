@@ -1,0 +1,48 @@
+-- 13_channel_usage_by_demographics.sql
+WITH trad AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.traditional_clean`
+),
+mob AS (
+  SELECT DISTINCT customer_id
+  FROM `mobileimpact_a3.mobile_clean`
+)
+SELECT
+  c.gender,
+  c.income_level,
+  c.location,
+  COUNT(*)                                                  AS customers,
+  COUNTIF(c.customer_id IN (SELECT customer_id FROM trad))  AS trad_customers,
+  COUNTIF(c.customer_id IN (SELECT customer_id FROM mob))   AS mobile_customers,
+  COUNTIF(
+    c.customer_id IN (SELECT customer_id FROM trad)
+    AND c.customer_id IN (SELECT customer_id FROM mob)
+  )                                                         AS both_channels
+FROM `mobileimpact_a3.customers_clean` c
+GROUP BY gender, income_level, location
+ORDER BY customers DESC;
+
+-- 14_revenue_by_gender_channel.sql
+WITH trad AS (
+  SELECT
+    customer_id,
+    SUM(donation_amount) AS trad_revenue
+  FROM `mobileimpact_a3.traditional_clean`
+  GROUP BY customer_id
+),
+mob AS (
+  SELECT
+    customer_id,
+    SUM(inapp_purchase_amount) AS mobile_revenue
+  FROM `mobileimpact_a3.mobile_clean`
+  GROUP BY customer_id
+)
+SELECT
+  c.gender,
+  SUM(IFNULL(trad_revenue, 0))        AS trad_revenue,
+  SUM(IFNULL(mobile_revenue, 0))      AS mobile_revenue,
+  SUM(IFNULL(trad_revenue, 0) + IFNULL(mobile_revenue, 0)) AS total_revenue
+FROM `mobileimpact_a3.customers_clean` c
+LEFT JOIN trad USING (customer_id)
+LEFT JOIN mob USING (customer_id)
+GROUP BY gender;

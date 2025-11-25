@@ -1,0 +1,10 @@
+-- 05_campaign_response_schema.sql
+-- Customer-level response and engagement to campaigns
+
+CREATE TABLE `mobileimpact_a3.response_clean` (
+  customer_id            INT64,
+  campaign_id            INT64,
+  response               BOOL,      -- TRUE = responded / donated / purchased
+  click_through_rate     FLOAT64,   -- CTR for this customer-campaign pair
+  engagement_frequency   INT64      -- frequency score or interaction count
+);

@@ -1,0 +1,15 @@
+-- 03_mobile_purchases_schema.sql
+-- Clean table for mobile in-app purchase behaviour
+
+CREATE TABLE `mobileimpact_a3.mobile_clean` (
+  purchase_id              INT64,     -- unique in-app purchase
+  customer_id              INT64,
+  purchase_date            DATE,
+  game_level               STRING,
+  item_type                STRING,
+  inapp_purchase_amount    FLOAT64,
+  discount_applied         FLOAT64,   -- discount percentage or amount (as per dataset)
+  device_type              STRING,    -- e.g. iOS / Android / Tablet
+  platform                 STRING,    -- app store / play store etc.
+  region                   STRING
+);

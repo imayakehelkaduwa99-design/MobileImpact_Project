@@ -1,0 +1,75 @@
+campaign_id,campaign_type,campaign_date,campaign_budget,target_audience
+50,Direct Mail,2024-12-10,734.18,High Value Donors
+39,Direct Mail,2024-09-24,549.25,High Value Donors
+2,Direct Mail,2025-01-08,637.48,High Value Donors
+1,Direct Mail,2025-01-01,300.6,High Value Donors
+29,Direct Mail,2025-07-16,290.22,High Value Donors
+49,Direct Mail,2024-12-03,556.04,High Value Donors
+56,Email,2024-01-21,606.09,High Value Donors
+51,Email,2024-12-17,761.81,High Value Donors
+33,Email,2025-08-13,289.42,High Value Donors
+66,Email,2024-03-31,432.12,High Value Donors
+45,Email,2024-11-05,707.36,High Value Donors
+26,Email,2025-06-25,270.96,High Value Donors
+25,Email,2025-06-18,823.47,High Value Donors
+74,SMS,2024-05-26,438.24,High Value Donors
+4,SMS,2025-01-22,915.48,High Value Donors
+63,SMS,2024-03-10,386.24,High Value Donors
+28,SMS,2025-07-09,387.17,High Value Donors
+54,SMS,2024-01-07,866.13,High Value Donors
+69,SMS,2024-04-21,729.14,High Value Donors
+21,SMS,2025-05-21,812.07,High Value Donors
+17,SMS,2025-04-23,114.98,High Value Donors
+20,SMS,2025-05-14,940.56,High Value Donors
+13,SMS,2025-03-26,362.42,High Value Donors
+64,SMS,2024-03-17,569.64,High Value Donors
+73,Social Media,2024-05-19,640.12,High Value Donors
+38,Social Media,2024-09-17,291.49,High Value Donors
+11,Social Media,2025-03-12,995.3,High Value Donors
+65,Social Media,2024-03-24,441.36,High Value Donors
+68,Social Media,2024-04-14,603.13,High Value Donors
+47,Social Media,2024-11-19,796.9,High Value Donors
+23,Direct Mail,2025-06-04,415.47,New Donors
+32,Direct Mail,2025-08-06,984.85,New Donors
+36,Direct Mail,2024-09-03,811.06,New Donors
+27,Email,2025-07-02,184.68,New Donors
+9,Email,2025-02-26,984.5,New Donors
+12,SMS,2025-03-19,784.27,New Donors
+6,SMS,2025-02-05,111.15,New Donors
+7,SMS,2025-02-12,979.93,New Donors
+57,SMS,2024-01-28,620.84,New Donors
+5,SMS,2025-01-29,800.66,New Donors
+61,SMS,2024-02-25,912.27,New Donors
+24,Social Media,2025-06-11,771.18,New Donors
+37,Social Media,2024-09-10,119.91,New Donors
+15,Social Media,2025-04-09,197.71,New Donors
+67,Social Media,2024-04-07,872.37,New Donors
+62,Social Media,2024-03-03,296.33,New Donors
+22,Social Media,2025-05-28,692.03,New Donors
+43,Social Media,2024-10-22,230.79,New Donors
+3,Direct Mail,2025-01-15,999.87,Returning Donors
+52,Direct Mail,2024-12-24,613.51,Returning Donors
+46,Direct Mail,2024-11-12,559.64,Returning Donors
+16,Direct Mail,2025-04-16,417.57,Returning Donors
+40,Direct Mail,2024-10-01,512.01,Returning Donors
+31,Direct Mail,2025-07-30,754.73,Returning Donors
+59,Direct Mail,2024-02-11,260.3,Returning Donors
+19,Email,2025-05-07,685.99,Returning Donors
+14,Email,2025-04-02,704.38,Returning Donors
+58,Email,2024-02-04,538.22,Returning Donors
+41,Email,2024-10-08,378.51,Returning Donors
+70,SMS,2024-04-28,526.17,Returning Donors
+55,SMS,2024-01-14,753.42,Returning Donors
+42,SMS,2024-10-15,650.54,Returning Donors
+35,SMS,2024-08-27,587.85,Returning Donors
+48,SMS,2024-11-26,663.7,Returning Donors
+71,SMS,2024-05-05,333.73,Returning Donors
+44,Social Media,2024-10-29,277.61,Returning Donors
+53,Social Media,2024-12-31,457.04,Returning Donors
+10,Social Media,2025-03-05,708.19,Returning Donors
+18,Social Media,2025-04-30,919.76,Returning Donors
+72,Social Media,2024-05-12,270.6,Returning Donors
+8,Social Media,2025-02-19,685.01,Returning Donors
+30,Social Media,2025-07-23,958.6,Returning Donors
+34,Social Media,2025-08-20,332.8,Returning Donors
+60,Social Media,2024-02-18,522.67,Returning Donors

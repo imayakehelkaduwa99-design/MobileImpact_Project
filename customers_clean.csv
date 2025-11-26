@@ -1,0 +1,1001 @@
+customer_id,age,gender,occupation,income_level,location,city,family_size
+7480404,28,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+4287304,35,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+7719404,46,Female,Clerical Worker,Medium,South Australia,Adelaide,3
+7386404,55,Unknown,Clerical Worker,Medium,South Australia,Adelaide,2
+2584504,61,Unknown,Clerical Worker,Medium,South Australia,Adelaide,4
+56504,29,Unknown,Clerical Worker,Medium,South Australia,Adelaide,4
+7344804,32,Unknown,Clerical Worker,Medium,South Australia,Adelaide,5
+2552894,28,Unknown,Clerical Worker,Medium,South Australia,Adelaide,6
+1337794,58,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+2477194,46,Unknown,Clerical Worker,Medium,South Australia,Adelaide,5
+6911304,36,Unknown,Clerical Worker,Medium,South Australia,Adelaide,6
+1762504,58,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+6670304,45,Unknown,Clerical Worker,Medium,South Australia,Adelaide,3
+4664504,43,Unknown,Clerical Worker,Medium,South Australia,Adelaide,6
+3603404,33,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+7404204,45,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+8164904,35,Unknown,Clerical Worker,Medium,South Australia,Adelaide,4
+4085404,25,Unknown,Clerical Worker,Medium,South Australia,Adelaide,5
+9461904,21,Unknown,Clerical Worker,Medium,South Australia,Adelaide,2
+7242904,41,Unknown,Clerical Worker,Medium,South Australia,Adelaide,5
+2045794,26,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+5121804,32,Unknown,Clerical Worker,Medium,South Australia,Adelaide,6
+1531804,38,Unknown,Clerical Worker,Medium,South Australia,Adelaide,4
+265194,21,Unknown,Clerical Worker,Medium,South Australia,Adelaide,1
+5505204,60,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,2
+2322704,30,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,2
+6395704,25,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,6
+7849894,81,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,5
+8359194,34,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,3
+8157804,20,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,5
+2027304,45,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,4
+6807894,28,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,4
+6569004,38,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,2
+7970794,80,Female,Clerical Worker,Medium,Northern Territory,Alice Springs,3
+4012704,61,Male,Clerical Worker,Medium,Northern Territory,Alice Springs,1
+3063004,31,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,6
+7926804,50,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,6
+9395694,34,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,3
+6819504,29,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,4
+3292404,32,Unknown,Clerical Worker,Medium,Northern Territory,Alice Springs,5
+9204104,32,Unknown,Clerical Worker,Medium,Victoria,Ballarat,2
+2562004,28,Unknown,Clerical Worker,Medium,Victoria,Ballarat,1
+5475194,36,Unknown,Clerical Worker,Medium,Victoria,Ballarat,2
+9835994,61,Unknown,Clerical Worker,Medium,Victoria,Ballarat,5
+6593894,20,Unknown,Clerical Worker,Medium,Victoria,Ballarat,4
+1239804,40,Unknown,Clerical Worker,Medium,Victoria,Ballarat,3
+2357704,28,Unknown,Clerical Worker,Medium,Victoria,Ballarat,3
+451894,33,Unknown,Clerical Worker,Medium,Victoria,Ballarat,4
+7252804,26,Female,Clerical Worker,Medium,Victoria,Ballarat,5
+2779894,24,Unknown,Clerical Worker,Medium,Victoria,Ballarat,5
+9242504,37,Unknown,Clerical Worker,Medium,Queensland,Brisbane,1
+1956194,31,Unknown,Clerical Worker,Medium,Queensland,Brisbane,5
+735304,32,Unknown,Clerical Worker,Medium,Queensland,Brisbane,3
+393994,53,Unknown,Clerical Worker,Medium,Queensland,Brisbane,6
+2838804,33,Unknown,Clerical Worker,Medium,Queensland,Brisbane,4
+3355404,29,Unknown,Clerical Worker,Medium,Queensland,Brisbane,5
+5264904,52,Unknown,Clerical Worker,Medium,Queensland,Brisbane,5
+1231104,37,Unknown,Clerical Worker,Medium,Queensland,Brisbane,6
+8646504,48,Unknown,Clerical Worker,Medium,Queensland,Brisbane,4
+4592994,27,Unknown,Clerical Worker,Medium,Queensland,Brisbane,3
+942094,53,Unknown,Clerical Worker,Medium,Queensland,Brisbane,1
+3522404,42,Unknown,Clerical Worker,Medium,Queensland,Brisbane,6
+1671004,40,Unknown,Clerical Worker,Medium,Queensland,Brisbane,3
+5795404,22,Unknown,Clerical Worker,Medium,Queensland,Brisbane,1
+9295794,38,Unknown,Clerical Worker,Medium,Queensland,Brisbane,1
+488304,42,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,4
+2801994,69,Male,Clerical Worker,Medium,Western Australia,Bunbury,6
+3255304,21,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+5884504,27,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,2
+5135304,39,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,2
+3645304,24,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,5
+5757304,61,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,4
+3488704,27,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+4102804,27,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,6
+4540804,34,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+4501804,44,Male,Clerical Worker,Medium,Western Australia,Bunbury,1
+5686404,21,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+9045994,54,Female,Clerical Worker,Medium,Western Australia,Bunbury,3
+768504,59,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,5
+9815104,21,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+8375894,54,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,5
+6232704,32,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,4
+3067204,25,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+2324704,35,Unknown,Clerical Worker,Medium,Western Australia,Bunbury,1
+5511704,23,Male,Clerical Worker,Medium,Western Australia,Bunbury,4
+1494104,27,Unknown,Clerical Worker,Medium,Queensland,Cairns,6
+4174804,29,Unknown,Clerical Worker,Medium,Queensland,Cairns,4
+266004,26,Unknown,Clerical Worker,Medium,Queensland,Cairns,1
+6174304,22,Unknown,Clerical Worker,Medium,Queensland,Cairns,4
+2929304,21,Unknown,Clerical Worker,Medium,Queensland,Cairns,4
+637304,49,Unknown,Clerical Worker,Medium,Queensland,Cairns,1
+3325104,24,Unknown,Clerical Worker,Medium,Queensland,Cairns,5
+6630804,38,Unknown,Clerical Worker,Medium,Queensland,Cairns,5
+5361504,51,Unknown,Clerical Worker,Medium,Queensland,Cairns,3
+6001604,26,Unknown,Clerical Worker,Medium,Queensland,Cairns,5
+62904,67,Unknown,Clerical Worker,Medium,Queensland,Cairns,4
+4593994,41,Unknown,Clerical Worker,Medium,Queensland,Cairns,6
+7005404,27,Unknown,Clerical Worker,Medium,Queensland,Cairns,3
+6894204,27,Unknown,Clerical Worker,Medium,Queensland,Cairns,3
+605804,20,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+5222104,42,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+3396704,26,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+1758094,27,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+9015894,65,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+2811094,37,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+5122104,38,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+4132804,27,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+8853504,26,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+2221094,24,Female,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+3914894,41,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+7045404,27,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,6
+4461894,28,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,6
+2090004,57,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+4601704,21,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+5012404,53,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+7456194,44,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+8596304,23,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+5101104,38,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+4954304,29,Female,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+5366094,33,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+7792404,38,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+925104,38,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+216804,27,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+1982994,28,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+9856504,29,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+1861204,32,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+4698004,26,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+4801804,75,Female,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+5151804,82,Male,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+304204,21,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+3057794,28,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,4
+8107694,32,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+8809994,35,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+582604,69,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,6
+6105804,25,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+1133504,31,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+2262504,36,Female,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+3685694,72,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+1123804,38,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,1
+4586794,78,Male,Clerical Worker,Medium,Australian Capital Territory,Canberra,3
+5322404,40,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,6
+5664504,41,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,2
+6374504,72,Unknown,Clerical Worker,Medium,Australian Capital Territory,Canberra,5
+4347304,34,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,1
+6242994,21,Male,Clerical Worker,Medium,Northern Territory,Darwin,2
+6919404,54,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,5
+1694404,39,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,4
+5810804,34,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,1
+1079104,59,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,2
+8922104,31,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,6
+1178704,37,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,2
+9073704,49,Male,Clerical Worker,Medium,Northern Territory,Darwin,4
+9573504,28,Male,Clerical Worker,Medium,Northern Territory,Darwin,1
+1523894,27,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,4
+7209994,32,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,2
+8483994,20,Unknown,Clerical Worker,Medium,Northern Territory,Darwin,3
+5049894,61,Female,Clerical Worker,Medium,Northern Territory,Darwin,4
+6596604,37,Unknown,Clerical Worker,Medium,Tasmania,Devonport,1
+824604,28,Unknown,Clerical Worker,Medium,Tasmania,Devonport,4
+106694,28,Unknown,Clerical Worker,Medium,Tasmania,Devonport,4
+9159004,31,Unknown,Clerical Worker,Medium,Tasmania,Devonport,2
+6554804,24,Unknown,Clerical Worker,Medium,Tasmania,Devonport,5
+6709404,38,Unknown,Clerical Worker,Medium,Tasmania,Devonport,3
+2095404,35,Unknown,Clerical Worker,Medium,Tasmania,Devonport,5
+5534404,72,Female,Clerical Worker,Medium,Tasmania,Devonport,4
+2312404,77,Unknown,Clerical Worker,Medium,Tasmania,Devonport,1
+6644804,39,Unknown,Clerical Worker,Medium,Tasmania,Devonport,1
+587704,31,Unknown,Clerical Worker,Medium,Tasmania,Devonport,4
+8149194,65,Unknown,Clerical Worker,Medium,Tasmania,Devonport,4
+3824404,20,Unknown,Clerical Worker,Medium,Tasmania,Devonport,2
+5900304,66,Male,Clerical Worker,Medium,Tasmania,Devonport,3
+9442094,33,Unknown,Clerical Worker,Medium,Tasmania,Devonport,4
+4656104,45,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,2
+4656404,70,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+7647094,77,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+1119004,39,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,2
+4417804,33,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,5
+5421794,26,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,5
+2067194,29,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+2127904,27,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+8309004,55,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,3
+1149094,23,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,2
+8705804,22,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+9654304,27,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,5
+3396404,50,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,4
+4820304,31,Female,Clerical Worker,Medium,Western Australia,Fremantle,4
+3609904,33,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,3
+687404,62,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,6
+733894,34,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,2
+8669104,27,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,6
+4164504,22,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,3
+8038404,56,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,1
+870004,27,Unknown,Clerical Worker,Medium,Western Australia,Fremantle,2
+9936404,22,Unknown,Clerical Worker,Medium,Victoria,Geelong,1
+8144894,28,Unknown,Clerical Worker,Medium,Victoria,Geelong,1
+2233504,19,Unknown,Clerical Worker,Medium,Victoria,Geelong,6
+2397004,28,Unknown,Clerical Worker,Medium,Victoria,Geelong,1
+3644004,45,Unknown,Clerical Worker,Medium,Victoria,Geelong,5
+2411804,36,Unknown,Clerical Worker,Medium,Victoria,Geelong,5
+737004,38,Unknown,Clerical Worker,Medium,Victoria,Geelong,1
+3456404,39,Unknown,Clerical Worker,Medium,Victoria,Geelong,6
+6636404,65,Unknown,Clerical Worker,Medium,Victoria,Geelong,2
+1948804,19,Unknown,Clerical Worker,Medium,Victoria,Geelong,5
+6162904,42,Unknown,Clerical Worker,Medium,Victoria,Geelong,5
+2831604,28,Unknown,Clerical Worker,Medium,Victoria,Geelong,5
+9017904,59,Unknown,Clerical Worker,Medium,Victoria,Geelong,6
+5143994,38,Unknown,Clerical Worker,Medium,Victoria,Geelong,4
+8126304,21,Unknown,Clerical Worker,Medium,Victoria,Geelong,1
+8947004,59,Unknown,Clerical Worker,Medium,Victoria,Geelong,4
+9159894,28,Male,Clerical Worker,Medium,Queensland,Gold Coast,6
+562804,81,Female,Clerical Worker,Medium,Queensland,Gold Coast,5
+3391194,27,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,1
+1875504,23,Male,Clerical Worker,Medium,Queensland,Gold Coast,6
+3047004,48,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,1
+151804,42,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,4
+2103994,76,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,6
+9030504,79,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,6
+1677194,20,Female,Clerical Worker,Medium,Queensland,Gold Coast,2
+7694404,37,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,5
+3174304,68,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,5
+8319004,27,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,3
+612404,47,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,2
+6183404,24,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,5
+7119994,66,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,2
+2912094,27,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,3
+4724604,35,Unknown,Clerical Worker,Medium,Queensland,Gold Coast,6
+7955794,26,Female,Clerical Worker,Medium,Tasmania,Hobart,5
+9777194,29,Unknown,Clerical Worker,Medium,Tasmania,Hobart,5
+152994,25,Unknown,Clerical Worker,Medium,Tasmania,Hobart,1
+5018004,25,Unknown,Clerical Worker,Medium,Tasmania,Hobart,2
+760004,25,Unknown,Clerical Worker,Medium,Tasmania,Hobart,4
+6904204,36,Unknown,Clerical Worker,Medium,Tasmania,Hobart,2
+1334804,31,Unknown,Clerical Worker,Medium,Tasmania,Hobart,3
+288694,29,Unknown,Clerical Worker,Medium,Tasmania,Hobart,1
+3056104,22,Female,Clerical Worker,Medium,Tasmania,Hobart,2
+3900894,40,Unknown,Clerical Worker,Medium,Tasmania,Hobart,1
+5786104,34,Unknown,Clerical Worker,Medium,Tasmania,Hobart,2
+8071504,31,Unknown,Clerical Worker,Medium,Tasmania,Hobart,2
+4093404,31,Unknown,Clerical Worker,Medium,Tasmania,Hobart,6
+9290094,22,Unknown,Clerical Worker,Medium,Tasmania,Hobart,1
+4547004,61,Unknown,Clerical Worker,Medium,Tasmania,Hobart,5
+3604504,41,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,4
+7220304,24,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,4
+8432094,78,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,3
+3322404,47,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,1
+2171504,73,Female,Clerical Worker,Medium,Northern Territory,Katherine,1
+5363304,30,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,4
+6037894,34,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,4
+5962604,34,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,5
+7996194,62,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,6
+4107804,45,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,3
+2501704,19,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,6
+870604,28,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,2
+8471804,30,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,2
+8309104,20,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,3
+3116804,48,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,6
+2381704,27,Unknown,Clerical Worker,Medium,Northern Territory,Katherine,6
+292404,46,Unknown,Clerical Worker,Medium,Tasmania,Launceston,6
+3773904,37,Unknown,Clerical Worker,Medium,Tasmania,Launceston,6
+8816804,25,Unknown,Clerical Worker,Medium,Tasmania,Launceston,6
+8871404,38,Unknown,Clerical Worker,Medium,Tasmania,Launceston,6
+3810504,45,Unknown,Clerical Worker,Medium,Tasmania,Launceston,4
+6860804,19,Unknown,Clerical Worker,Medium,Tasmania,Launceston,4
+6084504,75,Unknown,Clerical Worker,Medium,Tasmania,Launceston,4
+8146004,27,Unknown,Clerical Worker,Medium,Tasmania,Launceston,6
+5129504,31,Unknown,Clerical Worker,Medium,Tasmania,Launceston,1
+6262894,24,Unknown,Clerical Worker,Medium,Tasmania,Launceston,4
+3549894,77,Unknown,Clerical Worker,Medium,Tasmania,Launceston,3
+8807804,31,Unknown,Clerical Worker,Medium,Tasmania,Launceston,5
+2115804,25,Unknown,Clerical Worker,Medium,Victoria,Melbourne,3
+6021604,37,Male,Clerical Worker,Medium,Victoria,Melbourne,5
+7804,59,Unknown,Clerical Worker,Medium,Victoria,Melbourne,3
+5293204,39,Unknown,Clerical Worker,Medium,Victoria,Melbourne,2
+5722304,52,Unknown,Clerical Worker,Medium,Victoria,Melbourne,3
+3863194,66,Unknown,Clerical Worker,Medium,Victoria,Melbourne,2
+6221704,20,Unknown,Clerical Worker,Medium,Victoria,Melbourne,4
+5486404,49,Unknown,Clerical Worker,Medium,Victoria,Melbourne,1
+3286894,30,Unknown,Clerical Worker,Medium,Victoria,Melbourne,4
+4975404,35,Unknown,Clerical Worker,Medium,Victoria,Melbourne,4
+1598004,57,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,6
+2442094,27,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,6
+3254004,48,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,4
+4403404,46,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,2
+9574504,20,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,1
+3612704,35,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,6
+2890804,36,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,1
+5559404,42,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,3
+9436204,38,Unknown,Clerical Worker,Medium,South Australia,Mount Gambier,2
+2958804,58,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,5
+5991704,21,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,5
+9653304,33,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,6
+5736404,35,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,2
+2254904,27,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,1
+9591704,36,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,2
+4381304,53,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,6
+9565694,72,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,6
+49094,21,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,5
+4195504,28,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,6
+4106404,45,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,3
+5346504,31,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,2
+900604,23,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,2
+4526404,38,Unknown,Clerical Worker,Medium,New South Wales,Newcastle,5
+9370004,31,Unknown,Clerical Worker,Medium,Western Australia,Perth,5
+9061704,23,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+8938804,20,Unknown,Clerical Worker,Medium,Western Australia,Perth,1
+4373704,34,Unknown,Clerical Worker,Medium,Western Australia,Perth,6
+3989704,53,Unknown,Clerical Worker,Medium,Western Australia,Perth,3
+7573404,55,Unknown,Clerical Worker,Medium,Western Australia,Perth,6
+6787604,37,Male,Clerical Worker,Medium,Western Australia,Perth,4
+4721794,28,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+5019404,27,Unknown,Clerical Worker,Medium,Western Australia,Perth,6
+4985504,27,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+3190604,29,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+7773804,28,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+456104,47,Unknown,Clerical Worker,Medium,Western Australia,Perth,1
+3586304,42,Unknown,Clerical Worker,Medium,Western Australia,Perth,6
+3405894,33,Unknown,Clerical Worker,Medium,Western Australia,Perth,5
+8231904,52,Unknown,Clerical Worker,Medium,Western Australia,Perth,5
+9191704,44,Unknown,Clerical Worker,Medium,Western Australia,Perth,3
+9688704,64,Unknown,Clerical Worker,Medium,Western Australia,Perth,5
+2843094,30,Unknown,Clerical Worker,Medium,Western Australia,Perth,5
+9272504,21,Unknown,Clerical Worker,Medium,Western Australia,Perth,4
+9083504,60,Male,Clerical Worker,Medium,Western Australia,Perth,2
+7888704,21,Unknown,Clerical Worker,Medium,Western Australia,Perth,4
+6862994,56,Unknown,Clerical Worker,Medium,Western Australia,Perth,2
+3520804,46,Unknown,Clerical Worker,Medium,Western Australia,Perth,3
+3029504,42,Unknown,Clerical Worker,Medium,New South Wales,Sydney,2
+5726304,40,Unknown,Clerical Worker,Medium,New South Wales,Sydney,3
+6877404,39,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+2545994,45,Female,Clerical Worker,Medium,New South Wales,Sydney,2
+3557704,30,Unknown,Clerical Worker,Medium,New South Wales,Sydney,5
+8977404,47,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+7744504,39,Unknown,Clerical Worker,Medium,New South Wales,Sydney,5
+9563004,27,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+1132094,49,Unknown,Clerical Worker,Medium,New South Wales,Sydney,1
+2047004,22,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+3967994,58,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+1455894,47,Unknown,Clerical Worker,Medium,New South Wales,Sydney,5
+4847004,36,Unknown,Clerical Worker,Medium,New South Wales,Sydney,1
+1171504,31,Unknown,Clerical Worker,Medium,New South Wales,Sydney,6
+490094,67,Female,Clerical Worker,Medium,South Australia,Whyalla,2
+3835994,79,Unknown,Clerical Worker,Medium,South Australia,Whyalla,4
+1342404,33,Unknown,Clerical Worker,Medium,South Australia,Whyalla,4
+3110504,45,Unknown,Clerical Worker,Medium,South Australia,Whyalla,2
+9862894,38,Unknown,Clerical Worker,Medium,South Australia,Whyalla,1
+6790404,44,Unknown,Clerical Worker,Medium,South Australia,Whyalla,6
+8845404,39,Unknown,Clerical Worker,Medium,South Australia,Whyalla,5
+5947794,63,Unknown,Clerical Worker,Medium,South Australia,Whyalla,5
+6864304,23,Unknown,Clerical Worker,Medium,South Australia,Whyalla,4
+1724404,46,Unknown,Clerical Worker,Medium,South Australia,Whyalla,5
+2708404,26,Unknown,Clerical Worker,Medium,South Australia,Whyalla,2
+2806804,27,Unknown,Clerical Worker,Medium,South Australia,Whyalla,5
+6118704,27,Female,Clerical Worker,Medium,South Australia,Whyalla,3
+2358894,40,Unknown,Clerical Worker,Medium,South Australia,Whyalla,6
+9560104,40,Unknown,Clerical Worker,Medium,South Australia,Whyalla,6
+1108004,28,Unknown,Clerical Worker,Medium,South Australia,Whyalla,2
+3337304,30,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,2
+3867604,31,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,1
+2195694,30,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,3
+2366094,34,Female,Clerical Worker,Medium,New South Wales,Wollongong,1
+4750104,26,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,1
+856004,41,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,4
+2243504,54,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,4
+8919304,35,Female,Clerical Worker,Medium,New South Wales,Wollongong,3
+5361204,22,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,5
+4647704,34,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,2
+606094,24,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,5
+6374304,26,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,4
+3374804,33,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,2
+3812804,48,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,6
+1024604,70,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,2
+5671904,22,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,5
+4721904,21,Unknown,Clerical Worker,Medium,New South Wales,Wollongong,3
+365894,81,Unknown,Community Worker,Medium,South Australia,Adelaide,2
+504204,75,Unknown,Community Worker,Medium,South Australia,Adelaide,5
+1947794,36,Unknown,Community Worker,Medium,South Australia,Adelaide,1
+2722404,78,Unknown,Community Worker,Medium,South Australia,Adelaide,5
+6337894,54,Unknown,Community Worker,Medium,South Australia,Adelaide,4
+6984894,75,Unknown,Community Worker,Medium,South Australia,Adelaide,5
+4516404,46,Unknown,Community Worker,Medium,South Australia,Adelaide,4
+3333504,23,Unknown,Community Worker,Medium,South Australia,Adelaide,4
+3166094,42,Unknown,Community Worker,Medium,South Australia,Adelaide,5
+9409404,35,Unknown,Community Worker,Medium,South Australia,Adelaide,1
+3633804,22,Unknown,Community Worker,Medium,South Australia,Adelaide,6
+9417204,29,Unknown,Community Worker,Medium,South Australia,Adelaide,2
+9787104,61,Unknown,Community Worker,Medium,South Australia,Adelaide,1
+2288304,23,Male,Community Worker,Medium,South Australia,Adelaide,3
+1264804,21,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,5
+4482504,29,Male,Community Worker,Medium,Northern Territory,Alice Springs,2
+6468704,29,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,2
+7820794,64,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,4
+5234194,38,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,3
+2174904,25,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,2
+7787504,24,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,6
+9983994,42,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,2
+2393404,45,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,2
+6043404,50,Unknown,Community Worker,Medium,Northern Territory,Alice Springs,4
+3933504,49,Unknown,Community Worker,Medium,Victoria,Ballarat,6
+7782304,43,Unknown,Community Worker,Medium,Victoria,Ballarat,3
+9583194,58,Unknown,Community Worker,Medium,Victoria,Ballarat,3
+4313994,85,Unknown,Community Worker,Medium,Victoria,Ballarat,3
+8692504,26,Unknown,Community Worker,Medium,Victoria,Ballarat,5
+4752194,40,Unknown,Community Worker,Medium,Victoria,Ballarat,3
+2122704,29,Unknown,Community Worker,Medium,Victoria,Ballarat,3
+7619804,56,Unknown,Community Worker,Medium,Victoria,Ballarat,5
+8357704,28,Unknown,Community Worker,Medium,Victoria,Ballarat,5
+7888504,27,Unknown,Community Worker,Medium,Victoria,Ballarat,4
+6869894,59,Unknown,Community Worker,Medium,Victoria,Ballarat,2
+6524604,37,Unknown,Community Worker,Medium,Victoria,Ballarat,2
+6215804,38,Female,Community Worker,Medium,Victoria,Ballarat,5
+4347794,31,Unknown,Community Worker,Medium,Victoria,Ballarat,4
+5844504,38,Male,Community Worker,Medium,Victoria,Ballarat,5
+9456194,19,Unknown,Community Worker,Medium,Victoria,Ballarat,4
+5204504,28,Male,Community Worker,Medium,Victoria,Ballarat,5
+736194,29,Unknown,Community Worker,Medium,Queensland,Brisbane,3
+3374504,32,Unknown,Community Worker,Medium,Queensland,Brisbane,6
+4770304,76,Unknown,Community Worker,Medium,Queensland,Brisbane,3
+8314204,26,Unknown,Community Worker,Medium,Queensland,Brisbane,5
+2987104,22,Unknown,Community Worker,Medium,Queensland,Brisbane,1
+3542004,40,Unknown,Community Worker,Medium,Queensland,Brisbane,6
+9446904,20,Unknown,Community Worker,Medium,Queensland,Brisbane,4
+8247104,29,Unknown,Community Worker,Medium,Queensland,Brisbane,3
+8455194,20,Unknown,Community Worker,Medium,Queensland,Brisbane,1
+2466094,45,Unknown,Community Worker,Medium,Queensland,Brisbane,5
+2021704,43,Female,Community Worker,Medium,Queensland,Brisbane,4
+6991194,45,Unknown,Community Worker,Medium,Queensland,Brisbane,3
+493994,62,Unknown,Community Worker,Medium,Queensland,Brisbane,2
+5418194,44,Unknown,Community Worker,Medium,Western Australia,Bunbury,5
+9947304,44,Unknown,Community Worker,Medium,Western Australia,Bunbury,1
+424894,29,Male,Community Worker,Medium,Western Australia,Bunbury,1
+3293204,51,Unknown,Community Worker,Medium,Western Australia,Bunbury,2
+8970404,61,Unknown,Community Worker,Medium,Western Australia,Bunbury,4
+3594404,32,Unknown,Community Worker,Medium,Western Australia,Bunbury,4
+154004,26,Unknown,Community Worker,Medium,Western Australia,Bunbury,5
+9661894,61,Unknown,Community Worker,Medium,Western Australia,Bunbury,4
+8937704,40,Unknown,Community Worker,Medium,Western Australia,Bunbury,6
+5772604,50,Male,Community Worker,Medium,Western Australia,Bunbury,6
+7743804,55,Unknown,Community Worker,Medium,Western Australia,Bunbury,2
+3127004,31,Unknown,Community Worker,Medium,Western Australia,Bunbury,1
+5236804,26,Unknown,Community Worker,Medium,Queensland,Cairns,6
+9219994,41,Female,Community Worker,Medium,Queensland,Cairns,1
+8141504,26,Unknown,Community Worker,Medium,Queensland,Cairns,4
+1401094,33,Unknown,Community Worker,Medium,Queensland,Cairns,1
+699794,21,Unknown,Community Worker,Medium,Queensland,Cairns,4
+4911094,32,Unknown,Community Worker,Medium,Queensland,Cairns,3
+8772604,47,Unknown,Community Worker,Medium,Queensland,Cairns,6
+2042704,37,Unknown,Community Worker,Medium,Queensland,Cairns,2
+6586304,37,Unknown,Community Worker,Medium,Queensland,Cairns,1
+103994,33,Unknown,Community Worker,Medium,Queensland,Cairns,4
+5521304,24,Unknown,Community Worker,Medium,Queensland,Cairns,6
+8701994,51,Unknown,Community Worker,Medium,Queensland,Cairns,4
+5569404,40,Female,Community Worker,Medium,Queensland,Cairns,2
+7273604,21,Unknown,Community Worker,Medium,Queensland,Cairns,6
+1862004,33,Male,Community Worker,Medium,Queensland,Cairns,3
+1923894,52,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,2
+4207604,31,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,2
+4705304,40,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+2010504,59,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+8351904,26,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+163704,32,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+4971504,30,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,1
+3373004,26,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+8236304,25,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+6955304,31,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+3850094,50,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+441894,25,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+3733794,88,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+4805804,38,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,1
+4423804,65,Male,Community Worker,Medium,Australian Capital Territory,Canberra,6
+7234804,32,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,2
+2741804,32,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+3083704,20,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+595504,21,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+967404,68,Female,Community Worker,Medium,Australian Capital Territory,Canberra,3
+4204104,21,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+981704,35,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+4373304,27,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,3
+1624894,26,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+8465894,22,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+437794,30,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+1863804,38,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+5948804,36,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+2251804,42,Female,Community Worker,Medium,Australian Capital Territory,Canberra,2
+883994,47,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+3638194,33,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+7237004,35,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,2
+575704,30,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+8151804,43,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,6
+6422404,40,Female,Community Worker,Medium,Australian Capital Territory,Canberra,5
+3243794,32,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,2
+2957994,67,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+5021704,28,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,1
+7852804,51,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,4
+372904,29,Unknown,Community Worker,Medium,Australian Capital Territory,Canberra,5
+7021094,22,Male,Community Worker,Medium,Australian Capital Territory,Canberra,1
+724604,24,Unknown,Community Worker,Medium,Northern Territory,Darwin,3
+3532094,26,Female,Community Worker,Medium,Northern Territory,Darwin,2
+8742804,43,Unknown,Community Worker,Medium,Northern Territory,Darwin,1
+1976194,21,Unknown,Community Worker,Medium,Northern Territory,Darwin,1
+7507604,28,Unknown,Community Worker,Medium,Northern Territory,Darwin,6
+8442704,36,Unknown,Community Worker,Medium,Northern Territory,Darwin,4
+9666194,19,Unknown,Community Worker,Medium,Northern Territory,Darwin,1
+4733894,52,Female,Community Worker,Medium,Northern Territory,Darwin,2
+9103804,33,Unknown,Community Worker,Medium,Northern Territory,Darwin,3
+2305804,37,Unknown,Community Worker,Medium,Northern Territory,Darwin,2
+6986904,36,Unknown,Community Worker,Medium,Northern Territory,Darwin,3
+6987704,48,Unknown,Community Worker,Medium,Northern Territory,Darwin,6
+9345404,39,Unknown,Community Worker,Medium,Northern Territory,Darwin,6
+4647404,44,Unknown,Community Worker,Medium,Northern Territory,Darwin,1
+7615194,49,Female,Community Worker,Medium,Northern Territory,Darwin,2
+6241894,40,Unknown,Community Worker,Medium,Northern Territory,Darwin,5
+9677404,40,Unknown,Community Worker,Medium,Northern Territory,Darwin,4
+1271704,23,Unknown,Community Worker,Medium,Northern Territory,Darwin,6
+6541804,63,Unknown,Community Worker,Medium,Northern Territory,Darwin,1
+3646204,24,Unknown,Community Worker,Medium,Tasmania,Devonport,6
+4066094,37,Unknown,Community Worker,Medium,Tasmania,Devonport,5
+7663004,29,Unknown,Community Worker,Medium,Tasmania,Devonport,1
+9098404,25,Unknown,Community Worker,Medium,Tasmania,Devonport,1
+9605204,39,Unknown,Community Worker,Medium,Tasmania,Devonport,2
+3446404,40,Female,Community Worker,Medium,Tasmania,Devonport,2
+3089794,24,Unknown,Community Worker,Medium,Tasmania,Devonport,6
+3267304,34,Unknown,Community Worker,Medium,Tasmania,Devonport,4
+2300604,29,Unknown,Community Worker,Medium,Tasmania,Devonport,6
+9438804,25,Unknown,Community Worker,Medium,Tasmania,Devonport,5
+3762004,33,Unknown,Community Worker,Medium,Tasmania,Devonport,3
+2836404,23,Unknown,Community Worker,Medium,Tasmania,Devonport,6
+2810504,27,Unknown,Community Worker,Medium,Tasmania,Devonport,2
+2198304,29,Unknown,Community Worker,Medium,Tasmania,Devonport,4
+8662004,34,Unknown,Community Worker,Medium,Tasmania,Devonport,3
+1824804,26,Unknown,Community Worker,Medium,Tasmania,Devonport,3
+4141504,30,Unknown,Community Worker,Medium,Western Australia,Fremantle,1
+9531604,32,Unknown,Community Worker,Medium,Western Australia,Fremantle,6
+6124604,34,Unknown,Community Worker,Medium,Western Australia,Fremantle,2
+3252804,69,Unknown,Community Worker,Medium,Western Australia,Fremantle,3
+8362604,42,Unknown,Community Worker,Medium,Western Australia,Fremantle,1
+533804,73,Unknown,Community Worker,Medium,Western Australia,Fremantle,4
+1619004,42,Unknown,Community Worker,Medium,Western Australia,Fremantle,1
+2398704,26,Unknown,Community Worker,Medium,Western Australia,Fremantle,3
+2082504,33,Unknown,Community Worker,Medium,Western Australia,Fremantle,2
+7142994,53,Unknown,Community Worker,Medium,Western Australia,Fremantle,3
+2701804,65,Unknown,Community Worker,Medium,Western Australia,Fremantle,3
+5993504,26,Female,Community Worker,Medium,Western Australia,Fremantle,6
+2433804,32,Unknown,Community Worker,Medium,Western Australia,Fremantle,1
+6259194,51,Male,Community Worker,Medium,Victoria,Geelong,2
+2743504,31,Unknown,Community Worker,Medium,Victoria,Geelong,2
+7529504,33,Unknown,Community Worker,Medium,Victoria,Geelong,1
+3927004,23,Unknown,Community Worker,Medium,Victoria,Geelong,5
+8041104,35,Unknown,Community Worker,Medium,Victoria,Geelong,3
+2573504,46,Unknown,Community Worker,Medium,Victoria,Geelong,1
+7912804,24,Unknown,Community Worker,Medium,Victoria,Geelong,3
+3622104,46,Unknown,Community Worker,Medium,Victoria,Geelong,1
+6547794,36,Unknown,Community Worker,Medium,Victoria,Geelong,1
+9987704,46,Unknown,Community Worker,Medium,Victoria,Geelong,3
+1056904,34,Unknown,Community Worker,Medium,Victoria,Geelong,2
+3556504,30,Unknown,Community Worker,Medium,Victoria,Geelong,2
+4998694,22,Unknown,Community Worker,Medium,Queensland,Gold Coast,5
+9384804,29,Unknown,Community Worker,Medium,Queensland,Gold Coast,1
+4363904,23,Unknown,Community Worker,Medium,Queensland,Gold Coast,1
+1837704,23,Unknown,Community Worker,Medium,Queensland,Gold Coast,2
+2583504,29,Unknown,Community Worker,Medium,Queensland,Gold Coast,2
+6081894,26,Unknown,Community Worker,Medium,Queensland,Gold Coast,2
+8909004,29,Unknown,Community Worker,Medium,Queensland,Gold Coast,1
+7388694,57,Unknown,Community Worker,Medium,Queensland,Gold Coast,5
+6735404,57,Unknown,Community Worker,Medium,Queensland,Gold Coast,1
+8644004,20,Unknown,Community Worker,Medium,Queensland,Gold Coast,4
+5733094,38,Unknown,Community Worker,Medium,Queensland,Gold Coast,1
+9226304,62,Unknown,Community Worker,Medium,Tasmania,Hobart,1
+5415804,43,Unknown,Community Worker,Medium,Tasmania,Hobart,2
+1449894,71,Unknown,Community Worker,Medium,Tasmania,Hobart,5
+3932404,43,Unknown,Community Worker,Medium,Tasmania,Hobart,5
+5230504,79,Unknown,Community Worker,Medium,Tasmania,Hobart,3
+1431804,45,Male,Community Worker,Medium,Tasmania,Hobart,1
+3976304,37,Unknown,Community Worker,Medium,Tasmania,Hobart,2
+7809194,38,Unknown,Community Worker,Medium,Tasmania,Hobart,3
+2432404,26,Unknown,Community Worker,Medium,Tasmania,Hobart,3
+7911504,56,Unknown,Community Worker,Medium,Tasmania,Hobart,6
+5645304,42,Unknown,Community Worker,Medium,Tasmania,Hobart,5
+7942404,22,Unknown,Community Worker,Medium,Tasmania,Hobart,5
+8867804,21,Unknown,Community Worker,Medium,Northern Territory,Katherine,1
+8996804,25,Unknown,Community Worker,Medium,Northern Territory,Katherine,5
+9896704,42,Unknown,Community Worker,Medium,Northern Territory,Katherine,2
+222404,22,Unknown,Community Worker,Medium,Northern Territory,Katherine,6
+1013994,22,Unknown,Community Worker,Medium,Northern Territory,Katherine,4
+245404,28,Unknown,Community Worker,Medium,Northern Territory,Katherine,4
+9473194,52,Unknown,Community Worker,Medium,Northern Territory,Katherine,3
+4863004,51,Unknown,Community Worker,Medium,Northern Territory,Katherine,6
+6072604,49,Unknown,Community Worker,Medium,Northern Territory,Katherine,5
+7954004,64,Unknown,Community Worker,Medium,Northern Territory,Katherine,5
+7029504,46,Female,Community Worker,Medium,Northern Territory,Katherine,6
+6183194,56,Unknown,Community Worker,Medium,Northern Territory,Katherine,3
+5471504,48,Male,Community Worker,Medium,Northern Territory,Katherine,1
+8834094,28,Unknown,Community Worker,Medium,Northern Territory,Katherine,2
+5041904,54,Unknown,Community Worker,Medium,Northern Territory,Katherine,2
+8710504,32,Unknown,Community Worker,Medium,Northern Territory,Katherine,2
+2385504,76,Male,Community Worker,Medium,Tasmania,Launceston,5
+9198704,55,Unknown,Community Worker,Medium,Tasmania,Launceston,1
+1801904,29,Unknown,Community Worker,Medium,Tasmania,Launceston,5
+1652904,27,Unknown,Community Worker,Medium,Tasmania,Launceston,4
+8883404,30,Unknown,Community Worker,Medium,Tasmania,Launceston,1
+2625104,20,Unknown,Community Worker,Medium,Tasmania,Launceston,1
+434894,29,Unknown,Community Worker,Medium,Tasmania,Launceston,1
+8746304,27,Unknown,Community Worker,Medium,Tasmania,Launceston,5
+7817904,45,Unknown,Community Worker,Medium,Tasmania,Launceston,2
+4166094,44,Unknown,Community Worker,Medium,Victoria,Melbourne,6
+9108904,31,Male,Community Worker,Medium,Victoria,Melbourne,5
+9386194,24,Female,Community Worker,Medium,Victoria,Melbourne,1
+7062804,30,Unknown,Community Worker,Medium,Victoria,Melbourne,4
+6448404,47,Unknown,Community Worker,Medium,Victoria,Melbourne,4
+9556504,36,Unknown,Community Worker,Medium,Victoria,Melbourne,4
+9362504,49,Unknown,Community Worker,Medium,Victoria,Melbourne,3
+9086104,35,Unknown,Community Worker,Medium,Victoria,Melbourne,4
+3532804,30,Unknown,Community Worker,Medium,Victoria,Melbourne,1
+4367304,26,Unknown,Community Worker,Medium,Victoria,Melbourne,5
+5463704,27,Unknown,Community Worker,Medium,Victoria,Melbourne,6
+7147794,32,Unknown,Community Worker,Medium,Victoria,Melbourne,6
+7331904,70,Unknown,Community Worker,Medium,Victoria,Melbourne,4
+6853604,27,Unknown,Community Worker,Medium,South Australia,Mount Gambier,1
+1832104,26,Unknown,Community Worker,Medium,South Australia,Mount Gambier,5
+6461804,28,Unknown,Community Worker,Medium,South Australia,Mount Gambier,3
+8504504,28,Unknown,Community Worker,Medium,South Australia,Mount Gambier,1
+2311604,35,Unknown,Community Worker,Medium,South Australia,Mount Gambier,3
+3570304,40,Unknown,Community Worker,Medium,South Australia,Mount Gambier,6
+9451894,54,Unknown,Community Worker,Medium,South Australia,Mount Gambier,6
+4942204,47,Unknown,Community Worker,Medium,South Australia,Mount Gambier,5
+1159194,32,Unknown,Community Worker,Medium,South Australia,Mount Gambier,5
+1814604,33,Male,Community Worker,Medium,South Australia,Mount Gambier,4
+7949004,32,Unknown,Community Worker,Medium,South Australia,Mount Gambier,3
+319004,26,Unknown,Community Worker,Medium,South Australia,Mount Gambier,5
+2775704,63,Female,Community Worker,Medium,South Australia,Mount Gambier,2
+9104504,32,Unknown,Community Worker,Medium,South Australia,Mount Gambier,5
+2327894,22,Unknown,Community Worker,Medium,South Australia,Mount Gambier,6
+4055304,22,Unknown,Community Worker,Medium,South Australia,Mount Gambier,6
+168504,28,Unknown,Community Worker,Medium,South Australia,Mount Gambier,6
+3074304,40,Unknown,Community Worker,Medium,New South Wales,Newcastle,1
+6762604,38,Female,Community Worker,Medium,New South Wales,Newcastle,2
+3760104,45,Unknown,Community Worker,Medium,New South Wales,Newcastle,5
+3942804,29,Unknown,Community Worker,Medium,New South Wales,Newcastle,4
+9071904,40,Unknown,Community Worker,Medium,New South Wales,Newcastle,5
+7062604,30,Unknown,Community Worker,Medium,New South Wales,Newcastle,1
+4319504,26,Unknown,Community Worker,Medium,New South Wales,Newcastle,1
+7945404,31,Unknown,Community Worker,Medium,New South Wales,Newcastle,4
+7809994,44,Unknown,Community Worker,Medium,New South Wales,Newcastle,6
+604204,38,Unknown,Community Worker,Medium,New South Wales,Newcastle,5
+6269004,29,Unknown,Community Worker,Medium,New South Wales,Newcastle,1
+9262304,46,Unknown,Community Worker,Medium,New South Wales,Newcastle,3
+4819404,46,Unknown,Community Worker,Medium,Western Australia,Perth,2
+6348504,46,Unknown,Community Worker,Medium,Western Australia,Perth,1
+6026804,51,Unknown,Community Worker,Medium,Western Australia,Perth,3
+6190604,36,Unknown,Community Worker,Medium,Western Australia,Perth,5
+1657994,28,Unknown,Community Worker,Medium,Western Australia,Perth,6
+6041894,26,Unknown,Community Worker,Medium,Western Australia,Perth,6
+8848604,22,Unknown,Community Worker,Medium,Western Australia,Perth,4
+1042804,42,Unknown,Community Worker,Medium,Western Australia,Perth,6
+5945304,45,Unknown,Community Worker,Medium,Western Australia,Perth,5
+455194,45,Unknown,Community Worker,Medium,New South Wales,Sydney,1
+7071704,27,Unknown,Community Worker,Medium,New South Wales,Sydney,5
+5655304,22,Unknown,Community Worker,Medium,New South Wales,Sydney,3
+3909994,28,Unknown,Community Worker,Medium,New South Wales,Sydney,6
+6064504,41,Unknown,Community Worker,Medium,New South Wales,Sydney,2
+1147004,33,Unknown,Community Worker,Medium,New South Wales,Sydney,1
+6661894,42,Unknown,Community Worker,Medium,New South Wales,Sydney,1
+901804,53,Male,Community Worker,Medium,New South Wales,Sydney,5
+5446804,40,Unknown,Community Worker,Medium,New South Wales,Sydney,2
+8042094,21,Unknown,Community Worker,Medium,New South Wales,Sydney,6
+8154504,25,Unknown,Community Worker,Medium,New South Wales,Sydney,6
+691704,46,Unknown,Community Worker,Medium,New South Wales,Sydney,5
+9729504,42,Unknown,Community Worker,Medium,New South Wales,Sydney,4
+6104204,27,Unknown,Community Worker,Medium,New South Wales,Sydney,3
+138804,21,Unknown,Community Worker,Medium,New South Wales,Sydney,4
+4417704,25,Unknown,Community Worker,Medium,New South Wales,Sydney,2
+2476194,20,Unknown,Community Worker,Medium,New South Wales,Sydney,1
+8310304,36,Female,Community Worker,Medium,South Australia,Whyalla,3
+2851204,39,Unknown,Community Worker,Medium,South Australia,Whyalla,6
+7680404,55,Female,Community Worker,Medium,South Australia,Whyalla,1
+1557704,83,Female,Community Worker,Medium,South Australia,Whyalla,1
+3020804,44,Female,Community Worker,Medium,South Australia,Whyalla,5
+1011704,26,Unknown,Community Worker,Medium,South Australia,Whyalla,1
+5720804,30,Unknown,Community Worker,Medium,South Australia,Whyalla,2
+8729504,30,Unknown,Community Worker,Medium,South Australia,Whyalla,2
+7537704,57,Unknown,Community Worker,Medium,South Australia,Whyalla,3
+660004,23,Unknown,Community Worker,Medium,South Australia,Whyalla,4
+2753304,56,Unknown,Community Worker,Medium,South Australia,Whyalla,6
+5901404,37,Unknown,Community Worker,Medium,South Australia,Whyalla,4
+7433094,48,Unknown,Community Worker,Medium,South Australia,Whyalla,1
+5615204,37,Unknown,Community Worker,Medium,South Australia,Whyalla,3
+1140704,44,Unknown,Community Worker,Medium,New South Wales,Wollongong,3
+5065894,26,Unknown,Community Worker,Medium,New South Wales,Wollongong,3
+5642894,18,Unknown,Community Worker,Medium,New South Wales,Wollongong,1
+6676104,55,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+9413194,31,Unknown,Community Worker,Medium,New South Wales,Wollongong,5
+1432304,27,Unknown,Community Worker,Medium,New South Wales,Wollongong,1
+4609404,33,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+4755194,46,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+7935994,63,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+4883504,31,Unknown,Community Worker,Medium,New South Wales,Wollongong,2
+9209404,32,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+526304,37,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+3233504,35,Unknown,Community Worker,Medium,New South Wales,Wollongong,2
+6259794,21,Unknown,Community Worker,Medium,New South Wales,Wollongong,3
+8294404,37,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+4493604,53,Female,Community Worker,Medium,New South Wales,Wollongong,6
+2850304,37,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+7027304,26,Unknown,Community Worker,Medium,New South Wales,Wollongong,6
+2445894,35,Unknown,Community Worker,Medium,New South Wales,Wollongong,3
+2463304,60,Unknown,Community Worker,Medium,New South Wales,Wollongong,1
+8199794,39,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+6799804,32,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+2784404,43,Unknown,Community Worker,Medium,New South Wales,Wollongong,2
+9445104,43,Unknown,Community Worker,Medium,New South Wales,Wollongong,4
+4180404,22,Unknown,Community Worker,Medium,New South Wales,Wollongong,2
+2655304,43,Unknown,Laborer,Low,South Australia,Adelaide,6
+9352094,41,Unknown,Laborer,Low,South Australia,Adelaide,5
+5149094,33,Unknown,Laborer,Low,South Australia,Adelaide,5
+1613804,34,Female,Laborer,Low,South Australia,Adelaide,5
+9709004,36,Unknown,Laborer,Low,South Australia,Adelaide,5
+468504,37,Unknown,Laborer,Low,South Australia,Adelaide,3
+9383504,31,Unknown,Laborer,Low,South Australia,Adelaide,5
+3934094,62,Unknown,Laborer,Low,South Australia,Adelaide,2
+1233994,73,Unknown,Laborer,Low,South Australia,Adelaide,4
+8775404,54,Unknown,Laborer,Low,Northern Territory,Alice Springs,1
+8070304,57,Unknown,Laborer,Low,Northern Territory,Alice Springs,1
+5056194,21,Unknown,Laborer,Low,Northern Territory,Alice Springs,4
+8215504,41,Unknown,Laborer,Low,Northern Territory,Alice Springs,6
+3024704,32,Unknown,Laborer,Low,Northern Territory,Alice Springs,3
+9370304,54,Unknown,Laborer,Low,Northern Territory,Alice Springs,5
+6037194,54,Unknown,Laborer,Low,Northern Territory,Alice Springs,4
+9689304,32,Unknown,Laborer,Low,Northern Territory,Alice Springs,3
+3278404,37,Unknown,Laborer,Low,Northern Territory,Alice Springs,2
+1250804,22,Unknown,Laborer,Low,Northern Territory,Alice Springs,6
+5885694,48,Unknown,Laborer,Low,Northern Territory,Alice Springs,2
+6613804,84,Female,Laborer,Low,Northern Territory,Alice Springs,1
+6057094,25,Unknown,Laborer,Low,Northern Territory,Alice Springs,1
+8167704,27,Unknown,Laborer,Low,Northern Territory,Alice Springs,3
+7319304,55,Unknown,Laborer,Low,Northern Territory,Alice Springs,3
+8590604,19,Unknown,Laborer,Low,Victoria,Ballarat,6
+5852304,53,Unknown,Laborer,Low,Victoria,Ballarat,2
+2875194,52,Unknown,Laborer,Low,Victoria,Ballarat,5
+6297104,25,Unknown,Laborer,Low,Victoria,Ballarat,2
+1610604,49,Unknown,Laborer,Low,Victoria,Ballarat,1
+2198094,27,Unknown,Laborer,Low,Victoria,Ballarat,1
+7784504,39,Unknown,Laborer,Low,Victoria,Ballarat,1
+29894,27,Unknown,Laborer,Low,Victoria,Ballarat,1
+7780404,33,Unknown,Laborer,Low,Victoria,Ballarat,6
+7549404,24,Unknown,Laborer,Low,Victoria,Ballarat,2
+9498194,28,Unknown,Laborer,Low,Victoria,Ballarat,6
+7978304,50,Unknown,Laborer,Low,Victoria,Ballarat,6
+6756504,35,Unknown,Laborer,Low,Victoria,Ballarat,6
+757194,27,Male,Laborer,Low,Victoria,Ballarat,4
+6608704,23,Unknown,Laborer,Low,Victoria,Ballarat,5
+9109094,37,Unknown,Laborer,Low,Queensland,Brisbane,4
+4637194,69,Unknown,Laborer,Low,Queensland,Brisbane,2
+4853004,30,Unknown,Laborer,Low,Queensland,Brisbane,5
+5798694,55,Unknown,Laborer,Low,Queensland,Brisbane,3
+2215804,26,Unknown,Laborer,Low,Queensland,Brisbane,4
+8066094,50,Unknown,Laborer,Low,Queensland,Brisbane,3
+9559404,42,Unknown,Laborer,Low,Queensland,Brisbane,2
+7891194,50,Unknown,Laborer,Low,Queensland,Brisbane,6
+6129504,23,Unknown,Laborer,Low,Queensland,Brisbane,5
+3810304,47,Unknown,Laborer,Low,Queensland,Brisbane,5
+736204,40,Unknown,Laborer,Low,Queensland,Brisbane,4
+3358094,35,Unknown,Laborer,Low,Western Australia,Bunbury,3
+5742704,28,Unknown,Laborer,Low,Western Australia,Bunbury,4
+7742094,24,Unknown,Laborer,Low,Western Australia,Bunbury,5
+3245894,32,Unknown,Laborer,Low,Western Australia,Bunbury,1
+1557004,39,Unknown,Laborer,Low,Western Australia,Bunbury,1
+3833504,43,Unknown,Laborer,Low,Western Australia,Bunbury,2
+6219004,44,Unknown,Laborer,Low,Western Australia,Bunbury,2
+5946194,29,Unknown,Laborer,Low,Western Australia,Bunbury,3
+6344094,42,Unknown,Laborer,Low,Western Australia,Bunbury,5
+1535994,22,Unknown,Laborer,Low,Western Australia,Bunbury,2
+1877004,26,Unknown,Laborer,Low,Western Australia,Bunbury,2
+1795694,32,Unknown,Laborer,Low,Western Australia,Bunbury,5
+3276304,23,Unknown,Laborer,Low,Western Australia,Bunbury,5
+3233094,52,Unknown,Laborer,Low,Western Australia,Bunbury,3
+1824904,29,Unknown,Laborer,Low,Western Australia,Bunbury,4
+6619994,67,Male,Laborer,Low,Western Australia,Bunbury,5
+3881704,27,Unknown,Laborer,Low,Western Australia,Bunbury,2
+5504204,35,Unknown,Laborer,Low,Western Australia,Bunbury,2
+5854904,23,Unknown,Laborer,Low,Queensland,Cairns,1
+8122404,39,Unknown,Laborer,Low,Queensland,Cairns,4
+1844004,30,Unknown,Laborer,Low,Queensland,Cairns,4
+2403704,25,Unknown,Laborer,Low,Queensland,Cairns,5
+1993504,62,Female,Laborer,Low,Queensland,Cairns,1
+7997004,34,Unknown,Laborer,Low,Queensland,Cairns,2
+9739404,44,Unknown,Laborer,Low,Queensland,Cairns,5
+8750804,21,Unknown,Laborer,Low,Queensland,Cairns,3
+3967404,52,Unknown,Laborer,Low,Queensland,Cairns,1
+7826304,56,Unknown,Laborer,Low,Queensland,Cairns,1
+5521704,33,Unknown,Laborer,Low,Queensland,Cairns,6
+5194804,25,Unknown,Laborer,Low,Queensland,Cairns,5
+2119194,32,Unknown,Laborer,Low,Queensland,Cairns,6
+4001604,36,Unknown,Laborer,Low,Queensland,Cairns,4
+8266504,41,Unknown,Laborer,Low,Queensland,Cairns,6
+2159194,26,Unknown,Laborer,Low,Queensland,Cairns,3
+2667404,38,Unknown,Laborer,Low,Queensland,Cairns,3
+7815204,27,Unknown,Laborer,Low,Queensland,Cairns,1
+3987194,29,Unknown,Laborer,Low,Queensland,Cairns,1
+8272504,22,Unknown,Laborer,Low,Queensland,Cairns,4
+4521094,30,Unknown,Laborer,Low,Queensland,Cairns,5
+6745304,21,Unknown,Laborer,Low,Queensland,Cairns,5
+4431904,32,Unknown,Laborer,Low,Queensland,Cairns,4
+1727704,31,Female,Laborer,Low,Australian Capital Territory,Canberra,5
+5739194,32,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+9617894,33,Unknown,Laborer,Low,Australian Capital Territory,Canberra,2
+1757704,20,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+249894,21,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+5612894,60,Unknown,Laborer,Low,Australian Capital Territory,Canberra,3
+225804,28,Unknown,Laborer,Low,Australian Capital Territory,Canberra,1
+980604,44,Unknown,Laborer,Low,Australian Capital Territory,Canberra,1
+5983194,30,Unknown,Laborer,Low,Australian Capital Territory,Canberra,1
+2171204,26,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+8673904,26,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+2070004,38,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+6620604,70,Unknown,Laborer,Low,Australian Capital Territory,Canberra,3
+5173404,62,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+1605404,30,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+6467694,62,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+2164504,45,Female,Laborer,Low,Australian Capital Territory,Canberra,3
+6758404,54,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+3676894,22,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+4335304,32,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+4788304,62,Female,Laborer,Low,Australian Capital Territory,Canberra,3
+6982404,20,Unknown,Laborer,Low,Australian Capital Territory,Canberra,1
+2969404,19,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+752004,32,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+9819994,23,Unknown,Laborer,Low,Australian Capital Territory,Canberra,3
+2968004,39,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+3059404,49,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+9911704,62,Unknown,Laborer,Low,Australian Capital Territory,Canberra,2
+3767704,64,Unknown,Laborer,Low,Australian Capital Territory,Canberra,3
+7385704,53,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+134094,59,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+5628404,29,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+7596804,79,Unknown,Laborer,Low,Australian Capital Territory,Canberra,1
+6616194,49,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+2916304,29,Unknown,Laborer,Low,Australian Capital Territory,Canberra,6
+2956504,64,Unknown,Laborer,Low,Australian Capital Territory,Canberra,2
+7176094,36,Unknown,Laborer,Low,Australian Capital Territory,Canberra,5
+4958094,35,Unknown,Laborer,Low,Australian Capital Territory,Canberra,4
+9150804,42,Unknown,Laborer,Low,Australian Capital Territory,Canberra,3
+675504,45,Unknown,Laborer,Low,Northern Territory,Darwin,1
+4480004,21,Unknown,Laborer,Low,Northern Territory,Darwin,6
+3659804,41,Unknown,Laborer,Low,Northern Territory,Darwin,5
+9350804,30,Unknown,Laborer,Low,Northern Territory,Darwin,2
+4403994,47,Female,Laborer,Low,Northern Territory,Darwin,1
+2268504,51,Unknown,Laborer,Low,Northern Territory,Darwin,4
+7564504,46,Unknown,Laborer,Low,Northern Territory,Darwin,6
+9323094,22,Unknown,Laborer,Low,Northern Territory,Darwin,3
+6632804,41,Male,Laborer,Low,Northern Territory,Darwin,1
+790604,30,Unknown,Laborer,Low,Tasmania,Devonport,2
+4578304,53,Unknown,Laborer,Low,Tasmania,Devonport,1
+6388694,48,Unknown,Laborer,Low,Tasmania,Devonport,4
+3759004,27,Unknown,Laborer,Low,Tasmania,Devonport,6
+115894,36,Unknown,Laborer,Low,Tasmania,Devonport,1
+2758894,75,Male,Laborer,Low,Tasmania,Devonport,5
+7941504,33,Unknown,Laborer,Low,Tasmania,Devonport,2
+7973404,42,Unknown,Laborer,Low,Tasmania,Devonport,3
+3767404,53,Unknown,Laborer,Low,Tasmania,Devonport,2
+993994,21,Unknown,Laborer,Low,Tasmania,Devonport,6
+2952404,48,Male,Laborer,Low,Tasmania,Devonport,5
+409004,28,Unknown,Laborer,Low,Tasmania,Devonport,3
+6783404,27,Unknown,Laborer,Low,Tasmania,Devonport,3
+9184504,46,Unknown,Laborer,Low,Tasmania,Devonport,1
+1557204,25,Unknown,Laborer,Low,Tasmania,Devonport,5
+582894,81,Unknown,Laborer,Low,Tasmania,Devonport,5
+9844004,29,Unknown,Laborer,Low,Tasmania,Devonport,6
+7446104,43,Unknown,Laborer,Low,Tasmania,Devonport,5
+8932804,26,Unknown,Laborer,Low,Tasmania,Devonport,1
+337794,25,Unknown,Laborer,Low,Tasmania,Devonport,3
+2151894,53,Unknown,Laborer,Low,Tasmania,Devonport,2
+7897004,78,Unknown,Laborer,Low,Tasmania,Devonport,2
+9349194,39,Unknown,Laborer,Low,Western Australia,Fremantle,3
+426304,22,Unknown,Laborer,Low,Western Australia,Fremantle,3
+510504,20,Unknown,Laborer,Low,Western Australia,Fremantle,6
+4925894,26,Unknown,Laborer,Low,Western Australia,Fremantle,6
+5082994,25,Unknown,Laborer,Low,Western Australia,Fremantle,4
+9864304,32,Unknown,Laborer,Low,Western Australia,Fremantle,2
+8888804,52,Unknown,Laborer,Low,Western Australia,Fremantle,1
+3194804,35,Unknown,Laborer,Low,Western Australia,Fremantle,4
+8650804,35,Unknown,Laborer,Low,Western Australia,Fremantle,1
+6338004,32,Unknown,Laborer,Low,Western Australia,Fremantle,6
+3193504,33,Male,Laborer,Low,Western Australia,Fremantle,6
+2779404,26,Unknown,Laborer,Low,Western Australia,Fremantle,6
+9237794,33,Unknown,Laborer,Low,Western Australia,Fremantle,5
+6792404,26,Unknown,Laborer,Low,Victoria,Geelong,1
+1846004,18,Unknown,Laborer,Low,Victoria,Geelong,6
+5236404,57,Unknown,Laborer,Low,Victoria,Geelong,5
+9372604,21,Unknown,Laborer,Low,Victoria,Geelong,4
+6206094,37,Unknown,Laborer,Low,Victoria,Geelong,6
+9432304,33,Unknown,Laborer,Low,Victoria,Geelong,4
+9867404,45,Unknown,Laborer,Low,Victoria,Geelong,6
+5737004,30,Male,Laborer,Low,Victoria,Geelong,6
+2223894,33,Unknown,Laborer,Low,Victoria,Geelong,1
+7017904,27,Unknown,Laborer,Low,Victoria,Geelong,6
+9405404,30,Unknown,Laborer,Low,Victoria,Geelong,2
+6321804,31,Unknown,Laborer,Low,Victoria,Geelong,3
+4926804,27,Unknown,Laborer,Low,Victoria,Geelong,1
+5185404,20,Unknown,Laborer,Low,Victoria,Geelong,2
+3887194,23,Unknown,Laborer,Low,Queensland,Gold Coast,3
+9064304,25,Unknown,Laborer,Low,Queensland,Gold Coast,5
+9856194,34,Unknown,Laborer,Low,Queensland,Gold Coast,1
+1929894,63,Female,Laborer,Low,Queensland,Gold Coast,2
+403404,22,Unknown,Laborer,Low,Queensland,Gold Coast,5
+8546804,35,Unknown,Laborer,Low,Queensland,Gold Coast,2
+8337304,34,Unknown,Laborer,Low,Queensland,Gold Coast,4
+6581404,55,Unknown,Laborer,Low,Queensland,Gold Coast,5
+4526804,54,Unknown,Laborer,Low,Queensland,Gold Coast,1
+6062404,34,Unknown,Laborer,Low,Queensland,Gold Coast,2
+3173504,45,Unknown,Laborer,Low,Queensland,Gold Coast,2
+9992994,76,Unknown,Laborer,Low,Queensland,Gold Coast,4
+2221504,40,Unknown,Laborer,Low,Queensland,Gold Coast,5
+7656204,74,Unknown,Laborer,Low,Queensland,Gold Coast,1
+5266504,53,Unknown,Laborer,Low,Queensland,Gold Coast,6
+8695694,24,Unknown,Laborer,Low,Queensland,Gold Coast,6
+1460894,25,Unknown,Laborer,Low,Queensland,Gold Coast,4
+1624604,36,Female,Laborer,Low,Queensland,Gold Coast,4
+721794,30,Unknown,Laborer,Low,Tasmania,Hobart,4
+7719194,28,Unknown,Laborer,Low,Tasmania,Hobart,5
+1445994,61,Male,Laborer,Low,Tasmania,Hobart,2
+598004,26,Unknown,Laborer,Low,Tasmania,Hobart,3
+1163704,41,Unknown,Laborer,Low,Tasmania,Hobart,6
+4328704,39,Unknown,Laborer,Low,Tasmania,Hobart,6
+9142804,89,Male,Laborer,Low,Tasmania,Hobart,3
+6007804,33,Unknown,Laborer,Low,Tasmania,Hobart,1
+3247794,24,Unknown,Laborer,Low,Tasmania,Hobart,6
+8904504,42,Female,Laborer,Low,Tasmania,Hobart,1
+3296404,28,Unknown,Laborer,Low,Tasmania,Hobart,2
+971504,52,Unknown,Laborer,Low,Tasmania,Hobart,4
+1494804,42,Unknown,Laborer,Low,Tasmania,Hobart,1
+1566094,46,Unknown,Laborer,Low,Tasmania,Hobart,3
+6712704,47,Unknown,Laborer,Low,Northern Territory,Katherine,2
+8713804,53,Unknown,Laborer,Low,Northern Territory,Katherine,5
+1550094,27,Unknown,Laborer,Low,Northern Territory,Katherine,3
+2146404,31,Unknown,Laborer,Low,Northern Territory,Katherine,4
+9041904,22,Unknown,Laborer,Low,Northern Territory,Katherine,6
+1457204,30,Unknown,Laborer,Low,Northern Territory,Katherine,2
+3264304,29,Unknown,Laborer,Low,Northern Territory,Katherine,1
+5895504,28,Unknown,Laborer,Low,Northern Territory,Katherine,5
+7485404,26,Unknown,Laborer,Low,Northern Territory,Katherine,5
+2281894,24,Unknown,Laborer,Low,Northern Territory,Katherine,2
+8081504,27,Unknown,Laborer,Low,Northern Territory,Katherine,1
+8242704,69,Unknown,Laborer,Low,Northern Territory,Katherine,2
+5269404,32,Unknown,Laborer,Low,Northern Territory,Katherine,5
+9994894,27,Unknown,Laborer,Low,Northern Territory,Katherine,2
+5483504,35,Unknown,Laborer,Low,Northern Territory,Katherine,6
+2659404,37,Unknown,Laborer,Low,Northern Territory,Katherine,4
+1783804,31,Unknown,Laborer,Low,Northern Territory,Katherine,4
+4495504,36,Unknown,Laborer,Low,Northern Territory,Katherine,2
+3081504,50,Unknown,Laborer,Low,Tasmania,Launceston,6
+9554304,21,Female,Laborer,Low,Tasmania,Launceston,6
+144894,27,Unknown,Laborer,Low,Tasmania,Launceston,2
+7072504,27,Unknown,Laborer,Low,Tasmania,Launceston,2
+7396204,26,Unknown,Laborer,Low,Tasmania,Launceston,2
+1254804,26,Unknown,Laborer,Low,Tasmania,Launceston,3
+4968504,30,Unknown,Laborer,Low,Tasmania,Launceston,1
+3248194,32,Unknown,Laborer,Low,Tasmania,Launceston,4
+7947704,48,Unknown,Laborer,Low,Tasmania,Launceston,6
+5571504,45,Unknown,Laborer,Low,Tasmania,Launceston,3
+5360304,37,Unknown,Laborer,Low,Tasmania,Launceston,1
+170094,39,Unknown,Laborer,Low,Tasmania,Launceston,3
+2347094,31,Unknown,Laborer,Low,Tasmania,Launceston,2
+2663304,80,Unknown,Laborer,Low,Tasmania,Launceston,3
+3572894,18,Unknown,Laborer,Low,Tasmania,Launceston,6
+2297194,63,Unknown,Laborer,Low,Tasmania,Launceston,1
+3724894,74,Unknown,Laborer,Low,Tasmania,Launceston,6
+4605204,47,Unknown,Laborer,Low,Tasmania,Launceston,3
+5227904,30,Unknown,Laborer,Low,Victoria,Melbourne,2
+8393404,45,Unknown,Laborer,Low,Victoria,Melbourne,6
+4091904,31,Unknown,Laborer,Low,Victoria,Melbourne,6
+9917094,28,Unknown,Laborer,Low,Victoria,Melbourne,1
+4502804,49,Unknown,Laborer,Low,Victoria,Melbourne,2
+2346504,47,Unknown,Laborer,Low,Victoria,Melbourne,4
+3620804,53,Unknown,Laborer,Low,Victoria,Melbourne,2
+7149094,53,Unknown,Laborer,Low,Victoria,Melbourne,1
+4736804,30,Unknown,Laborer,Low,Victoria,Melbourne,3
+1898504,46,Unknown,Laborer,Low,Victoria,Melbourne,6
+6854904,29,Unknown,Laborer,Low,Victoria,Melbourne,3
+5543804,33,Unknown,Laborer,Low,Victoria,Melbourne,3
+5717704,31,Unknown,Laborer,Low,Victoria,Melbourne,1
+5193194,21,Unknown,Laborer,Low,Victoria,Melbourne,3
+3307804,43,Unknown,Laborer,Low,South Australia,Mount Gambier,3
+9756504,25,Unknown,Laborer,Low,South Australia,Mount Gambier,1
+2455304,36,Unknown,Laborer,Low,South Australia,Mount Gambier,6
+923504,28,Unknown,Laborer,Low,South Australia,Mount Gambier,3
+3045304,42,Female,Laborer,Low,South Australia,Mount Gambier,2
+528404,42,Unknown,Laborer,Low,South Australia,Mount Gambier,3
+7694204,22,Unknown,Laborer,Low,South Australia,Mount Gambier,4
+1876194,28,Unknown,Laborer,Low,South Australia,Mount Gambier,6
+5117704,34,Unknown,Laborer,Low,South Australia,Mount Gambier,3
+5809404,27,Unknown,Laborer,Low,South Australia,Mount Gambier,3
+5462804,22,Unknown,Laborer,Low,New South Wales,Newcastle,6
+901604,36,Unknown,Laborer,Low,New South Wales,Newcastle,6
+8330804,31,Unknown,Laborer,Low,New South Wales,Newcastle,6
+655104,24,Unknown,Laborer,Low,New South Wales,Newcastle,6
+7361804,47,Unknown,Laborer,Low,New South Wales,Newcastle,1
+6346904,27,Unknown,Laborer,Low,New South Wales,Newcastle,3
+594404,24,Unknown,Laborer,Low,New South Wales,Newcastle,5
+3326804,74,Unknown,Laborer,Low,New South Wales,Newcastle,5
+7121804,26,Unknown,Laborer,Low,New South Wales,Newcastle,2
+2342104,38,Unknown,Laborer,Low,New South Wales,Newcastle,4

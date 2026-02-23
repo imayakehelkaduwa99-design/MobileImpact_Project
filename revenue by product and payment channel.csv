@@ -1,0 +1,25 @@
+product,channel_pay,transaction_count,donors,total_revenue,avg_donation
+Membership,Online Banking,518,481,129809.0,250.5965250965252
+Membership,Cryptocurrency,480,453,126954.0,264.48750000000007
+Membership,PayPal,467,444,117343.0,251.26980728051402
+Membership,Mobile Payment,469,433,113544.25,242.09861407249466
+Membership,Bank Transfer,448,427,112924.0,252.06249999999989
+Membership,Cash Payment,475,446,112258.0,236.33263157894734
+Membership,Debit Card,488,453,112148.0,229.81147540983619
+Membership,Credit Card,455,430,109196.0,239.99120879120878
+General_Donation,Cryptocurrency,109,104,18254.0,167.46788990825686
+General_Donation,Bank Transfer,126,118,13273.0,105.34126984126988
+General_Donation,PayPal,127,119,12314.0,96.960629921259837
+General_Donation,Cash Payment,112,108,11903.0,106.27678571428572
+General_Donation,Mobile Payment,127,124,11826.0,93.118110236220446
+General_Donation,Online Banking,105,100,9588.0,91.314285714285731
+General_Donation,Debit Card,98,91,9286.0,94.755102040816325
+General_Donation,Credit Card,115,108,9024.0,78.46956521739132
+Membership_TopUp,Online Banking,46,45,1515.0,32.934782608695649
+Membership_TopUp,Cash Payment,40,38,1420.0,35.500000000000007
+Membership_TopUp,Cryptocurrency,31,31,1420.0,45.806451612903231
+Membership_TopUp,Debit Card,36,35,1145.0,31.805555555555557
+Membership_TopUp,Credit Card,31,31,1120.0,36.129032258064512
+Membership_TopUp,Mobile Payment,35,34,1090.0,31.142857142857146
+Membership_TopUp,Bank Transfer,36,36,995.0,27.638888888888893
+Membership_TopUp,PayPal,29,28,985.0,33.965517241379317

@@ -1,0 +1,73 @@
+gender,income_level,location,customers,trad_customers,mobile_customers,both_channels
+Unknown,Medium,New South Wales,181,136,149,113
+Unknown,Medium,Western Australia,169,141,144,123
+Unknown,Medium,Northern Territory,162,122,140,104
+Unknown,Medium,Victoria,162,125,146,114
+Unknown,Medium,Australian Capital Territory,159,122,133,102
+Unknown,Medium,South Australia,156,124,134,107
+Unknown,Medium,Queensland,155,125,133,109
+Unknown,Low,Queensland,142,108,125,96
+Unknown,Medium,Tasmania,140,103,120,92
+Unknown,High,Queensland,137,102,113,86
+Unknown,High,Australian Capital Territory,131,92,115,80
+Unknown,Low,Northern Territory,128,103,111,87
+Unknown,High,Victoria,127,95,98,73
+Unknown,Low,Victoria,127,103,109,88
+Unknown,High,New South Wales,124,100,104,83
+Unknown,High,Western Australia,123,93,99,78
+Unknown,Low,Western Australia,123,90,102,74
+Unknown,Low,Tasmania,122,85,95,65
+Unknown,High,South Australia,121,93,101,77
+Unknown,High,Tasmania,119,88,105,78
+Unknown,Low,New South Wales,119,89,91,71
+Unknown,High,Northern Territory,112,81,92,70
+Unknown,Low,Australian Capital Territory,107,84,88,69
+Unknown,Low,South Australia,106,86,87,70
+Female,Low,Tasmania,15,10,14,10
+Female,Low,Queensland,14,12,12,10
+Female,Medium,Northern Territory,13,7,10,6
+Female,High,Western Australia,13,9,12,8
+Female,Medium,Tasmania,13,10,13,10
+Male,High,South Australia,11,10,11,10
+Female,High,Victoria,10,9,8,8
+Male,Medium,Queensland,10,9,6,6
+Female,Medium,South Australia,10,9,7,7
+Female,Medium,Australian Capital Territory,10,9,7,6
+Female,High,Queensland,10,5,10,5
+Female,Medium,New South Wales,9,6,9,6
+Female,Low,New South Wales,9,6,8,6
+Male,High,Western Australia,9,9,7,7
+Male,Medium,Northern Territory,8,8,8,8
+Male,Medium,Western Australia,8,5,7,5
+Male,High,Northern Territory,8,8,8,8
+Female,Low,Victoria,8,5,5,3
+Male,High,Tasmania,7,6,6,5
+Male,Medium,Victoria,7,7,7,7
+Male,High,New South Wales,7,6,6,5
+Female,High,New South Wales,7,5,7,5
+Female,High,Northern Territory,7,6,6,5
+Female,High,South Australia,7,6,6,6
+Female,Medium,Queensland,6,4,4,3
+Male,Medium,Australian Capital Territory,6,4,6,4
+Female,High,Tasmania,6,4,4,2
+Male,Low,New South Wales,6,4,5,4
+Female,Low,Northern Territory,6,5,6,5
+Female,Low,Australian Capital Territory,6,4,5,3
+Female,Medium,Victoria,6,5,4,3
+Male,Medium,New South Wales,5,2,4,1
+Female,Medium,Western Australia,5,3,5,3
+Male,Low,Queensland,5,3,2,1
+Male,Low,Tasmania,5,4,4,3
+Male,Medium,Tasmania,5,5,3,3
+Male,Low,Western Australia,5,3,3,2
+Female,High,Australian Capital Territory,5,5,4,4
+Male,High,Australian Capital Territory,5,5,3,3
+Male,Medium,South Australia,5,4,5,4
+Female,Low,South Australia,5,4,3,2
+Male,Low,South Australia,4,2,4,2
+Male,Low,Victoria,4,3,3,3
+Female,Low,Western Australia,4,1,4,1
+Male,Low,Northern Territory,3,2,3,2
+Male,High,Queensland,3,3,2,2
+Male,Low,Australian Capital Territory,3,2,2,2
+Male,High,Victoria,3,3,2,2

@@ -1,0 +1,57 @@
+gender,income_level,location,high_value_customers,avg_total_revenue,avg_mobile_revenue,avg_trad_revenue
+Unknown,Medium,Victoria,21,1378.7771428571425,528.967619048,849.80952380952385
+Unknown,High,New South Wales,20,1298.6115,394.1115,904.5
+Unknown,Medium,Queensland,19,1656.9468421052634,832.052105263,824.89473684210532
+Unknown,Medium,Western Australia,19,1204.3284210526317,309.012631579,895.31578947368416
+Unknown,Medium,South Australia,17,1805.8123529411762,903.635882353,902.17647058823525
+Unknown,Low,Victoria,17,1355.9805882352941,587.686470588,768.2941176470589
+Unknown,Medium,New South Wales,16,1786.0649999999996,428.2525,1357.8125
+Unknown,Low,Queensland,16,1368.3118749999999,432.561875,935.74999999999989
+Unknown,High,Victoria,14,2099.205,1301.562142857,797.64285714285722
+Unknown,High,Australian Capital Territory,14,1543.832142857143,669.189285714,874.64285714285722
+Unknown,Medium,Northern Territory,13,2074.7176923076918,1261.41,813.30769230769226
+Unknown,Medium,Tasmania,13,1698.0576923076924,475.057692308,1223.0
+Unknown,Low,New South Wales,12,1738.9325000000001,516.9325,1222.0
+Unknown,Low,Australian Capital Territory,12,1314.3475,300.264166667,1014.0833333333334
+Unknown,High,South Australia,11,1432.6454545454544,603.918181818,828.72727272727263
+Unknown,High,Tasmania,11,1376.1536363636367,562.517272727,813.63636363636351
+Unknown,High,Northern Territory,11,1658.0045454545455,704.913636364,953.090909090909
+Unknown,Low,Western Australia,10,1405.0659999999998,535.566,869.50000000000011
+Unknown,High,Queensland,10,1441.608,472.108,969.5
+Unknown,High,Western Australia,8,1519.8000000000002,700.675,819.125
+Unknown,Medium,Australian Capital Territory,8,1641.24125,567.24125,1074.0
+Unknown,Low,Northern Territory,8,1484.1087499999999,171.48375,1312.625
+Unknown,Low,South Australia,6,1574.3383333333331,789.505,784.83333333333337
+Unknown,Low,Tasmania,5,1757.1999999999998,879.8,877.4
+Male,High,Western Australia,4,1654.81,27.81,1627.0
+Male,High,South Australia,3,1441.6299999999999,8.296666667,1433.3333333333333
+Female,High,Victoria,3,1223.6966666666667,6.363333333,1217.3333333333333
+Male,High,Australian Capital Territory,2,2068.6,4.6,2064.0
+Male,Medium,South Australia,2,1135.325,4.325,1131.0
+Female,Low,New South Wales,2,845.265,13.265,832.0
+Female,Low,Queensland,2,936.5,0,936.5
+Male,Medium,Victoria,2,2718.8,10.8,2708.0
+Male,Medium,Australian Capital Territory,2,3184.9049999999997,9.905,3175.0
+Female,Medium,Western Australia,2,935.665,3.665,932.0
+Female,Medium,South Australia,2,1028.78,134.78,894.0
+Male,Low,New South Wales,2,1144.635,160.635,984.0
+Female,Medium,Tasmania,2,1958.095,8.095,1950.0
+Male,Medium,Northern Territory,1,1255.96,7.96,1248.0
+Male,High,Tasmania,1,1237.97,133.97,1104.0
+Female,Low,Victoria,1,1232.0,0,1232.0
+Female,High,South Australia,1,1208.37,8.37,1200.0
+Male,Low,South Australia,1,1177.21,17.21,1160.0
+Male,Medium,Queensland,1,1354.61,14.61,1340.0
+Female,Low,South Australia,1,1143.67,323.67,820.0
+Female,High,Australian Capital Territory,1,1074.77,18.77,1056.0
+Female,Low,Northern Territory,1,1068.02,18.02,1050.0
+Female,Medium,Queensland,1,983.33,23.33,960.0
+Female,Medium,New South Wales,1,1366.3899999999999,454.39,912.0
+Female,Medium,Victoria,1,960.0,0,960.0
+Male,Low,Australian Capital Territory,1,1976.39,1880.39,96.0
+Female,High,New South Wales,1,924.33,12.33,912.0
+Male,High,New South Wales,1,903.6,375.6,528.0
+Male,Medium,Western Australia,1,900.15,6.15,894.0
+Female,Medium,Northern Territory,1,897.78,3.78,894.0
+Female,Low,Tasmania,1,857.35,17.35,840.0
+Male,Medium,Tasmania,1,2210.68,10.68,2200.0

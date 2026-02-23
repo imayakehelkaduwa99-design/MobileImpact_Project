@@ -1,0 +1,2213 @@
+customer_id,gender,income_level,location,last_activity_date
+866504,Unknown,High,Queensland,1900-01-01
+1251894,Unknown,Medium,Western Australia,1900-01-01
+1571104,Unknown,High,Northern Territory,1900-01-01
+961894,Unknown,Medium,Victoria,1900-01-01
+1337794,Unknown,Medium,South Australia,1900-01-01
+137794,Unknown,Low,Western Australia,1900-01-01
+4933904,Unknown,Low,Western Australia,1900-01-01
+1601894,Unknown,Low,New South Wales,1900-01-01
+726194,Unknown,Low,Queensland,1900-01-01
+485694,Unknown,Medium,New South Wales,1900-01-01
+549894,Unknown,Low,Queensland,1900-01-01
+434094,Unknown,Low,South Australia,1900-01-01
+265194,Unknown,Medium,South Australia,1900-01-01
+15894,Male,Low,Queensland,1900-01-01
+144894,Unknown,Low,Tasmania,1900-01-01
+1062194,Unknown,Low,South Australia,1900-01-01
+655794,Female,Low,Victoria,1900-01-01
+147004,Unknown,Medium,Northern Territory,1900-01-01
+1566094,Unknown,Low,Tasmania,1900-01-01
+1166094,Unknown,Low,Victoria,1900-01-01
+1460894,Unknown,Low,Queensland,1900-01-01
+1447094,Male,Low,Australian Capital Territory,1900-01-01
+451894,Unknown,Medium,Victoria,1900-01-01
+1335894,Unknown,Medium,Australian Capital Territory,1900-01-01
+1198694,Male,Low,Western Australia,1900-01-01
+1466094,Unknown,Low,Australian Capital Territory,1900-01-01
+1455794,Unknown,Low,South Australia,1900-01-01
+8268504,Unknown,Low,Queensland,1900-01-01
+189794,Unknown,Low,Queensland,1900-01-01
+734894,Unknown,Low,Australian Capital Territory,1900-01-01
+337794,Unknown,Low,Tasmania,1900-01-01
+582894,Unknown,Low,Tasmania,1900-01-01
+1262604,Unknown,Low,Tasmania,1900-01-01
+993994,Unknown,Low,Tasmania,1900-01-01
+115894,Unknown,Low,Tasmania,1900-01-01
+739994,Unknown,Low,Australian Capital Territory,1900-01-01
+747794,Unknown,High,South Australia,1900-01-01
+93994,Unknown,Low,Australian Capital Territory,1900-01-01
+155404,Female,Low,Tasmania,1900-01-01
+449194,Unknown,High,New South Wales,1900-01-01
+935994,Unknown,Low,Northern Territory,1900-01-01
+248194,Unknown,High,Western Australia,1900-01-01
+990094,Unknown,High,Western Australia,1900-01-01
+917894,Unknown,High,Western Australia,1900-01-01
+1045304,Unknown,High,New South Wales,1900-01-01
+798694,Unknown,Low,Western Australia,1900-01-01
+1112704,Unknown,Low,Western Australia,1900-01-01
+637304,Unknown,Medium,Queensland,1900-01-01
+2734894,Unknown,High,New South Wales,1900-01-01
+6042994,Unknown,Low,Western Australia,1900-01-01
+3697704,Unknown,Low,Queensland,1900-01-01
+795694,Unknown,Low,Queensland,1900-01-01
+2403704,Unknown,Low,Queensland,1900-01-01
+9015894,Unknown,Medium,Australian Capital Territory,1900-01-01
+1236194,Unknown,Medium,Western Australia,1900-01-01
+1795694,Unknown,Low,Western Australia,1900-01-01
+805204,Unknown,Medium,Tasmania,1900-01-01
+1535994,Unknown,Low,Western Australia,1900-01-01
+757194,Male,Low,Victoria,1900-01-01
+29894,Unknown,Low,Victoria,1900-01-01
+156504,Unknown,Medium,Western Australia,1900-01-01
+2449894,Unknown,High,Victoria,1900-01-01
+99794,Unknown,Low,New South Wales,1900-01-01
+9855894,Unknown,Medium,Western Australia,1900-01-01
+304204,Unknown,Medium,Australian Capital Territory,1900-01-01
+711094,Unknown,Low,New South Wales,1900-01-01
+457994,Unknown,Low,Western Australia,1900-01-01
+1266094,Unknown,Low,New South Wales,1900-01-01
+6259794,Unknown,Medium,New South Wales,1900-01-01
+1329894,Unknown,Low,New South Wales,1900-01-01
+1140704,Unknown,Medium,New South Wales,1900-01-01
+224894,Unknown,High,Victoria,1900-01-01
+730504,Unknown,High,Northern Territory,1900-01-01
+1415894,Unknown,High,Victoria,1900-01-01
+472894,Unknown,Medium,South Australia,1900-01-01
+455194,Unknown,Medium,New South Wales,1900-01-01
+6041894,Unknown,Medium,Western Australia,1900-01-01
+633894,Unknown,Low,Victoria,1900-01-01
+2323194,Unknown,High,Northern Territory,1900-01-01
+824604,Unknown,Medium,Tasmania,1900-01-01
+106694,Unknown,Medium,Tasmania,1900-01-01
+1347804,Unknown,High,Queensland,1900-01-01
+1159194,Unknown,Medium,South Australia,1900-01-01
+239704,Unknown,Low,New South Wales,1900-01-01
+240904,Unknown,High,Western Australia,1900-01-01
+270004,Unknown,Low,New South Wales,1900-01-01
+934094,Unknown,Medium,Victoria,1900-01-01
+9442094,Unknown,Medium,Tasmania,1900-01-01
+4656104,Unknown,Medium,Western Australia,1900-01-01
+1009994,Unknown,Low,New South Wales,1900-01-01
+366094,Female,Low,New South Wales,1900-01-01
+1119004,Unknown,Medium,Western Australia,1900-01-01
+259704,Unknown,High,Queensland,1900-01-01
+1395694,Unknown,High,Western Australia,1900-01-01
+696604,Unknown,Medium,Tasmania,1900-01-01
+1556194,Unknown,High,Tasmania,1900-01-01
+1149094,Unknown,Medium,Western Australia,1900-01-01
+733094,Unknown,High,Queensland,1900-01-01
+1064894,Unknown,Medium,Northern Territory,1900-01-01
+1449894,Unknown,Medium,Tasmania,1900-01-01
+5850094,Female,High,Queensland,1900-01-01
+221094,Unknown,Low,New South Wales,1900-01-01
+733894,Unknown,Medium,Western Australia,1900-01-01
+4734404,Unknown,High,Australian Capital Territory,1900-01-01
+352094,Unknown,High,Queensland,1900-01-01
+749894,Unknown,Medium,Victoria,1900-01-01
+1277994,Male,Low,New South Wales,1900-01-01
+349094,Unknown,High,Northern Territory,1900-01-01
+1436904,Unknown,High,Northern Territory,1900-01-01
+183994,Unknown,High,Tasmania,1900-01-01
+2831604,Unknown,Medium,Victoria,1900-01-01
+933894,Unknown,High,Victoria,1900-01-01
+307604,Unknown,High,Northern Territory,1900-01-01
+295994,Female,Medium,Northern Territory,1900-01-01
+670104,Unknown,Medium,Northern Territory,1900-01-01
+1180994,Unknown,Low,New South Wales,1900-01-01
+361504,Female,High,Victoria,1900-01-01
+1082894,Unknown,High,Western Australia,1900-01-01
+1574804,Unknown,High,Western Australia,1900-01-01
+995994,Unknown,High,Victoria,1900-01-01
+1549894,Unknown,High,Australian Capital Territory,1900-01-01
+7095704,Unknown,High,Victoria,1900-01-01
+724604,Unknown,Medium,Northern Territory,1900-01-01
+71894,Unknown,High,Queensland,1900-01-01
+817694,Unknown,High,Tasmania,1900-01-01
+5933794,Unknown,High,Tasmania,1900-01-01
+883994,Unknown,Medium,Australian Capital Territory,1900-01-01
+152994,Unknown,Medium,Tasmania,1900-01-01
+1008194,Unknown,Medium,Tasmania,1900-01-01
+3842994,Unknown,High,Australian Capital Territory,1900-01-01
+288694,Unknown,Medium,Tasmania,1900-01-01
+3056104,Female,Medium,Tasmania,1900-01-01
+87704,Unknown,High,Tasmania,1900-01-01
+4260004,Unknown,High,Tasmania,1900-01-01
+437794,Unknown,Medium,Australian Capital Territory,1900-01-01
+441894,Unknown,Medium,Australian Capital Territory,1900-01-01
+2756194,Unknown,High,Tasmania,1900-01-01
+488694,Unknown,High,Victoria,1900-01-01
+1419504,Unknown,High,Victoria,1900-01-01
+1411094,Unknown,High,Northern Territory,1900-01-01
+1068094,Unknown,High,Northern Territory,1900-01-01
+325694,Male,Medium,Queensland,1900-01-01
+103994,Unknown,Medium,Queensland,1900-01-01
+4935994,Unknown,Medium,Queensland,1900-01-01
+5547994,Unknown,High,South Australia,1900-01-01
+699794,Unknown,Medium,Queensland,1900-01-01
+1401094,Unknown,Medium,Queensland,1900-01-01
+815694,Female,Medium,Queensland,1900-01-01
+262894,Female,High,South Australia,1900-01-01
+884804,Unknown,Medium,Australian Capital Territory,1900-01-01
+6560094,Unknown,High,South Australia,1900-01-01
+450804,Unknown,High,Australian Capital Territory,1900-01-01
+424894,Male,Medium,Western Australia,1900-01-01
+493994,Unknown,Medium,Queensland,1900-01-01
+6221704,Unknown,Medium,Victoria,1900-01-01
+1337194,Unknown,High,New South Wales,1900-01-01
+19994,Unknown,High,Australian Capital Territory,1900-01-01
+447794,Unknown,Medium,Victoria,1900-01-01
+1199894,Unknown,High,South Australia,1900-01-01
+736194,Unknown,Medium,Queensland,1900-01-01
+67194,Unknown,Medium,New South Wales,1900-01-01
+2315204,Unknown,High,New South Wales,1900-01-01
+1147704,Unknown,High,Australian Capital Territory,1900-01-01
+49094,Unknown,Medium,New South Wales,1900-01-01
+734094,Unknown,High,South Australia,1900-01-01
+8194,Unknown,High,South Australia,1900-01-01
+1555894,Female,Medium,South Australia,1900-01-01
+365894,Unknown,Medium,South Australia,1900-01-01
+5671904,Unknown,Medium,New South Wales,1900-01-01
+1105894,Unknown,High,Northern Territory,1900-01-01
+606094,Unknown,Medium,New South Wales,1900-01-01
+1574504,Female,Medium,Northern Territory,1900-01-01
+885694,Unknown,High,Northern Territory,1900-01-01
+970094,Unknown,High,Victoria,1900-01-01
+8221094,Unknown,High,Queensland,1900-01-01
+195694,Unknown,High,Queensland,1900-01-01
+1560094,Unknown,Medium,New South Wales,1900-01-01
+226194,Unknown,Medium,New South Wales,1900-01-01
+343894,Unknown,High,Western Australia,1900-01-01
+1037794,Unknown,High,Queensland,1900-01-01
+1455894,Unknown,Medium,New South Wales,1900-01-01
+1227894,Unknown,Medium,Tasmania,1900-01-01
+1252604,Unknown,High,Western Australia,1900-01-01
+402194,Unknown,Medium,Western Australia,1900-01-01
+920304,Unknown,Low,Western Australia,2024-01-09
+1250304,Unknown,Medium,New South Wales,2024-01-11
+809994,Unknown,High,Western Australia,2024-01-12
+60304,Unknown,High,South Australia,2024-01-13
+6850304,Unknown,Medium,New South Wales,2024-01-13
+1170304,Unknown,Low,Victoria,2024-01-14
+7370304,Unknown,High,Western Australia,2024-01-14
+970304,Unknown,Medium,Northern Territory,2024-01-14
+1024894,Unknown,Medium,Queensland,2024-01-17
+621304,Unknown,High,South Australia,2024-01-20
+1431304,Unknown,Low,Victoria,2024-01-22
+532304,Unknown,Low,Australian Capital Territory,2024-01-27
+1432304,Unknown,Medium,New South Wales,2024-01-27
+882304,Unknown,Low,Western Australia,2024-01-31
+742304,Unknown,Low,New South Wales,2024-01-31
+9613304,Unknown,Medium,Victoria,2024-01-31
+1545994,Male,High,Australian Capital Territory,2024-02-01
+193994,Female,High,Tasmania,2024-02-03
+8563304,Unknown,High,Western Australia,2024-02-03
+673304,Male,High,Australian Capital Territory,2024-02-04
+5155894,Female,High,Tasmania,2024-02-04
+1083304,Male,Medium,Queensland,2024-02-05
+803994,Unknown,High,Victoria,2024-02-09
+364304,Unknown,Low,Victoria,2024-02-09
+1370094,Unknown,Medium,South Australia,2024-02-14
+1202194,Unknown,High,New South Wales,2024-02-15
+1055304,Unknown,Medium,Victoria,2024-02-17
+157094,Unknown,High,Tasmania,2024-02-17
+616304,Unknown,High,Tasmania,2024-02-22
+3126304,Unknown,Low,Victoria,2024-02-23
+1526304,Unknown,High,New South Wales,2024-02-24
+426304,Unknown,Low,Western Australia,2024-02-24
+626304,Unknown,High,Tasmania,2024-02-28
+5976304,Unknown,Medium,Queensland,2024-02-28
+783194,Unknown,High,Northern Territory,2024-02-28
+1586304,Unknown,Medium,Western Australia,2024-03-01
+57304,Unknown,High,South Australia,2024-03-04
+249894,Unknown,Low,Australian Capital Territory,2024-03-07
+1253304,Unknown,Low,New South Wales,2024-03-10
+8358894,Unknown,High,New South Wales,2024-03-10
+2198304,Unknown,Medium,Tasmania,2024-03-10
+929304,Unknown,High,Australian Capital Territory,2024-03-12
+329304,Unknown,Low,South Australia,2024-03-12
+5870404,Unknown,High,Northern Territory,2024-03-16
+170404,Unknown,Medium,South Australia,2024-03-16
+880404,Male,Low,Western Australia,2024-03-17
+302404,Unknown,High,Australian Capital Territory,2024-03-22
+1402404,Unknown,Low,Tasmania,2024-03-22
+222404,Unknown,Medium,Northern Territory,2024-03-24
+492404,Unknown,High,Tasmania,2024-03-29
+1492404,Unknown,High,Victoria,2024-03-29
+292404,Unknown,Medium,Tasmania,2024-03-29
+192404,Unknown,High,Victoria,2024-03-29
+1192404,Unknown,Medium,Victoria,2024-03-29
+103404,Unknown,High,South Australia,2024-03-30
+792404,Unknown,Medium,South Australia,2024-03-30
+992404,Unknown,Low,New South Wales,2024-03-30
+403404,Unknown,Low,Queensland,2024-03-31
+1603404,Unknown,Low,Queensland,2024-03-31
+303404,Female,Medium,Australian Capital Territory,2024-03-31
+213404,Unknown,Medium,Tasmania,2024-04-01
+6483404,Unknown,Medium,Queensland,2024-04-07
+914404,Unknown,Low,Victoria,2024-04-11
+1524404,Unknown,High,Tasmania,2024-04-12
+692994,Unknown,Medium,New South Wales,2024-04-19
+1446194,Unknown,High,New South Wales,2024-04-19
+594404,Unknown,Low,New South Wales,2024-04-21
+605404,Unknown,Low,South Australia,2024-04-23
+505404,Unknown,High,South Australia,2024-04-23
+194404,Unknown,Low,Victoria,2024-04-26
+245404,Unknown,Medium,Northern Territory,2024-04-27
+635404,Unknown,Low,South Australia,2024-04-27
+737794,Unknown,High,Western Australia,2024-04-28
+1445404,Unknown,High,Australian Capital Territory,2024-04-28
+8845404,Unknown,Medium,South Australia,2024-04-28
+1149894,Unknown,Low,Australian Capital Territory,2024-04-28
+1355404,Unknown,High,Australian Capital Territory,2024-04-29
+485404,Unknown,Low,Northern Territory,2024-05-03
+1561894,Unknown,High,New South Wales,2024-05-05
+5216404,Unknown,Medium,Australian Capital Territory,2024-05-09
+721794,Unknown,Low,Tasmania,2024-05-11
+936404,Unknown,High,South Australia,2024-05-12
+1174304,Female,High,Victoria,2024-05-13
+646404,Unknown,High,Australian Capital Territory,2024-05-13
+877404,Unknown,Low,Queensland,2024-05-26
+1523894,Unknown,Medium,Northern Territory,2024-05-26
+777404,Unknown,High,New South Wales,2024-05-26
+9485694,Unknown,Low,New South Wales,2024-05-26
+7573404,Unknown,Medium,Western Australia,2024-05-27
+828404,Unknown,Low,Northern Territory,2024-06-01
+938404,Unknown,High,Northern Territory,2024-06-02
+838404,Unknown,Low,New South Wales,2024-06-02
+1333194,Unknown,Medium,Western Australia,2024-06-02
+1187404,Unknown,Low,New South Wales,2024-06-03
+248404,Unknown,Low,Western Australia,2024-06-03
+1488404,Unknown,High,South Australia,2024-06-06
+98404,Unknown,Low,New South Wales,2024-06-07
+1198404,Unknown,High,Australian Capital Territory,2024-06-07
+1348404,Unknown,High,Queensland,2024-06-08
+138404,Unknown,Medium,Northern Territory,2024-06-08
+909404,Unknown,High,Australian Capital Territory,2024-06-09
+359404,Unknown,High,Queensland,2024-06-16
+393994,Unknown,Medium,Queensland,2024-06-17
+5269404,Unknown,Low,Northern Territory,2024-06-17
+900504,Female,High,Northern Territory,2024-06-20
+73304,Unknown,Low,South Australia,2024-06-20
+468894,Unknown,Low,New South Wales,2024-06-21
+510504,Unknown,Low,Western Australia,2024-06-21
+20504,Unknown,High,New South Wales,2024-06-22
+230504,Unknown,Medium,New South Wales,2024-06-23
+1230504,Unknown,Low,New South Wales,2024-06-23
+1430504,Unknown,Medium,Northern Territory,2024-06-24
+421504,Unknown,Medium,Tasmania,2024-06-28
+434894,Unknown,Medium,Tasmania,2024-06-29
+8631504,Unknown,Medium,Victoria,2024-06-29
+902504,Unknown,High,Northern Territory,2024-07-04
+272504,Unknown,High,Victoria,2024-07-06
+2962504,Unknown,Low,Western Australia,2024-07-06
+1133504,Unknown,Medium,Australian Capital Territory,2024-07-12
+97404,Unknown,Medium,New South Wales,2024-07-13
+9143504,Unknown,High,Tasmania,2024-07-14
+1593504,Female,High,Tasmania,2024-07-21
+624504,Unknown,Low,Western Australia,2024-07-25
+2954504,Unknown,High,Australian Capital Territory,2024-07-26
+2164504,Female,Low,Australian Capital Territory,2024-07-26
+9854504,Unknown,Low,Northern Territory,2024-07-26
+2474504,Unknown,Low,South Australia,2024-07-28
+774504,Unknown,Low,Queensland,2024-07-28
+874504,Male,High,Western Australia,2024-07-28
+2986404,Unknown,Low,Australian Capital Territory,2024-07-29
+1284504,Unknown,High,South Australia,2024-07-29
+128794,Unknown,Medium,Victoria,2024-08-01
+745504,Unknown,Medium,Australian Capital Territory,2024-08-02
+1175504,Unknown,Low,Australian Capital Territory,2024-08-03
+270404,Unknown,Low,Victoria,2024-08-03
+675504,Unknown,Low,Northern Territory,2024-08-03
+4195504,Unknown,Medium,New South Wales,2024-08-05
+595504,Unknown,Medium,Australian Capital Territory,2024-08-06
+9306504,Unknown,Low,New South Wales,2024-08-08
+9720504,Male,High,Northern Territory,2024-08-08
+336504,Unknown,Medium,Western Australia,2024-08-08
+702794,Unknown,Low,Queensland,2024-08-10
+1546504,Unknown,High,Tasmania,2024-08-10
+56504,Unknown,Medium,South Australia,2024-08-10
+1550094,Unknown,Low,Northern Territory,2024-08-12
+998194,Unknown,Medium,Victoria,2024-08-12
+74304,Unknown,High,New South Wales,2024-08-12
+1385404,Unknown,High,Queensland,2024-08-12
+1522404,Unknown,High,Western Australia,2024-08-13
+8157094,Unknown,High,South Australia,2024-08-13
+276504,Unknown,High,Queensland,2024-08-14
+1617304,Unknown,High,New South Wales,2024-08-14
+628504,Unknown,Low,Western Australia,2024-08-15
+923504,Unknown,Low,South Australia,2024-08-15
+1458504,Female,High,Australian Capital Territory,2024-08-17
+468504,Unknown,Low,South Australia,2024-08-18
+768504,Unknown,Medium,Western Australia,2024-08-19
+888504,Unknown,High,Western Australia,2024-08-22
+766194,Unknown,Low,Victoria,2024-08-23
+319504,Unknown,High,Northern Territory,2024-08-24
+1119504,Unknown,High,Queensland,2024-08-24
+1229504,Unknown,High,Northern Territory,2024-08-25
+1129504,Unknown,Low,Tasmania,2024-08-25
+29504,Unknown,High,Tasmania,2024-08-25
+3248304,Unknown,Low,Western Australia,2024-08-26
+695404,Unknown,High,Western Australia,2024-08-26
+929504,Unknown,Low,Western Australia,2024-08-27
+199504,Unknown,Low,Northern Territory,2024-08-29
+870604,Unknown,Medium,Northern Territory,2024-08-29
+1171504,Unknown,Medium,New South Wales,2024-08-29
+1610604,Unknown,Low,Victoria,2024-08-29
+1390604,Unknown,High,Western Australia,2024-08-30
+1790604,Unknown,High,Australian Capital Territory,2024-08-31
+3732304,Unknown,Medium,South Australia,2024-09-01
+526304,Unknown,Medium,New South Wales,2024-09-02
+1165694,Male,High,Victoria,2024-09-02
+488304,Unknown,Medium,Western Australia,2024-09-02
+62604,Unknown,Low,Northern Territory,2024-09-07
+1013994,Unknown,Medium,Northern Territory,2024-09-08
+5108194,Unknown,High,Australian Capital Territory,2024-09-08
+582604,Unknown,Medium,Australian Capital Territory,2024-09-12
+153504,Unknown,High,Victoria,2024-09-13
+4224604,Unknown,Low,Australian Capital Territory,2024-09-14
+1024604,Unknown,Medium,New South Wales,2024-09-14
+4724604,Unknown,Medium,Queensland,2024-09-15
+1044894,Male,Low,Queensland,2024-09-15
+225604,Unknown,High,Northern Territory,2024-09-19
+1814604,Male,Medium,South Australia,2024-09-19
+1011704,Unknown,Medium,South Australia,2024-09-28
+1271704,Unknown,Medium,Northern Territory,2024-10-03
+996404,Female,Low,South Australia,2024-10-04
+981704,Unknown,Medium,Australian Capital Territory,2024-10-05
+1491704,Unknown,Low,Australian Capital Territory,2024-10-06
+1191704,Unknown,High,Australian Capital Territory,2024-10-06
+4991704,Female,High,New South Wales,2024-10-07
+135194,Unknown,Medium,Australian Capital Territory,2024-10-07
+7891704,Unknown,High,Australian Capital Territory,2024-10-07
+1612704,Unknown,High,Victoria,2024-10-11
+932704,Unknown,Low,South Australia,2024-10-14
+842704,Unknown,Medium,New South Wales,2024-10-15
+163704,Unknown,Medium,Australian Capital Territory,2024-10-18
+1163704,Unknown,Low,Tasmania,2024-10-18
+5373704,Unknown,Medium,Northern Territory,2024-10-20
+1132094,Unknown,Medium,New South Wales,2024-10-20
+3083704,Unknown,Medium,Australian Capital Territory,2024-10-21
+7699194,Unknown,Low,Tasmania,2024-10-21
+1280404,Unknown,Low,New South Wales,2024-10-21
+2288304,Male,Medium,South Australia,2024-10-21
+966094,Unknown,Low,Australian Capital Territory,2024-10-21
+575704,Unknown,Medium,Australian Capital Territory,2024-10-25
+1929404,Male,Medium,New South Wales,2024-10-26
+7385704,Unknown,Low,Australian Capital Territory,2024-10-26
+695704,Unknown,Medium,Tasmania,2024-10-28
+1207704,Unknown,High,Victoria,2024-11-02
+117704,Unknown,High,Australian Capital Territory,2024-11-03
+9573304,Unknown,High,New South Wales,2024-11-03
+3074304,Unknown,Medium,New South Wales,2024-11-03
+5707704,Unknown,High,Queensland,2024-11-03
+1533404,Unknown,Low,Tasmania,2024-11-04
+1538504,Female,Low,Victoria,2024-11-04
+1617704,Unknown,High,New South Wales,2024-11-04
+4617704,Unknown,High,Western Australia,2024-11-04
+1534404,Female,Low,Queensland,2024-11-04
+942094,Unknown,Medium,Queensland,2024-11-07
+47704,Unknown,Medium,South Australia,2024-11-08
+5247704,Unknown,High,Queensland,2024-11-08
+980604,Unknown,Low,Australian Capital Territory,2024-11-08
+1937704,Unknown,Medium,Tasmania,2024-11-08
+647704,Unknown,Medium,Northern Territory,2024-11-09
+1557704,Female,Medium,South Australia,2024-11-10
+1372894,Unknown,High,New South Wales,2024-11-10
+1355994,Male,Medium,Queensland,2024-11-11
+587704,Unknown,Medium,Tasmania,2024-11-14
+987704,Unknown,Medium,Northern Territory,2024-11-15
+6987704,Unknown,Medium,Northern Territory,2024-11-15
+308704,Unknown,High,Northern Territory,2024-11-16
+1404504,Male,High,Western Australia,2024-11-16
+708704,Unknown,Medium,Western Australia,2024-11-17
+218704,Unknown,Low,Tasmania,2024-11-17
+1528704,Unknown,Low,Northern Territory,2024-11-19
+1178704,Unknown,Medium,Northern Territory,2024-11-22
+6078704,Unknown,Medium,South Australia,2024-11-22
+78704,Unknown,Low,Tasmania,2024-11-22
+7580994,Unknown,High,Western Australia,2024-11-28
+170094,Unknown,Low,Tasmania,2024-11-28
+1472504,Unknown,Medium,Australian Capital Territory,2024-11-28
+748304,Unknown,Low,South Australia,2024-11-28
+567794,Unknown,High,Northern Territory,2024-11-28
+298504,Unknown,High,South Australia,2024-11-28
+2719894,Unknown,Medium,Northern Territory,2024-11-28
+5043894,Unknown,Medium,South Australia,2024-11-28
+620804,Unknown,High,Western Australia,2024-11-29
+754504,Unknown,High,Australian Capital Territory,2024-11-29
+8710504,Unknown,Medium,Northern Territory,2024-11-29
+1193504,Unknown,Low,New South Wales,2024-11-30
+735304,Unknown,Medium,Queensland,2024-12-01
+930804,Unknown,High,Australian Capital Territory,2024-12-01
+1605404,Unknown,Low,Australian Capital Territory,2024-12-01
+118704,Unknown,High,Victoria,2024-12-01
+340804,Unknown,Low,Victoria,2024-12-01
+6392404,Unknown,Low,Victoria,2024-12-01
+3733504,Unknown,Low,Northern Territory,2024-12-01
+1250804,Unknown,Low,Northern Territory,2024-12-02
+1150804,Unknown,Medium,New South Wales,2024-12-02
+872894,Unknown,Low,Western Australia,2024-12-05
+1270804,Unknown,Medium,Northern Territory,2024-12-05
+9190804,Unknown,High,Western Australia,2024-12-05
+1316404,Unknown,High,Western Australia,2024-12-07
+6321804,Unknown,Low,Victoria,2024-12-07
+2194,Unknown,High,Victoria,2024-12-08
+1431804,Male,Medium,Tasmania,2024-12-08
+1531804,Unknown,Medium,South Australia,2024-12-08
+151804,Unknown,Medium,Queensland,2024-12-09
+641804,Unknown,Low,Victoria,2024-12-09
+796604,Unknown,High,Queensland,2024-12-09
+841804,Unknown,Low,Australian Capital Territory,2024-12-09
+5138404,Unknown,Medium,Northern Territory,2024-12-10
+1451804,Unknown,Low,Victoria,2024-12-10
+551804,Unknown,Low,Northern Territory,2024-12-10
+819504,Unknown,Medium,Tasmania,2024-12-12
+612804,Unknown,Medium,New South Wales,2024-12-14
+164504,Unknown,Medium,Northern Territory,2024-12-14
+532804,Unknown,High,Queensland,2024-12-15
+934404,Male,Low,Queensland,2024-12-15
+1042804,Unknown,Medium,Western Australia,2024-12-15
+6661894,Unknown,Medium,New South Wales,2024-12-15
+520804,Unknown,Low,South Australia,2024-12-16
+582804,Unknown,Medium,Australian Capital Territory,2024-12-19
+1513804,Unknown,High,Victoria,2024-12-20
+946194,Unknown,Low,Western Australia,2024-12-20
+1113804,Unknown,Low,Northern Territory,2024-12-20
+8478504,Unknown,Medium,Queensland,2024-12-21
+1433804,Female,Low,Victoria,2024-12-21
+933804,Unknown,Low,Western Australia,2024-12-21
+747704,Unknown,Medium,Australian Capital Territory,2024-12-21
+687404,Unknown,Medium,Western Australia,2024-12-21
+1243504,Unknown,Medium,New South Wales,2024-12-21
+4743804,Unknown,Low,New South Wales,2024-12-22
+353804,Unknown,Low,Victoria,2024-12-22
+166094,Unknown,High,Western Australia,2024-12-22
+53804,Male,High,Queensland,2024-12-22
+1493804,Female,Medium,Australian Capital Territory,2024-12-25
+924804,Unknown,Low,Australian Capital Territory,2024-12-29
+1134804,Unknown,Medium,South Australia,2024-12-30
+534804,Unknown,High,New South Wales,2024-12-31
+4925894,Unknown,Low,Western Australia,2025-01-01
+1657994,Unknown,Medium,Western Australia,2025-01-01
+8634194,Unknown,Low,Australian Capital Territory,2025-01-01
+2249194,Unknown,Medium,Northern Territory,2025-01-01
+5757994,Female,High,Queensland,2025-01-01
+9559194,Unknown,Low,Queensland,2025-01-01
+2801604,Unknown,Low,Queensland,2025-01-02
+6129504,Unknown,Low,Queensland,2025-01-02
+3193204,Unknown,High,South Australia,2025-01-02
+5556194,Unknown,Medium,Australian Capital Territory,2025-01-02
+4121704,Unknown,Medium,Northern Territory,2025-01-02
+5399894,Unknown,Low,Queensland,2025-01-02
+8742804,Unknown,Medium,Northern Territory,2025-01-02
+9835994,Unknown,Medium,Victoria,2025-01-02
+2118194,Unknown,Medium,Victoria,2025-01-02
+4962894,Unknown,Medium,Tasmania,2025-01-02
+1921404,Unknown,Medium,Western Australia,2025-01-02
+7326194,Unknown,High,Northern Territory,2025-01-02
+1836404,Unknown,Low,Australian Capital Territory,2025-01-03
+3870094,Unknown,High,South Australia,2025-01-03
+2683804,Unknown,High,New South Wales,2025-01-03
+5521704,Unknown,Low,Queensland,2025-01-03
+5934894,Unknown,Low,New South Wales,2025-01-03
+2829894,Female,Medium,Victoria,2025-01-03
+9505404,Unknown,Low,New South Wales,2025-01-04
+3487404,Unknown,Medium,Australian Capital Territory,2025-01-04
+4964704,Unknown,High,Western Australia,2025-01-04
+8224894,Unknown,Medium,New South Wales,2025-01-04
+2736404,Unknown,Low,New South Wales,2025-01-04
+8741894,Unknown,High,South Australia,2025-01-04
+2276194,Unknown,High,New South Wales,2025-01-04
+5844504,Male,Medium,Victoria,2025-01-04
+1254804,Unknown,Low,Tasmania,2025-01-05
+5029504,Unknown,Low,Tasmania,2025-01-05
+9145194,Unknown,Low,Queensland,2025-01-05
+8232704,Unknown,High,New South Wales,2025-01-05
+2262504,Female,Medium,Australian Capital Territory,2025-01-05
+4502804,Unknown,Low,Victoria,2025-01-05
+734404,Unknown,High,New South Wales,2025-01-06
+1849404,Unknown,Medium,Western Australia,2025-01-06
+2297194,Unknown,Low,Tasmania,2025-01-06
+2719404,Unknown,Medium,New South Wales,2025-01-06
+8612194,Unknown,Low,New South Wales,2025-01-06
+7996194,Unknown,Medium,Northern Territory,2025-01-06
+6265794,Unknown,Low,South Australia,2025-01-06
+8362604,Unknown,Medium,Western Australia,2025-01-06
+9354804,Unknown,High,New South Wales,2025-01-06
+2311604,Unknown,Medium,South Australia,2025-01-06
+8860994,Female,Medium,Northern Territory,2025-01-06
+7503804,Male,High,Western Australia,2025-01-06
+6062404,Unknown,Low,Queensland,2025-01-06
+3645304,Unknown,Medium,Western Australia,2025-01-06
+654804,Unknown,Medium,Queensland,2025-01-06
+4801704,Unknown,High,Northern Territory,2025-01-07
+5901404,Unknown,Medium,South Australia,2025-01-07
+4461894,Unknown,Medium,Australian Capital Territory,2025-01-07
+5324404,Unknown,Medium,Western Australia,2025-01-07
+6873504,Unknown,High,Queensland,2025-01-08
+9526404,Unknown,Low,Victoria,2025-01-08
+9689304,Unknown,Low,Northern Territory,2025-01-08
+2052894,Unknown,High,Queensland,2025-01-08
+5919194,Unknown,Medium,Tasmania,2025-01-08
+5463704,Unknown,Medium,Victoria,2025-01-08
+8265894,Unknown,High,Queensland,2025-01-08
+1264804,Unknown,Medium,Northern Territory,2025-01-08
+4312704,Unknown,Low,Australian Capital Territory,2025-01-08
+8149194,Unknown,Medium,Tasmania,2025-01-08
+5232104,Unknown,Low,Victoria,2025-01-08
+4402194,Unknown,Low,Western Australia,2025-01-08
+9211604,Female,High,Western Australia,2025-01-08
+8720304,Unknown,High,Victoria,2025-01-09
+7670304,Unknown,Medium,South Australia,2025-01-09
+1398694,Unknown,Low,Queensland,2025-01-09
+3883994,Unknown,Medium,Victoria,2025-01-09
+9512704,Unknown,High,New South Wales,2025-01-09
+7868504,Male,Medium,New South Wales,2025-01-09
+6429894,Unknown,High,Australian Capital Territory,2025-01-09
+7897194,Unknown,Medium,Victoria,2025-01-09
+3950094,Unknown,High,Australian Capital Territory,2025-01-09
+6770304,Unknown,Low,South Australia,2025-01-10
+2441804,Unknown,High,Western Australia,2025-01-10
+3277994,Female,Low,Victoria,2025-01-10
+8342404,Unknown,Medium,Victoria,2025-01-10
+4761894,Unknown,High,Tasmania,2025-01-10
+5749894,Unknown,Medium,Tasmania,2025-01-10
+6825894,Unknown,Low,New South Wales,2025-01-10
+6485404,Unknown,High,Australian Capital Territory,2025-01-10
+5739194,Unknown,Low,Australian Capital Territory,2025-01-11
+3511094,Unknown,High,Western Australia,2025-01-11
+5475194,Unknown,Medium,Victoria,2025-01-11
+3045304,Female,Low,South Australia,2025-01-11
+9262304,Unknown,Medium,New South Wales,2025-01-11
+994804,Unknown,High,South Australia,2025-01-11
+2753304,Unknown,Medium,South Australia,2025-01-12
+1693994,Unknown,Medium,New South Wales,2025-01-12
+9071904,Unknown,Medium,New South Wales,2025-01-12
+9618704,Unknown,Low,Queensland,2025-01-12
+2655304,Unknown,Low,South Australia,2025-01-12
+8310304,Female,Medium,South Australia,2025-01-12
+5965694,Unknown,Low,Tasmania,2025-01-13
+2027304,Unknown,Medium,Northern Territory,2025-01-13
+2243504,Unknown,Medium,New South Wales,2025-01-13
+6593894,Unknown,Medium,Victoria,2025-01-13
+7137404,Unknown,Medium,Queensland,2025-01-13
+3042704,Unknown,High,Tasmania,2025-01-13
+4743504,Female,Low,Queensland,2025-01-13
+815804,Unknown,Low,New South Wales,2025-01-14
+6468704,Unknown,Medium,Northern Territory,2025-01-14
+7801704,Unknown,Low,New South Wales,2025-01-14
+1673704,Unknown,Low,New South Wales,2025-01-14
+9154004,Unknown,Low,Western Australia,2025-01-14
+5721304,Female,High,Queensland,2025-01-14
+6209304,Male,High,South Australia,2025-01-14
+5990094,Unknown,Medium,New South Wales,2025-01-14
+3119994,Unknown,Medium,Tasmania,2025-01-14
+6062894,Unknown,Medium,South Australia,2025-01-15
+4352094,Unknown,High,South Australia,2025-01-15
+1783804,Unknown,Low,Northern Territory,2025-01-15
+9777194,Unknown,Medium,Tasmania,2025-01-15
+3743804,Unknown,Medium,Northern Territory,2025-01-15
+2824894,Unknown,Low,South Australia,2025-01-15
+2733794,Unknown,Medium,Tasmania,2025-01-15
+2094894,Unknown,High,New South Wales,2025-01-15
+3779894,Unknown,Low,South Australia,2025-01-16
+5792404,Unknown,Medium,Western Australia,2025-01-16
+535804,Unknown,Low,Tasmania,2025-01-16
+8767994,Unknown,High,Tasmania,2025-01-16
+6751894,Unknown,High,Australian Capital Territory,2025-01-16
+5271504,Unknown,High,Western Australia,2025-01-16
+4581504,Unknown,Medium,Queensland,2025-01-16
+225804,Unknown,Low,Australian Capital Territory,2025-01-16
+1923894,Unknown,Medium,Australian Capital Territory,2025-01-16
+9605204,Unknown,Medium,Tasmania,2025-01-16
+3967404,Unknown,Low,Queensland,2025-01-16
+5011404,Unknown,High,Queensland,2025-01-16
+1017304,Unknown,Medium,Queensland,2025-01-16
+3187194,Unknown,Medium,Australian Capital Territory,2025-01-16
+6712704,Unknown,Low,Northern Territory,2025-01-16
+2207404,Unknown,Low,Queensland,2025-01-16
+1613804,Female,Low,South Australia,2025-01-16
+5070504,Unknown,High,New South Wales,2025-01-17
+5286304,Unknown,Low,Queensland,2025-01-17
+6756194,Unknown,High,Victoria,2025-01-17
+5191804,Unknown,Medium,Australian Capital Territory,2025-01-17
+3116804,Unknown,Medium,Northern Territory,2025-01-17
+3853804,Female,Low,Western Australia,2025-01-17
+16804,Unknown,High,Victoria,2025-01-17
+6274304,Unknown,High,South Australia,2025-01-18
+4324604,Female,Low,Tasmania,2025-01-18
+9926904,Unknown,High,Australian Capital Territory,2025-01-18
+7434404,Unknown,Low,Tasmania,2025-01-18
+216804,Unknown,Medium,Australian Capital Territory,2025-01-18
+9505804,Unknown,Low,Tasmania,2025-01-19
+7027304,Unknown,Medium,New South Wales,2025-01-19
+4620804,Unknown,High,Western Australia,2025-01-19
+8267204,Unknown,Medium,New South Wales,2025-01-19
+3176194,Unknown,Medium,Northern Territory,2025-01-19
+2327894,Unknown,Medium,South Australia,2025-01-19
+4805804,Unknown,Medium,Australian Capital Territory,2025-01-19
+9513804,Unknown,Medium,Victoria,2025-01-19
+1123804,Unknown,Medium,Australian Capital Territory,2025-01-19
+7830804,Unknown,Low,South Australia,2025-01-19
+436804,Unknown,Medium,South Australia,2025-01-20
+2496404,Unknown,High,South Australia,2025-01-20
+6258504,Unknown,Low,Tasmania,2025-01-20
+7119994,Unknown,Medium,Queensland,2025-01-20
+5209404,Unknown,High,Queensland,2025-01-20
+7945404,Unknown,Medium,New South Wales,2025-01-20
+5236804,Unknown,Medium,Queensland,2025-01-20
+7081704,Unknown,Medium,Victoria,2025-01-20
+7315894,Female,High,Western Australia,2025-01-20
+6524804,Unknown,Low,Northern Territory,2025-01-20
+9995194,Unknown,Low,Queensland,2025-01-20
+4647404,Unknown,Medium,Northern Territory,2025-01-21
+6869894,Unknown,Medium,Victoria,2025-01-21
+5748404,Female,High,South Australia,2025-01-21
+7851504,Unknown,Low,Tasmania,2025-01-21
+7072504,Unknown,Low,Tasmania,2025-01-21
+1224604,Female,Medium,Victoria,2025-01-21
+4498794,Unknown,High,Northern Territory,2025-01-21
+4721794,Unknown,Medium,Western Australia,2025-01-22
+2631504,Unknown,High,Queensland,2025-01-22
+2707404,Unknown,High,Queensland,2025-01-22
+6429994,Female,Low,Tasmania,2025-01-22
+8052994,Unknown,Medium,Northern Territory,2025-01-22
+2309404,Unknown,High,Western Australia,2025-01-22
+9493604,Unknown,High,Victoria,2025-01-22
+6174504,Male,High,Northern Territory,2025-01-22
+4835994,Unknown,Medium,Northern Territory,2025-01-22
+6387404,Unknown,Medium,Queensland,2025-01-22
+4205804,Unknown,Medium,Tasmania,2025-01-22
+1918404,Unknown,High,New South Wales,2025-01-23
+3486804,Unknown,High,Australian Capital Territory,2025-01-23
+3256804,Unknown,Low,Western Australia,2025-01-23
+1856804,Unknown,Low,Northern Territory,2025-01-23
+7769194,Unknown,High,New South Wales,2025-01-23
+6634094,Unknown,High,Tasmania,2025-01-23
+4367304,Unknown,Medium,Victoria,2025-01-23
+3246804,Unknown,High,Western Australia,2025-01-23
+7343404,Unknown,Medium,South Australia,2025-01-24
+2081804,Male,High,South Australia,2025-01-24
+4340804,Female,High,South Australia,2025-01-24
+9696804,Unknown,Medium,Western Australia,2025-01-24
+6762504,Unknown,Low,South Australia,2025-01-24
+6375894,Unknown,Low,Australian Capital Territory,2025-01-24
+6956504,Unknown,Low,Queensland,2025-01-24
+4596804,Unknown,High,Victoria,2025-01-24
+3202194,Unknown,High,Australian Capital Territory,2025-01-24
+6957204,Unknown,High,South Australia,2025-01-24
+3954004,Unknown,High,South Australia,2025-01-24
+2324704,Unknown,Medium,Western Australia,2025-01-24
+6657994,Unknown,Medium,Western Australia,2025-01-24
+5943804,Unknown,High,Australian Capital Territory,2025-01-24
+4578304,Unknown,Low,Tasmania,2025-01-25
+9996804,Unknown,High,Northern Territory,2025-01-25
+1007804,Unknown,Medium,Western Australia,2025-01-25
+6853604,Unknown,Medium,South Australia,2025-01-25
+7804,Unknown,Medium,Victoria,2025-01-25
+3417704,Unknown,Medium,New South Wales,2025-01-25
+2207804,Unknown,High,Western Australia,2025-01-25
+8876304,Unknown,High,South Australia,2025-01-25
+6166194,Unknown,Low,New South Wales,2025-01-25
+1663704,Unknown,High,Victoria,2025-01-25
+4695404,Unknown,Low,Northern Territory,2025-01-25
+6776804,Unknown,Medium,New South Wales,2025-01-25
+8419994,Unknown,High,Queensland,2025-01-25
+3677404,Unknown,Medium,New South Wales,2025-01-26
+5165094,Unknown,High,Tasmania,2025-01-26
+9384804,Unknown,Medium,Queensland,2025-01-26
+3252604,Unknown,Low,Western Australia,2025-01-26
+2010504,Unknown,Medium,Australian Capital Territory,2025-01-26
+9994894,Unknown,Low,Northern Territory,2025-01-26
+2712804,Unknown,High,Australian Capital Territory,2025-01-26
+1965894,Unknown,High,Western Australia,2025-01-26
+7276094,Unknown,Medium,Northern Territory,2025-01-26
+2235004,Unknown,Medium,Queensland,2025-01-26
+4401404,Unknown,Low,Australian Capital Territory,2025-01-26
+2548404,Female,Low,New South Wales,2025-01-26
+3767704,Unknown,Low,Australian Capital Territory,2025-01-26
+2373704,Unknown,Medium,New South Wales,2025-01-26
+4417704,Unknown,Medium,New South Wales,2025-01-27
+5554804,Unknown,High,Australian Capital Territory,2025-01-27
+4102804,Unknown,Medium,Western Australia,2025-01-27
+3217804,Unknown,High,Western Australia,2025-01-27
+4007304,Unknown,Low,Queensland,2025-01-27
+7389404,Unknown,Low,Northern Territory,2025-01-27
+17804,Unknown,Medium,Queensland,2025-01-27
+3532094,Female,Medium,Northern Territory,2025-01-27
+5290604,Male,High,Northern Territory,2025-01-27
+6912404,Female,High,Victoria,2025-01-27
+5835404,Unknown,Medium,Australian Capital Territory,2025-01-27
+4665194,Unknown,Low,New South Wales,2025-01-27
+5424094,Unknown,High,Australian Capital Territory,2025-01-28
+2905894,Unknown,High,South Australia,2025-01-28
+7345604,Unknown,Low,Northern Territory,2025-01-28
+4564904,Female,Low,Tasmania,2025-01-28
+5342994,Unknown,Low,Australian Capital Territory,2025-01-28
+6993994,Unknown,High,Tasmania,2025-01-28
+6522304,Unknown,High,South Australia,2025-01-29
+1755404,Male,High,Western Australia,2025-01-29
+4004194,Unknown,High,Northern Territory,2025-01-29
+8409194,Unknown,High,Victoria,2025-01-29
+3863194,Unknown,Medium,Victoria,2025-01-29
+7361804,Unknown,Low,New South Wales,2025-01-29
+3307804,Unknown,Low,South Australia,2025-01-29
+7799404,Unknown,High,Australian Capital Territory,2025-01-29
+1724794,Unknown,High,New South Wales,2025-01-29
+2502704,Unknown,High,Australian Capital Territory,2025-01-30
+2525194,Unknown,High,Queensland,2025-01-30
+1647804,Unknown,High,Victoria,2025-01-30
+3009994,Female,High,Tasmania,2025-01-30
+8432704,Unknown,High,Western Australia,2025-01-30
+4592994,Unknown,Medium,Queensland,2025-01-30
+4135404,Unknown,High,Tasmania,2025-01-30
+5047804,Unknown,Low,Tasmania,2025-01-30
+422404,Male,High,New South Wales,2025-01-30
+705404,Unknown,High,New South Wales,2025-01-30
+9556504,Unknown,Medium,Victoria,2025-01-30
+6193194,Unknown,Low,Australian Capital Territory,2025-01-30
+4039504,Unknown,Low,Tasmania,2025-01-31
+7156504,Unknown,High,South Australia,2025-01-31
+4347794,Unknown,Medium,Victoria,2025-01-31
+1884504,Unknown,High,South Australia,2025-01-31
+3033504,Unknown,Low,Western Australia,2025-01-31
+7955794,Female,Medium,Tasmania,2025-01-31
+7633504,Unknown,Low,South Australia,2025-01-31
+138804,Unknown,Medium,New South Wales,2025-01-31
+6524604,Unknown,Medium,Victoria,2025-01-31
+2072504,Unknown,Medium,Victoria,2025-02-01
+9438804,Unknown,Medium,Tasmania,2025-02-01
+9226304,Unknown,Medium,Tasmania,2025-02-01
+9323094,Unknown,Low,Northern Territory,2025-02-01
+9242504,Unknown,Medium,Queensland,2025-02-01
+5948804,Unknown,Medium,Australian Capital Territory,2025-02-02
+6911304,Unknown,Medium,South Australia,2025-02-02
+5884894,Unknown,Medium,Tasmania,2025-02-02
+2753704,Unknown,High,Victoria,2025-02-02
+7549404,Unknown,Low,Victoria,2025-02-02
+9341804,Unknown,Low,Northern Territory,2025-02-02
+9617894,Unknown,Low,Australian Capital Territory,2025-02-02
+7402404,Unknown,High,Western Australia,2025-02-02
+2969404,Unknown,Low,Australian Capital Territory,2025-02-02
+4670404,Unknown,High,Western Australia,2025-02-02
+9321194,Unknown,Medium,New South Wales,2025-02-02
+5415804,Unknown,Medium,Tasmania,2025-02-02
+4837794,Unknown,High,Australian Capital Territory,2025-02-02
+2458804,Unknown,Medium,Victoria,2025-02-03
+9083504,Male,Medium,Western Australia,2025-02-03
+7142094,Unknown,Medium,New South Wales,2025-02-03
+9837304,Unknown,High,New South Wales,2025-02-03
+5726304,Unknown,Medium,New South Wales,2025-02-03
+3338404,Unknown,Medium,South Australia,2025-02-03
+6224604,Female,High,South Australia,2025-02-03
+4164504,Unknown,Medium,Western Australia,2025-02-03
+7344804,Unknown,Medium,South Australia,2025-02-03
+5204504,Male,Medium,Victoria,2025-02-03
+2547994,Female,Medium,Tasmania,2025-02-03
+4724404,Unknown,High,Queensland,2025-02-03
+2767704,Unknown,High,Queensland,2025-02-03
+6880094,Female,High,Northern Territory,2025-02-04
+5957704,Unknown,High,Tasmania,2025-02-04
+8977404,Unknown,Medium,New South Wales,2025-02-04
+3773404,Unknown,Low,South Australia,2025-02-04
+9347304,Male,Medium,South Australia,2025-02-04
+5403794,Unknown,High,New South Wales,2025-02-04
+6118704,Female,Medium,South Australia,2025-02-04
+9456194,Unknown,Medium,Victoria,2025-02-04
+6991194,Unknown,Medium,Queensland,2025-02-04
+3140194,Unknown,Low,Australian Capital Territory,2025-02-05
+8877404,Unknown,Medium,Victoria,2025-02-05
+1863804,Unknown,Medium,Australian Capital Territory,2025-02-05
+7176094,Unknown,Low,Australian Capital Territory,2025-02-05
+5991704,Unknown,Medium,New South Wales,2025-02-05
+6806094,Unknown,High,Northern Territory,2025-02-05
+5812404,Male,Medium,New South Wales,2025-02-05
+9902994,Unknown,High,Queensland,2025-02-05
+5135304,Unknown,Medium,Western Australia,2025-02-05
+3255304,Unknown,Medium,Western Australia,2025-02-05
+9905804,Male,High,Northern Territory,2025-02-05
+3509404,Unknown,Medium,Tasmania,2025-02-05
+7755194,Unknown,Medium,Tasmania,2025-02-06
+8888804,Unknown,Low,Western Australia,2025-02-06
+9661894,Unknown,Medium,Western Australia,2025-02-06
+5453304,Unknown,Low,Victoria,2025-02-06
+5411604,Unknown,Medium,Australian Capital Territory,2025-02-06
+2082804,Unknown,Low,Australian Capital Territory,2025-02-06
+9721804,Female,Low,Queensland,2025-02-06
+888804,Unknown,Low,Western Australia,2025-02-06
+9345404,Unknown,Medium,Northern Territory,2025-02-06
+7916404,Male,Low,Tasmania,2025-02-06
+2885694,Unknown,Medium,Australian Capital Territory,2025-02-06
+3190604,Unknown,Medium,Western Australia,2025-02-07
+5362894,Unknown,High,Western Australia,2025-02-07
+1786404,Unknown,Low,South Australia,2025-02-07
+6374304,Unknown,Medium,New South Wales,2025-02-07
+9306094,Unknown,Low,New South Wales,2025-02-07
+704194,Unknown,Medium,Australian Capital Territory,2025-02-07
+6787604,Male,Medium,Western Australia,2025-02-07
+8624604,Unknown,Low,New South Wales,2025-02-07
+5929504,Male,High,Queensland,2025-02-07
+6323304,Unknown,Low,Western Australia,2025-02-07
+5129504,Unknown,Medium,Tasmania,2025-02-07
+9719804,Unknown,High,Queensland,2025-02-07
+5129804,Unknown,Medium,South Australia,2025-02-07
+7473404,Unknown,High,Queensland,2025-02-07
+6562804,Unknown,Medium,New South Wales,2025-02-07
+612404,Unknown,Medium,Queensland,2025-02-07
+9422804,Unknown,High,Northern Territory,2025-02-07
+1072604,Unknown,Medium,Australian Capital Territory,2025-02-07
+1129804,Unknown,High,New South Wales,2025-02-08
+370094,Unknown,High,Queensland,2025-02-08
+2165194,Unknown,Medium,South Australia,2025-02-08
+9677404,Unknown,Medium,Northern Territory,2025-02-08
+6434094,Unknown,Low,Northern Territory,2025-02-08
+6315804,Unknown,High,Australian Capital Territory,2025-02-08
+9159804,Unknown,Medium,Northern Territory,2025-02-08
+1239804,Unknown,Medium,Victoria,2025-02-08
+6064504,Unknown,Medium,New South Wales,2025-02-08
+4349094,Unknown,High,Australian Capital Territory,2025-02-08
+7357404,Unknown,Low,Western Australia,2025-02-08
+5617804,Unknown,Low,Queensland,2025-02-08
+3355404,Unknown,Medium,Queensland,2025-02-08
+1985404,Unknown,Low,Queensland,2025-02-09
+7247094,Unknown,High,New South Wales,2025-02-09
+8705804,Unknown,Medium,Western Australia,2025-02-09
+6408404,Unknown,Medium,Australian Capital Territory,2025-02-09
+5363304,Unknown,Medium,Northern Territory,2025-02-09
+529994,Unknown,High,Victoria,2025-02-09
+6783404,Unknown,Low,Tasmania,2025-02-09
+3659804,Unknown,Low,Northern Territory,2025-02-09
+5908704,Unknown,High,Queensland,2025-02-10
+8650094,Unknown,Medium,Australian Capital Territory,2025-02-10
+7416804,Unknown,Low,Northern Territory,2025-02-10
+5772604,Male,Medium,Western Australia,2025-02-10
+6471504,Unknown,High,Queensland,2025-02-10
+6971504,Unknown,Medium,Australian Capital Territory,2025-02-10
+9405404,Unknown,Low,Victoria,2025-02-10
+7809194,Unknown,Medium,Tasmania,2025-02-10
+7009404,Female,High,Victoria,2025-02-10
+7452504,Unknown,High,New South Wales,2025-02-10
+4676194,Unknown,High,Northern Territory,2025-02-10
+1363504,Unknown,Low,Northern Territory,2025-02-10
+1738504,Unknown,Low,Tasmania,2025-02-10
+8169404,Unknown,Medium,Queensland,2025-02-10
+1482504,Unknown,High,Victoria,2025-02-10
+5065894,Unknown,Medium,New South Wales,2025-02-11
+8199794,Unknown,Medium,New South Wales,2025-02-11
+8541804,Unknown,Medium,Queensland,2025-02-11
+1757704,Unknown,Low,Australian Capital Territory,2025-02-11
+5980604,Unknown,High,Tasmania,2025-02-11
+8137304,Unknown,Medium,Victoria,2025-02-11
+3105504,Unknown,High,Western Australia,2025-02-11
+2684504,Unknown,Medium,Australian Capital Territory,2025-02-12
+2663304,Unknown,Low,Tasmania,2025-02-12
+8765894,Unknown,High,South Australia,2025-02-12
+9658304,Unknown,Medium,Queensland,2025-02-12
+5133604,Unknown,High,New South Wales,2025-02-12
+3278404,Unknown,Low,Northern Territory,2025-02-12
+7817904,Unknown,Medium,Tasmania,2025-02-12
+764304,Unknown,Low,Victoria,2025-02-12
+5070994,Unknown,High,Queensland,2025-02-12
+6454504,Unknown,Low,Australian Capital Territory,2025-02-12
+2749894,Unknown,Low,Queensland,2025-02-12
+2455304,Unknown,Low,South Australia,2025-02-12
+9560904,Unknown,Low,Tasmania,2025-02-12
+4482804,Unknown,High,Australian Capital Territory,2025-02-12
+5021504,Unknown,High,Australian Capital Territory,2025-02-12
+8876194,Unknown,Low,Western Australia,2025-02-12
+863304,Female,Low,Queensland,2025-02-13
+80904,Unknown,Low,Queensland,2025-02-13
+6344094,Unknown,Low,Western Australia,2025-02-13
+4681404,Unknown,Medium,Tasmania,2025-02-13
+8673194,Unknown,Medium,New South Wales,2025-02-13
+2003404,Unknown,Low,Victoria,2025-02-13
+8668504,Unknown,Low,Western Australia,2025-02-13
+5052604,Unknown,High,South Australia,2025-02-13
+2145894,Unknown,Low,Victoria,2025-02-13
+2007804,Unknown,Medium,Queensland,2025-02-13
+4821904,Unknown,Medium,Queensland,2025-02-13
+2358894,Unknown,Medium,South Australia,2025-02-13
+4755194,Unknown,Medium,New South Wales,2025-02-14
+6057094,Unknown,Low,Northern Territory,2025-02-14
+2041904,Unknown,High,Victoria,2025-02-14
+3169404,Unknown,Low,Tasmania,2025-02-14
+3767404,Unknown,Low,Tasmania,2025-02-14
+4180404,Unknown,Medium,New South Wales,2025-02-14
+8317804,Unknown,High,Northern Territory,2025-02-14
+7144804,Female,High,Western Australia,2025-02-14
+3932404,Unknown,Medium,Tasmania,2025-02-15
+2264804,Unknown,High,Queensland,2025-02-15
+3241904,Unknown,High,Tasmania,2025-02-15
+1677194,Female,Medium,Queensland,2025-02-15
+5574804,Unknown,Medium,Victoria,2025-02-15
+6167994,Unknown,High,Victoria,2025-02-15
+8051904,Unknown,High,Queensland,2025-02-15
+5557994,Unknown,Low,Western Australia,2025-02-15
+4952304,Unknown,Low,Queensland,2025-02-15
+2571504,Unknown,Low,Northern Territory,2025-02-15
+6585404,Unknown,High,Tasmania,2025-02-15
+5135194,Unknown,Medium,Australian Capital Territory,2025-02-15
+6025194,Unknown,Low,Tasmania,2025-02-15
+7326304,Unknown,Medium,South Australia,2025-02-15
+7846504,Female,Low,Queensland,2025-02-15
+2927804,Unknown,Medium,Western Australia,2025-02-16
+4079804,Unknown,High,Western Australia,2025-02-16
+6632804,Male,Low,Northern Territory,2025-02-16
+5418194,Unknown,Medium,Western Australia,2025-02-16
+1992894,Unknown,Medium,New South Wales,2025-02-16
+3292994,Unknown,High,Tasmania,2025-02-16
+3810304,Unknown,Low,Queensland,2025-02-16
+2221094,Female,Medium,Australian Capital Territory,2025-02-16
+2758894,Male,Low,Tasmania,2025-02-17
+5007804,Unknown,High,New South Wales,2025-02-17
+5361504,Unknown,Medium,Queensland,2025-02-17
+5585694,Unknown,Medium,Tasmania,2025-02-17
+3097194,Unknown,High,Tasmania,2025-02-17
+9548804,Unknown,High,Western Australia,2025-02-17
+7942404,Unknown,Medium,Tasmania,2025-02-17
+1445994,Male,Low,Tasmania,2025-02-17
+5933894,Unknown,Low,Victoria,2025-02-17
+2501704,Unknown,Medium,Northern Territory,2025-02-17
+1371904,Unknown,Low,Australian Capital Territory,2025-02-18
+7736804,Unknown,High,Tasmania,2025-02-18
+7647704,Unknown,Medium,Northern Territory,2025-02-18
+5867404,Unknown,Medium,Northern Territory,2025-02-18
+9762894,Male,Medium,New South Wales,2025-02-18
+6833804,Female,Low,Northern Territory,2025-02-19
+3655404,Unknown,Medium,Northern Territory,2025-02-19
+3519304,Male,High,Western Australia,2025-02-19
+8524604,Unknown,High,Australian Capital Territory,2025-02-19
+5511704,Male,Medium,Western Australia,2025-02-19
+5194804,Unknown,Low,Queensland,2025-02-19
+5372604,Male,High,New South Wales,2025-02-19
+2137694,Unknown,High,South Australia,2025-02-19
+9223804,Unknown,High,Tasmania,2025-02-19
+8247304,Unknown,High,Victoria,2025-02-19
+6043404,Unknown,Medium,Northern Territory,2025-02-19
+6864504,Unknown,High,Tasmania,2025-02-20
+202904,Female,Low,Australian Capital Territory,2025-02-20
+8752004,Unknown,Low,Northern Territory,2025-02-20
+3024704,Unknown,Low,Northern Territory,2025-02-20
+6533704,Unknown,Low,New South Wales,2025-02-20
+9593404,Unknown,High,Australian Capital Territory,2025-02-20
+4001404,Unknown,Low,Western Australia,2025-02-20
+2316304,Unknown,Low,Western Australia,2025-02-20
+3067204,Unknown,Medium,Western Australia,2025-02-20
+1889894,Unknown,High,New South Wales,2025-02-20
+6183194,Unknown,Medium,Northern Territory,2025-02-20
+9041904,Unknown,Low,Northern Territory,2025-02-21
+4975404,Unknown,Medium,Victoria,2025-02-21
+2974504,Male,Low,Queensland,2025-02-21
+8664504,Unknown,Low,Australian Capital Territory,2025-02-21
+8219404,Unknown,High,New South Wales,2025-02-21
+8251894,Female,Low,Tasmania,2025-02-21
+7912804,Unknown,Medium,Victoria,2025-02-21
+4243794,Unknown,Low,Tasmania,2025-02-21
+8230194,Unknown,Medium,Tasmania,2025-02-21
+2916304,Unknown,Low,Australian Capital Territory,2025-02-21
+7062804,Unknown,Medium,Victoria,2025-02-21
+6030794,Unknown,High,Northern Territory,2025-02-21
+9917094,Unknown,Low,Victoria,2025-02-21
+4124604,Unknown,Low,Tasmania,2025-02-22
+5459404,Unknown,Medium,Australian Capital Territory,2025-02-22
+2999794,Unknown,Medium,Western Australia,2025-02-22
+9672904,Unknown,Medium,Northern Territory,2025-02-22
+556504,Unknown,Low,Victoria,2025-02-22
+4451894,Unknown,High,Queensland,2025-02-22
+643194,Unknown,High,Victoria,2025-02-22
+2993504,Unknown,Medium,New South Wales,2025-02-22
+7252994,Unknown,Medium,New South Wales,2025-02-22
+9409404,Unknown,Medium,South Australia,2025-02-22
+1342404,Unknown,Medium,South Australia,2025-02-22
+8151804,Unknown,Medium,Australian Capital Territory,2025-02-22
+1762604,Unknown,Low,Victoria,2025-02-22
+1724404,Unknown,Medium,South Australia,2025-02-22
+1733094,Unknown,Low,Queensland,2025-02-22
+7281804,Unknown,Low,Victoria,2025-02-23
+8574894,Unknown,Medium,Tasmania,2025-02-23
+62904,Unknown,Medium,Queensland,2025-02-23
+3174304,Unknown,Medium,Queensland,2025-02-23
+9750094,Unknown,Medium,Queensland,2025-02-23
+4049404,Unknown,Medium,Queensland,2025-02-23
+1683404,Unknown,High,New South Wales,2025-02-23
+4645194,Unknown,Medium,Australian Capital Territory,2025-02-23
+3070404,Unknown,Low,Northern Territory,2025-02-23
+7283504,Unknown,High,Australian Capital Territory,2025-02-23
+9666194,Unknown,Medium,Northern Territory,2025-02-23
+5675704,Unknown,Low,Queensland,2025-02-23
+7461904,Unknown,High,Australian Capital Territory,2025-02-23
+3573194,Unknown,Medium,New South Wales,2025-02-23
+1810504,Unknown,Medium,Queensland,2025-02-23
+6193994,Unknown,High,New South Wales,2025-02-24
+7647094,Unknown,Medium,Western Australia,2025-02-24
+3521304,Male,Low,New South Wales,2025-02-24
+9855304,Unknown,Medium,Australian Capital Territory,2025-02-24
+7012404,Unknown,Low,Northern Territory,2025-02-24
+372904,Unknown,Medium,Australian Capital Territory,2025-02-25
+3401404,Unknown,High,Tasmania,2025-02-25
+4525304,Unknown,High,Tasmania,2025-02-25
+5408804,Unknown,Medium,Western Australia,2025-02-25
+7773804,Unknown,Medium,Western Australia,2025-02-25
+3166094,Unknown,Medium,South Australia,2025-02-25
+1852904,Unknown,High,Tasmania,2025-02-25
+3270994,Unknown,Medium,Victoria,2025-02-25
+2088894,Unknown,High,Australian Capital Territory,2025-02-25
+3820504,Unknown,High,Tasmania,2025-02-25
+4123894,Unknown,High,Western Australia,2025-02-26
+6027904,Unknown,Medium,New South Wales,2025-02-26
+5573704,Unknown,High,New South Wales,2025-02-26
+7129804,Unknown,Medium,Queensland,2025-02-26
+7923804,Unknown,Medium,New South Wales,2025-02-26
+7432604,Unknown,Low,Australian Capital Territory,2025-02-26
+4939094,Unknown,High,Australian Capital Territory,2025-02-26
+1443904,Unknown,High,South Australia,2025-02-27
+6704,Unknown,Low,Tasmania,2025-02-27
+5200504,Unknown,High,Northern Territory,2025-02-27
+2705194,Unknown,High,South Australia,2025-02-27
+2784404,Unknown,Medium,New South Wales,2025-02-27
+2333504,Unknown,High,South Australia,2025-02-27
+4917304,Unknown,Medium,South Australia,2025-02-27
+4543504,Unknown,Medium,Western Australia,2025-02-27
+4373304,Unknown,Medium,Australian Capital Territory,2025-02-27
+2833894,Unknown,Low,Western Australia,2025-02-27
+3456504,Unknown,High,Victoria,2025-02-27
+3442894,Unknown,High,Australian Capital Territory,2025-02-27
+2146404,Unknown,Low,Northern Territory,2025-02-27
+3751904,Unknown,Medium,Victoria,2025-02-27
+7234894,Female,Low,Australian Capital Territory,2025-02-27
+8688804,Unknown,High,New South Wales,2025-02-27
+6770804,Unknown,Medium,Northern Territory,2025-02-28
+9061704,Unknown,Medium,Western Australia,2025-02-28
+1947794,Unknown,Medium,South Australia,2025-02-28
+5063904,Unknown,Medium,Victoria,2025-02-28
+4665894,Unknown,Medium,Queensland,2025-02-28
+5911804,Unknown,Medium,Queensland,2025-02-28
+4092804,Unknown,High,Tasmania,2025-02-28
+7935994,Unknown,Medium,New South Wales,2025-02-28
+6031704,Unknown,Low,Western Australia,2025-02-28
+9372604,Unknown,Low,Victoria,2025-02-28
+3673704,Unknown,Medium,South Australia,2025-02-28
+1976194,Unknown,Medium,Northern Territory,2025-03-01
+5701994,Unknown,Low,Tasmania,2025-03-01
+9247304,Unknown,High,Queensland,2025-03-01
+9770504,Unknown,Medium,Australian Capital Territory,2025-03-01
+2151894,Unknown,Low,Tasmania,2025-03-01
+1694404,Unknown,Medium,Northern Territory,2025-03-01
+2103994,Unknown,Medium,Queensland,2025-03-01
+4055194,Unknown,Medium,Australian Capital Territory,2025-03-01
+8692504,Unknown,Medium,Victoria,2025-03-01
+5247304,Unknown,Medium,Tasmania,2025-03-01
+7377604,Unknown,Low,Western Australia,2025-03-01
+9994804,Unknown,High,Tasmania,2025-03-01
+3604504,Unknown,Medium,Northern Territory,2025-03-01
+5367994,Unknown,Medium,Western Australia,2025-03-01
+3957304,Unknown,High,South Australia,2025-03-01
+4439194,Unknown,High,Queensland,2025-03-01
+3064304,Unknown,High,Tasmania,2025-03-02
+5654894,Unknown,High,Tasmania,2025-03-02
+2401404,Unknown,Medium,New South Wales,2025-03-02
+6901804,Unknown,Medium,Northern Territory,2025-03-02
+6040504,Unknown,Medium,Queensland,2025-03-02
+2819404,Unknown,Medium,Tasmania,2025-03-02
+9443504,Unknown,Medium,New South Wales,2025-03-02
+673904,Unknown,High,Queensland,2025-03-02
+605804,Unknown,Medium,Australian Capital Territory,2025-03-02
+8750804,Unknown,Low,Queensland,2025-03-02
+6390404,Unknown,Low,New South Wales,2025-03-02
+1767194,Unknown,High,New South Wales,2025-03-02
+8773904,Unknown,Medium,Victoria,2025-03-02
+6571504,Unknown,High,New South Wales,2025-03-02
+5464504,Female,Low,Tasmania,2025-03-02
+528404,Unknown,Low,South Australia,2025-03-02
+2409994,Unknown,Low,South Australia,2025-03-02
+7537704,Unknown,Medium,South Australia,2025-03-03
+2083904,Unknown,Low,South Australia,2025-03-03
+4574804,Unknown,High,Tasmania,2025-03-03
+2810504,Unknown,Medium,Tasmania,2025-03-03
+2656404,Unknown,High,New South Wales,2025-03-03
+1811604,Male,High,New South Wales,2025-03-03
+6627894,Unknown,Medium,Tasmania,2025-03-03
+7372504,Unknown,High,Northern Territory,2025-03-03
+1870994,Unknown,High,Australian Capital Territory,2025-03-03
+9383404,Male,Low,South Australia,2025-03-03
+9867404,Unknown,Low,Victoria,2025-03-03
+9793504,Unknown,Low,New South Wales,2025-03-04
+5152994,Unknown,Low,Western Australia,2025-03-04
+4646404,Unknown,Low,Victoria,2025-03-04
+3313804,Unknown,High,Tasmania,2025-03-04
+8437704,Unknown,Low,Western Australia,2025-03-04
+8337304,Unknown,Low,Queensland,2025-03-04
+3883904,Unknown,High,Tasmania,2025-03-04
+3483504,Unknown,High,South Australia,2025-03-04
+6470304,Unknown,Medium,Victoria,2025-03-04
+4998404,Unknown,Low,Northern Territory,2025-03-04
+9174504,Unknown,Low,New South Wales,2025-03-04
+783904,Unknown,Medium,Victoria,2025-03-04
+5962604,Unknown,Medium,Northern Territory,2025-03-04
+5634404,Unknown,Low,South Australia,2025-03-04
+2158304,Unknown,High,Western Australia,2025-03-04
+4059304,Unknown,Low,Australian Capital Territory,2025-03-05
+2267204,Unknown,High,Victoria,2025-03-05
+6037194,Unknown,Low,Northern Territory,2025-03-05
+6706504,Unknown,Medium,Queensland,2025-03-05
+7506804,Unknown,Low,New South Wales,2025-03-05
+2129604,Female,High,Australian Capital Territory,2025-03-05
+8434604,Unknown,Low,Queensland,2025-03-05
+4385404,Unknown,High,Tasmania,2025-03-05
+1692994,Female,Low,Queensland,2025-03-06
+8385404,Unknown,Medium,Victoria,2025-03-06
+4095694,Unknown,High,Victoria,2025-03-06
+2252404,Unknown,Medium,New South Wales,2025-03-06
+9177704,Unknown,High,Queensland,2025-03-06
+9383504,Unknown,Low,South Australia,2025-03-06
+5318194,Unknown,High,Australian Capital Territory,2025-03-06
+6457994,Unknown,High,Queensland,2025-03-06
+9653304,Unknown,Medium,New South Wales,2025-03-06
+5349104,Unknown,High,Victoria,2025-03-06
+3267304,Unknown,Medium,Tasmania,2025-03-07
+4884404,Male,Low,Australian Capital Territory,2025-03-07
+5322404,Unknown,Medium,Australian Capital Territory,2025-03-07
+3110504,Unknown,Medium,South Australia,2025-03-07
+2355794,Unknown,High,Queensland,2025-03-07
+9146404,Unknown,High,Australian Capital Territory,2025-03-07
+6886404,Unknown,High,Victoria,2025-03-07
+6051604,Unknown,Low,Victoria,2025-03-07
+6929894,Unknown,Low,Northern Territory,2025-03-07
+8921904,Unknown,High,Western Australia,2025-03-07
+3752604,Unknown,Low,Western Australia,2025-03-07
+3178704,Unknown,Medium,Australian Capital Territory,2025-03-07
+3316194,Unknown,High,South Australia,2025-03-07
+6696704,Unknown,Medium,New South Wales,2025-03-07
+7615194,Female,Medium,Northern Territory,2025-03-08
+9290604,Unknown,Low,South Australia,2025-03-08
+3200904,Unknown,Medium,South Australia,2025-03-08
+7330504,Unknown,Low,Victoria,2025-03-08
+4812404,Male,High,South Australia,2025-03-08
+5543804,Unknown,Low,Victoria,2025-03-08
+490094,Female,Medium,South Australia,2025-03-08
+6004804,Unknown,High,Western Australia,2025-03-08
+6754904,Unknown,High,South Australia,2025-03-08
+4705304,Unknown,Medium,Australian Capital Territory,2025-03-08
+6854904,Unknown,Low,Victoria,2025-03-08
+1925194,Unknown,High,Victoria,2025-03-08
+4517704,Unknown,Low,Australian Capital Territory,2025-03-09
+9124404,Unknown,High,South Australia,2025-03-09
+7147794,Unknown,Medium,Victoria,2025-03-09
+3194804,Unknown,Low,Western Australia,2025-03-09
+9045994,Female,Medium,Western Australia,2025-03-09
+7364904,Unknown,High,Australian Capital Territory,2025-03-09
+7784504,Unknown,Low,Victoria,2025-03-09
+1350304,Unknown,Low,New South Wales,2025-03-09
+2012894,Unknown,Low,New South Wales,2025-03-09
+7188304,Unknown,High,New South Wales,2025-03-09
+5664904,Unknown,Medium,Australian Capital Territory,2025-03-09
+6437794,Unknown,High,Western Australia,2025-03-09
+4417804,Unknown,Medium,Western Australia,2025-03-10
+2866194,Unknown,Medium,South Australia,2025-03-10
+174904,Unknown,Low,Victoria,2025-03-10
+564904,Unknown,High,Queensland,2025-03-10
+4374904,Unknown,High,Northern Territory,2025-03-10
+3763904,Unknown,Low,Australian Capital Territory,2025-03-10
+8511704,Male,High,Australian Capital Territory,2025-03-10
+8500804,Unknown,High,New South Wales,2025-03-10
+9458504,Unknown,High,Queensland,2025-03-10
+8904504,Female,Low,Tasmania,2025-03-10
+6221304,Unknown,Low,Western Australia,2025-03-10
+6221094,Unknown,High,South Australia,2025-03-11
+6170094,Unknown,Low,Australian Capital Territory,2025-03-11
+4409704,Unknown,High,South Australia,2025-03-11
+2587404,Unknown,Medium,Australian Capital Territory,2025-03-11
+7596804,Unknown,Low,Australian Capital Territory,2025-03-11
+5060804,Unknown,High,Victoria,2025-03-11
+8357704,Unknown,Medium,Victoria,2025-03-11
+8263504,Unknown,Low,New South Wales,2025-03-12
+6998694,Unknown,Low,Tasmania,2025-03-12
+8962604,Unknown,High,Australian Capital Territory,2025-03-12
+3721094,Unknown,High,Northern Territory,2025-03-12
+6586304,Unknown,Medium,Queensland,2025-03-12
+5895504,Unknown,Low,Northern Territory,2025-03-12
+1954504,Unknown,High,Queensland,2025-03-12
+5019404,Unknown,Medium,Western Australia,2025-03-12
+5934404,Male,High,Northern Territory,2025-03-12
+9946194,Unknown,High,Victoria,2025-03-13
+4472504,Unknown,High,Northern Territory,2025-03-13
+9131304,Unknown,High,Northern Territory,2025-03-13
+1950704,Unknown,Medium,Northern Territory,2025-03-13
+7352904,Unknown,High,Australian Capital Territory,2025-03-13
+6491194,Unknown,High,Northern Territory,2025-03-13
+3148404,Unknown,High,Western Australia,2025-03-13
+1619994,Unknown,Medium,Australian Capital Territory,2025-03-13
+9911704,Unknown,Low,Australian Capital Territory,2025-03-13
+2935404,Unknown,High,South Australia,2025-03-14
+9536904,Unknown,High,New South Wales,2025-03-14
+7062604,Unknown,Medium,New South Wales,2025-03-14
+2180504,Unknown,High,Western Australia,2025-03-14
+4319504,Unknown,Medium,New South Wales,2025-03-14
+6955304,Unknown,Medium,Australian Capital Territory,2025-03-14
+9094404,Unknown,High,Western Australia,2025-03-14
+9965194,Unknown,High,Queensland,2025-03-14
+7542804,Unknown,High,South Australia,2025-03-14
+3783504,Unknown,Low,New South Wales,2025-03-14
+9059194,Unknown,High,South Australia,2025-03-14
+3727704,Female,Low,Queensland,2025-03-14
+6581404,Unknown,Low,Queensland,2025-03-14
+5189894,Unknown,High,Northern Territory,2025-03-14
+8070304,Unknown,Low,Northern Territory,2025-03-14
+4132804,Unknown,Medium,Australian Capital Territory,2025-03-14
+4036904,Unknown,Low,Australian Capital Territory,2025-03-14
+6688504,Unknown,High,Northern Territory,2025-03-15
+2120804,Unknown,High,Victoria,2025-03-15
+4567704,Female,High,South Australia,2025-03-15
+6436904,Unknown,Medium,Victoria,2025-03-15
+411704,Unknown,Low,Tasmania,2025-03-15
+8393404,Unknown,Low,Victoria,2025-03-15
+5626194,Female,High,Western Australia,2025-03-15
+240804,Unknown,Low,Tasmania,2025-03-15
+2619804,Male,Low,Australian Capital Territory,2025-03-15
+7908994,Unknown,Medium,Victoria,2025-03-15
+6421304,Unknown,Low,Northern Territory,2025-03-15
+3737794,Unknown,High,Australian Capital Territory,2025-03-15
+1236904,Unknown,High,Northern Territory,2025-03-15
+4955194,Unknown,Low,Tasmania,2025-03-15
+8289894,Unknown,Low,Australian Capital Territory,2025-03-15
+2958804,Unknown,Medium,New South Wales,2025-03-15
+9193404,Unknown,High,Tasmania,2025-03-15
+2174904,Unknown,Medium,Northern Territory,2025-03-16
+1758094,Unknown,Medium,Australian Capital Territory,2025-03-16
+8351504,Unknown,High,South Australia,2025-03-16
+2982994,Unknown,High,Queensland,2025-03-16
+8653404,Unknown,High,Tasmania,2025-03-16
+1881704,Unknown,Medium,South Australia,2025-03-16
+4264304,Unknown,Medium,South Australia,2025-03-16
+7997194,Unknown,High,New South Wales,2025-03-16
+5596604,Unknown,High,South Australia,2025-03-16
+3193504,Male,Low,Western Australia,2025-03-16
+7237894,Unknown,Low,New South Wales,2025-03-16
+3900894,Unknown,Medium,Tasmania,2025-03-16
+2819804,Unknown,High,Queensland,2025-03-16
+8950994,Unknown,High,Northern Territory,2025-03-16
+4430804,Unknown,Low,New South Wales,2025-03-16
+4819094,Unknown,High,Western Australia,2025-03-16
+9515894,Unknown,High,Tasmania,2025-03-16
+4547094,Unknown,High,Australian Capital Territory,2025-03-16
+3760994,Unknown,Medium,Tasmania,2025-03-16
+2545994,Female,Medium,New South Wales,2025-03-16
+3090804,Unknown,Low,New South Wales,2025-03-17
+1990604,Unknown,Medium,Northern Territory,2025-03-17
+946904,Unknown,High,South Australia,2025-03-17
+1056904,Unknown,Medium,Victoria,2025-03-17
+4730704,Unknown,High,Tasmania,2025-03-17
+1156904,Unknown,High,Victoria,2025-03-17
+3906804,Unknown,High,Australian Capital Territory,2025-03-17
+8211804,Unknown,Medium,Victoria,2025-03-17
+8019504,Unknown,Low,Queensland,2025-03-17
+7446504,Unknown,Medium,Western Australia,2025-03-17
+8090804,Unknown,High,Queensland,2025-03-17
+8772604,Unknown,Medium,Queensland,2025-03-17
+7714894,Unknown,High,Western Australia,2025-03-17
+656904,Unknown,Low,South Australia,2025-03-18
+6242994,Male,Medium,Northern Territory,2025-03-18
+3058604,Female,Medium,New South Wales,2025-03-18
+2726404,Unknown,Low,New South Wales,2025-03-18
+4001604,Unknown,Low,Queensland,2025-03-18
+3049404,Unknown,Medium,Tasmania,2025-03-18
+7209994,Unknown,Medium,Northern Territory,2025-03-19
+8713804,Unknown,Low,Northern Territory,2025-03-19
+8144894,Unknown,Medium,Victoria,2025-03-19
+6480304,Unknown,High,Tasmania,2025-03-19
+4389794,Unknown,Low,Northern Territory,2025-03-19
+2340804,Unknown,Low,Victoria,2025-03-19
+6995694,Unknown,Medium,Australian Capital Territory,2025-03-19
+3248194,Unknown,Low,Tasmania,2025-03-19
+5642894,Unknown,Medium,New South Wales,2025-03-20
+8231904,Unknown,Medium,Western Australia,2025-03-20
+2119194,Unknown,Low,Queensland,2025-03-20
+5301504,Unknown,Medium,Victoria,2025-03-20
+7676904,Unknown,Low,Queensland,2025-03-20
+6921504,Unknown,High,Northern Territory,2025-03-20
+3141504,Unknown,Low,Victoria,2025-03-20
+8524504,Unknown,Low,South Australia,2025-03-20
+4335304,Unknown,Low,Australian Capital Territory,2025-03-20
+5234194,Unknown,Medium,Northern Territory,2025-03-20
+2312404,Unknown,Medium,Tasmania,2025-03-20
+4268094,Unknown,High,Victoria,2025-03-20
+3374504,Unknown,Medium,Queensland,2025-03-20
+8709404,Unknown,Low,Queensland,2025-03-21
+5381604,Unknown,High,Tasmania,2025-03-21
+5365894,Unknown,Low,South Australia,2025-03-21
+7996904,Unknown,Low,Western Australia,2025-03-21
+4562904,Unknown,Medium,South Australia,2025-03-21
+8696904,Unknown,High,Australian Capital Territory,2025-03-21
+9651904,Unknown,High,New South Wales,2025-03-21
+2890704,Unknown,High,Tasmania,2025-03-21
+3496904,Unknown,High,South Australia,2025-03-21
+4812704,Unknown,High,Western Australia,2025-03-21
+9186904,Unknown,High,Western Australia,2025-03-21
+862904,Unknown,Low,Western Australia,2025-03-21
+8518704,Unknown,Low,South Australia,2025-03-21
+1983504,Unknown,Medium,Victoria,2025-03-21
+3777704,Unknown,High,Western Australia,2025-03-21
+3045994,Unknown,Medium,New South Wales,2025-03-22
+8449194,Unknown,High,Australian Capital Territory,2025-03-22
+5806504,Female,Low,New South Wales,2025-03-22
+2853094,Unknown,High,Tasmania,2025-03-22
+3557304,Unknown,Medium,Tasmania,2025-03-22
+4347304,Unknown,Medium,Northern Territory,2025-03-22
+3173504,Unknown,Low,Queensland,2025-03-22
+2741804,Unknown,Medium,Australian Capital Territory,2025-03-22
+5483504,Unknown,Low,Northern Territory,2025-03-23
+5612804,Female,Low,Northern Territory,2025-03-23
+6094804,Unknown,High,Australian Capital Territory,2025-03-23
+9635304,Unknown,Low,New South Wales,2025-03-23
+9017304,Unknown,Medium,South Australia,2025-03-23
+6934804,Unknown,High,South Australia,2025-03-23
+6462804,Unknown,Medium,Northern Territory,2025-03-23
+3638194,Unknown,Medium,Australian Capital Territory,2025-03-23
+3855404,Unknown,Low,Northern Territory,2025-03-23
+8720504,Unknown,Medium,Queensland,2025-03-24
+6043794,Unknown,Low,Australian Capital Territory,2025-03-24
+2233504,Unknown,Medium,Victoria,2025-03-24
+3973804,Unknown,Low,South Australia,2025-03-24
+9016504,Unknown,High,Australian Capital Territory,2025-03-24
+5845604,Unknown,High,Australian Capital Territory,2025-03-24
+5588504,Unknown,High,New South Wales,2025-03-24
+3437304,Unknown,Medium,Northern Territory,2025-03-24
+332804,Female,Medium,Victoria,2025-03-24
+2580094,Unknown,Low,Northern Territory,2025-03-25
+4766194,Unknown,High,Western Australia,2025-03-25
+6967194,Unknown,High,New South Wales,2025-03-25
+3477604,Unknown,Low,New South Wales,2025-03-25
+6642304,Female,Low,Tasmania,2025-03-25
+5304404,Unknown,Medium,Australian Capital Territory,2025-03-25
+7153304,Female,Medium,New South Wales,2025-03-25
+2561504,Unknown,Low,South Australia,2025-03-25
+5569404,Female,Medium,Queensland,2025-03-26
+1334804,Unknown,Medium,Tasmania,2025-03-26
+2994894,Unknown,Low,Australian Capital Territory,2025-03-26
+6754504,Unknown,Low,New South Wales,2025-03-26
+8030504,Unknown,Medium,Queensland,2025-03-26
+9295794,Unknown,Medium,Queensland,2025-03-26
+9944804,Unknown,Low,Western Australia,2025-03-26
+6487404,Unknown,High,Victoria,2025-03-26
+6920504,Unknown,Low,Queensland,2025-03-26
+2066504,Unknown,High,New South Wales,2025-03-27
+2615894,Unknown,High,South Australia,2025-03-27
+138904,Unknown,High,Queensland,2025-03-27
+8546304,Unknown,Low,Northern Territory,2025-03-27
+4635404,Unknown,Low,Queensland,2025-03-27
+698904,Unknown,Low,Western Australia,2025-03-27
+5656504,Unknown,High,South Australia,2025-03-27
+9461904,Unknown,Medium,South Australia,2025-03-27
+8673904,Unknown,Low,Australian Capital Territory,2025-03-27
+4369904,Unknown,Medium,Northern Territory,2025-03-27
+1817704,Unknown,Low,Victoria,2025-03-27
+7386304,Unknown,High,Queensland,2025-03-27
+2552894,Unknown,Medium,South Australia,2025-03-27
+3971504,Unknown,High,Northern Territory,2025-03-27
+1811704,Unknown,Medium,Queensland,2025-03-27
+8366504,Unknown,High,Victoria,2025-03-28
+6747794,Unknown,Low,Western Australia,2025-03-28
+5210504,Unknown,High,South Australia,2025-03-28
+224794,Unknown,High,Western Australia,2025-03-28
+9370304,Unknown,Low,Northern Territory,2025-03-28
+6422704,Unknown,High,New South Wales,2025-03-28
+4949894,Unknown,High,New South Wales,2025-03-28
+5819194,Unknown,High,New South Wales,2025-03-28
+2512004,Unknown,High,Western Australia,2025-03-28
+1051894,Female,High,Western Australia,2025-03-28
+7851004,Unknown,High,New South Wales,2025-03-28
+7065794,Unknown,Low,Northern Territory,2025-03-29
+5458504,Unknown,Medium,Northern Territory,2025-03-29
+8542004,Unknown,Low,Northern Territory,2025-03-29
+3025694,Unknown,Low,Queensland,2025-03-29
+9242004,Unknown,High,Tasmania,2025-03-29
+4342004,Unknown,High,Queensland,2025-03-29
+3374804,Unknown,Medium,New South Wales,2025-03-29
+6342004,Unknown,Medium,South Australia,2025-03-29
+7529504,Unknown,Medium,Victoria,2025-03-29
+5709994,Unknown,Medium,Northern Territory,2025-03-29
+3833504,Unknown,Low,Western Australia,2025-03-29
+7743804,Unknown,Medium,Western Australia,2025-03-29
+3516194,Unknown,Low,Western Australia,2025-03-29
+4637194,Unknown,Low,Queensland,2025-03-29
+5352004,Unknown,Medium,New South Wales,2025-03-30
+5320604,Unknown,Low,South Australia,2025-03-30
+2381704,Unknown,Medium,Northern Territory,2025-03-30
+7564504,Unknown,Low,Northern Territory,2025-03-30
+7001404,Unknown,Low,New South Wales,2025-03-30
+2668704,Unknown,High,Tasmania,2025-03-30
+7975904,Unknown,High,Northern Territory,2025-03-30
+6613604,Male,Medium,Queensland,2025-03-30
+3967994,Unknown,Medium,New South Wales,2025-03-30
+2743504,Unknown,Medium,Victoria,2025-03-30
+991704,Male,Medium,Queensland,2025-03-30
+3352004,Unknown,Medium,Western Australia,2025-03-30
+2398704,Unknown,Medium,Western Australia,2025-03-30
+5419994,Unknown,Low,Northern Territory,2025-03-30
+8530804,Unknown,High,Northern Territory,2025-03-30
+4319994,Unknown,High,South Australia,2025-03-30
+3284504,Unknown,High,Victoria,2025-03-30
+6898704,Unknown,High,Tasmania,2025-03-30
+2466094,Unknown,Medium,Queensland,2025-03-30
+6695704,Unknown,Low,South Australia,2025-03-30
+1252004,Unknown,Medium,Western Australia,2025-03-30
+3491704,Unknown,Medium,New South Wales,2025-03-30
+3470304,Unknown,High,Western Australia,2025-03-31
+4055304,Unknown,Medium,South Australia,2025-03-31
+6596704,Unknown,High,Western Australia,2025-03-31
+3062004,Unknown,Medium,Australian Capital Territory,2025-03-31
+752004,Unknown,Low,Australian Capital Territory,2025-03-31
+6390094,Male,Medium,Queensland,2025-03-31
+7002804,Unknown,Low,Australian Capital Territory,2025-03-31
+9039704,Unknown,High,Tasmania,2025-03-31
+7307704,Unknown,High,Tasmania,2025-03-31
+4656404,Unknown,Medium,Western Australia,2025-03-31
+4526404,Unknown,Medium,New South Wales,2025-03-31
+4862994,Unknown,Low,Northern Territory,2025-03-31
+3319404,Unknown,High,Tasmania,2025-03-31
+6081894,Unknown,Medium,Queensland,2025-03-31
+238404,Unknown,Medium,Western Australia,2025-03-31
+5521304,Unknown,Medium,Queensland,2025-03-31
+2394404,Unknown,Low,Northern Territory,2025-03-31
+3489794,Unknown,High,Northern Territory,2025-03-31
+2411804,Unknown,Medium,Victoria,2025-03-31
+9723404,Unknown,High,Northern Territory,2025-04-01
+5524304,Unknown,Low,New South Wales,2025-04-01
+2738404,Unknown,High,Australian Capital Territory,2025-04-01
+8005404,Unknown,Low,Northern Territory,2025-04-01
+7820794,Unknown,Medium,Northern Territory,2025-04-01
+6369404,Unknown,High,Western Australia,2025-04-01
+6736404,Unknown,High,Tasmania,2025-04-01
+3427904,Unknown,Medium,Australian Capital Territory,2025-04-01
+7593604,Unknown,High,Victoria,2025-04-01
+7888704,Unknown,Medium,Western Australia,2025-04-02
+7134404,Unknown,High,New South Wales,2025-04-02
+3276304,Unknown,Low,Western Australia,2025-04-02
+9337804,Unknown,Low,Northern Territory,2025-04-02
+7956194,Unknown,High,Tasmania,2025-04-02
+4914404,Unknown,Medium,New South Wales,2025-04-02
+962004,Unknown,High,Victoria,2025-04-02
+6984804,Unknown,Medium,South Australia,2025-04-02
+9845994,Female,High,New South Wales,2025-04-02
+9683704,Unknown,Low,Western Australia,2025-04-02
+3793504,Female,Low,Queensland,2025-04-02
+4788704,Unknown,High,New South Wales,2025-04-02
+6712404,Unknown,High,Queensland,2025-04-02
+5360304,Unknown,Low,Tasmania,2025-04-02
+9870304,Unknown,Low,New South Wales,2025-04-02
+3698004,Unknown,High,Australian Capital Territory,2025-04-03
+4166094,Unknown,Medium,Victoria,2025-04-03
+8593504,Female,Medium,Tasmania,2025-04-03
+7962894,Unknown,High,South Australia,2025-04-03
+2159194,Unknown,Low,Queensland,2025-04-03
+5582004,Unknown,High,Tasmania,2025-04-03
+5402504,Unknown,High,South Australia,2025-04-03
+5602194,Unknown,Low,Tasmania,2025-04-03
+3326804,Unknown,Low,New South Wales,2025-04-03
+5596994,Unknown,Low,New South Wales,2025-04-03
+3949894,Unknown,Medium,South Australia,2025-04-03
+4826194,Unknown,High,Queensland,2025-04-03
+7891194,Unknown,Low,Queensland,2025-04-03
+3004,Unknown,Medium,Tasmania,2025-04-03
+8304504,Unknown,High,Queensland,2025-04-03
+2253004,Unknown,Low,New South Wales,2025-04-04
+7881804,Unknown,Low,South Australia,2025-04-04
+5334604,Unknown,High,New South Wales,2025-04-04
+8027704,Female,Low,Western Australia,2025-04-04
+1553004,Unknown,High,Queensland,2025-04-04
+4524894,Unknown,Low,Western Australia,2025-04-04
+8653004,Unknown,Medium,Western Australia,2025-04-04
+8370304,Unknown,Medium,New South Wales,2025-04-04
+4207194,Unknown,Low,Tasmania,2025-04-04
+562804,Female,Medium,Queensland,2025-04-04
+5628404,Unknown,Low,Australian Capital Territory,2025-04-05
+2446904,Unknown,High,Victoria,2025-04-05
+6141504,Unknown,Low,Queensland,2025-04-05
+4849894,Unknown,High,Australian Capital Territory,2025-04-05
+6060804,Unknown,High,Queensland,2025-04-05
+5143994,Unknown,Medium,Victoria,2025-04-05
+6063004,Unknown,High,New South Wales,2025-04-05
+8554904,Unknown,High,Western Australia,2025-04-05
+8395694,Unknown,Low,Victoria,2025-04-05
+9953004,Unknown,Low,Northern Territory,2025-04-05
+3296404,Unknown,Low,Tasmania,2025-04-05
+9896704,Unknown,Medium,Northern Territory,2025-04-05
+4612304,Unknown,Low,Northern Territory,2025-04-05
+6174304,Unknown,Medium,Queensland,2025-04-05
+963604,Female,Medium,Northern Territory,2025-04-06
+6072604,Unknown,Medium,Northern Territory,2025-04-06
+5449194,Unknown,Low,Queensland,2025-04-06
+9563004,Unknown,Medium,New South Wales,2025-04-06
+7268504,Male,Low,Victoria,2025-04-06
+7112704,Female,Medium,Tasmania,2025-04-06
+7387704,Female,Low,Tasmania,2025-04-06
+4566194,Unknown,Low,Australian Capital Territory,2025-04-06
+5036304,Unknown,High,Northern Territory,2025-04-06
+2776894,Female,High,Queensland,2025-04-06
+1824904,Unknown,Low,Western Australia,2025-04-06
+9654304,Unknown,Medium,Western Australia,2025-04-06
+7071704,Unknown,Medium,New South Wales,2025-04-06
+563004,Unknown,Medium,South Australia,2025-04-06
+1355194,Unknown,Low,South Australia,2025-04-06
+6636404,Unknown,Medium,Victoria,2025-04-06
+6342904,Unknown,Medium,Northern Territory,2025-04-06
+2385504,Male,Medium,Tasmania,2025-04-07
+8164904,Unknown,Medium,South Australia,2025-04-07
+9885504,Unknown,Low,South Australia,2025-04-07
+5037204,Unknown,High,South Australia,2025-04-07
+3987194,Unknown,Low,Queensland,2025-04-07
+7197704,Unknown,Low,Queensland,2025-04-07
+9947304,Unknown,Medium,Western Australia,2025-04-07
+3864904,Unknown,High,Australian Capital Territory,2025-04-08
+6391704,Unknown,High,Northern Territory,2025-04-08
+3373004,Unknown,Medium,Australian Capital Territory,2025-04-08
+7583994,Unknown,Medium,Australian Capital Territory,2025-04-08
+5944804,Female,Low,Tasmania,2025-04-08
+6173904,Unknown,High,South Australia,2025-04-08
+8465894,Unknown,Medium,Australian Capital Territory,2025-04-08
+9443794,Unknown,Medium,Queensland,2025-04-08
+5473004,Unknown,Medium,Tasmania,2025-04-08
+3756904,Unknown,High,Northern Territory,2025-04-08
+5149094,Unknown,Low,South Australia,2025-04-08
+3676894,Unknown,Low,Australian Capital Territory,2025-04-08
+6366194,Unknown,High,Queensland,2025-04-08
+3233504,Unknown,Medium,New South Wales,2025-04-09
+9276094,Female,High,Victoria,2025-04-09
+7462994,Unknown,Medium,Northern Territory,2025-04-09
+5110904,Unknown,Low,Northern Territory,2025-04-09
+2397704,Unknown,Medium,Northern Territory,2025-04-09
+7243794,Unknown,High,Queensland,2025-04-09
+4066094,Unknown,Medium,Tasmania,2025-04-09
+9652004,Unknown,High,Victoria,2025-04-09
+5434804,Unknown,High,Western Australia,2025-04-09
+4358404,Unknown,Low,Queensland,2025-04-09
+4383194,Male,Medium,South Australia,2025-04-09
+2047304,Unknown,High,New South Wales,2025-04-09
+4739894,Unknown,Low,New South Wales,2025-04-09
+6799804,Unknown,Medium,New South Wales,2025-04-09
+8331404,Unknown,Low,Tasmania,2025-04-10
+2801994,Male,Medium,Western Australia,2025-04-10
+1883004,Unknown,Low,Western Australia,2025-04-10
+3586304,Unknown,Medium,Western Australia,2025-04-10
+4271504,Unknown,Medium,Northern Territory,2025-04-10
+2095404,Unknown,Medium,Tasmania,2025-04-10
+7158704,Unknown,High,Northern Territory,2025-04-10
+6293894,Unknown,Low,Victoria,2025-04-10
+5501604,Unknown,High,Western Australia,2025-04-10
+2583504,Unknown,Medium,Queensland,2025-04-10
+9622304,Unknown,High,South Australia,2025-04-10
+7664304,Male,Medium,Tasmania,2025-04-10
+9237794,Unknown,Low,Western Australia,2025-04-10
+2629804,Unknown,High,Northern Territory,2025-04-10
+9677704,Unknown,High,Western Australia,2025-04-11
+6395704,Unknown,Medium,Northern Territory,2025-04-11
+7185404,Unknown,Low,Western Australia,2025-04-11
+8396304,Unknown,Medium,Australian Capital Territory,2025-04-11
+7017904,Unknown,Low,Victoria,2025-04-11
+9844004,Unknown,Low,Tasmania,2025-04-11
+5852304,Unknown,Low,Victoria,2025-04-11
+3644004,Unknown,Medium,Victoria,2025-04-11
+268504,Unknown,Low,Queensland,2025-04-11
+8123194,Unknown,High,Tasmania,2025-04-11
+9237404,Unknown,High,Tasmania,2025-04-11
+1141504,Unknown,High,Victoria,2025-04-11
+6811804,Male,High,Tasmania,2025-04-12
+8122404,Unknown,Low,Queensland,2025-04-12
+1733894,Unknown,High,Queensland,2025-04-12
+9150804,Unknown,Low,Australian Capital Territory,2025-04-12
+5285504,Unknown,Low,New South Wales,2025-04-12
+6733894,Unknown,High,South Australia,2025-04-12
+4493604,Female,Medium,New South Wales,2025-04-12
+2268504,Unknown,Low,Northern Territory,2025-04-12
+8983804,Unknown,High,Queensland,2025-04-12
+154004,Unknown,Medium,Western Australia,2025-04-12
+5801804,Female,Medium,Northern Territory,2025-04-12
+8807804,Unknown,Medium,Tasmania,2025-04-12
+4985504,Unknown,Medium,Western Australia,2025-04-13
+9574504,Unknown,Medium,South Australia,2025-04-13
+7319504,Unknown,Medium,Western Australia,2025-04-13
+475504,Unknown,Low,Queensland,2025-04-13
+3521104,Unknown,High,Western Australia,2025-04-13
+5151804,Male,Medium,Australian Capital Territory,2025-04-13
+3698504,Unknown,Low,New South Wales,2025-04-13
+1854004,Unknown,Low,Australian Capital Territory,2025-04-13
+8052004,Unknown,Medium,Western Australia,2025-04-13
+8349404,Unknown,High,Australian Capital Territory,2025-04-13
+5654004,Unknown,High,Queensland,2025-04-13
+4759194,Unknown,High,Victoria,2025-04-13
+9954004,Unknown,High,Tasmania,2025-04-13
+4451804,Male,High,Western Australia,2025-04-13
+8593404,Unknown,High,Queensland,2025-04-13
+3372904,Unknown,Low,New South Wales,2025-04-13
+7954004,Unknown,Medium,Northern Territory,2025-04-13
+4393404,Unknown,High,South Australia,2025-04-13
+3391194,Unknown,Medium,Queensland,2025-04-13
+4450304,Unknown,Medium,Australian Capital Territory,2025-04-13
+4328704,Unknown,Low,Tasmania,2025-04-13
+1981904,Unknown,High,New South Wales,2025-04-14
+7252904,Unknown,High,Victoria,2025-04-14
+2903404,Unknown,Medium,Victoria,2025-04-14
+4596404,Unknown,Medium,Australian Capital Territory,2025-04-14
+4916194,Unknown,High,Tasmania,2025-04-14
+5355194,Unknown,Low,Tasmania,2025-04-14
+7787504,Unknown,Medium,Northern Territory,2025-04-14
+5227904,Unknown,Low,Victoria,2025-04-14
+464004,Unknown,Low,New South Wales,2025-04-14
+9103804,Unknown,Medium,Northern Territory,2025-04-14
+4495504,Unknown,Low,Northern Territory,2025-04-14
+7120304,Unknown,Low,Australian Capital Territory,2025-04-14
+8970404,Unknown,Medium,Western Australia,2025-04-14
+5707694,Unknown,High,Northern Territory,2025-04-14
+9475704,Unknown,Medium,Northern Territory,2025-04-14
+4872504,Unknown,Medium,Victoria,2025-04-14
+7485404,Unknown,Low,Northern Territory,2025-04-14
+9334404,Unknown,High,South Australia,2025-04-15
+4521094,Unknown,Low,Queensland,2025-04-15
+8185704,Unknown,Medium,Tasmania,2025-04-15
+6837904,Unknown,Medium,Northern Territory,2025-04-15
+2505894,Unknown,High,South Australia,2025-04-15
+2779404,Unknown,Low,Western Australia,2025-04-15
+2433094,Female,Low,Western Australia,2025-04-16
+2773904,Unknown,Medium,Queensland,2025-04-16
+3594404,Unknown,Medium,Western Australia,2025-04-16
+8815894,Unknown,Medium,South Australia,2025-04-16
+2012404,Unknown,High,Western Australia,2025-04-16
+8062604,Unknown,High,Victoria,2025-04-16
+2843094,Unknown,Medium,Western Australia,2025-04-16
+3254004,Unknown,Medium,South Australia,2025-04-16
+2146504,Unknown,Low,Tasmania,2025-04-16
+6331904,Unknown,Low,Northern Territory,2025-04-16
+8164504,Unknown,Medium,Northern Territory,2025-04-16
+8016804,Unknown,High,Northern Territory,2025-04-17
+8590604,Unknown,Low,Victoria,2025-04-17
+2055194,Unknown,Low,Tasmania,2025-04-17
+5583504,Unknown,High,Tasmania,2025-04-17
+3633804,Unknown,Medium,South Australia,2025-04-17
+2093504,Unknown,Low,Tasmania,2025-04-17
+7921704,Unknown,Medium,Western Australia,2025-04-17
+8806004,Unknown,Medium,Victoria,2025-04-17
+4795694,Unknown,Medium,Northern Territory,2025-04-17
+9392194,Female,High,Queensland,2025-04-17
+8483194,Unknown,Low,Victoria,2025-04-17
+1807904,Unknown,Low,New South Wales,2025-04-17
+3057794,Unknown,Medium,Australian Capital Territory,2025-04-17
+4770304,Unknown,Medium,Queensland,2025-04-17
+1494804,Unknown,Low,Tasmania,2025-04-17
+3059404,Unknown,Low,Australian Capital Territory,2025-04-17
+4617894,Female,Medium,Tasmania,2025-04-18
+5936004,Unknown,Low,Western Australia,2025-04-18
+7926994,Unknown,Medium,Tasmania,2025-04-18
+1217804,Unknown,High,Victoria,2025-04-18
+7355404,Unknown,Low,Northern Territory,2025-04-18
+6183404,Unknown,Medium,Queensland,2025-04-18
+4702704,Unknown,High,Queensland,2025-04-18
+5914404,Unknown,Low,South Australia,2025-04-19
+3556504,Unknown,Medium,Victoria,2025-04-19
+6204504,Unknown,Medium,Northern Territory,2025-04-19
+6534894,Unknown,Medium,Northern Territory,2025-04-19
+5633504,Unknown,High,South Australia,2025-04-19
+7246004,Unknown,High,Northern Territory,2025-04-19
+4424404,Unknown,Medium,Australian Capital Territory,2025-04-19
+8883404,Unknown,Medium,Tasmania,2025-04-19
+5471504,Male,Medium,Northern Territory,2025-04-19
+7521304,Unknown,Low,New South Wales,2025-04-19
+407804,Unknown,High,Victoria,2025-04-19
+6424804,Unknown,High,Northern Territory,2025-04-19
+8848604,Unknown,Medium,Western Australia,2025-04-19
+4971504,Unknown,Medium,Australian Capital Territory,2025-04-19
+3152994,Unknown,Medium,Queensland,2025-04-20
+1846004,Unknown,Low,Victoria,2025-04-20
+4811604,Male,High,New South Wales,2025-04-20
+9811604,Unknown,High,Tasmania,2025-04-20
+9909504,Unknown,Medium,South Australia,2025-04-20
+9286404,Unknown,Low,Tasmania,2025-04-20
+2704304,Unknown,Low,Victoria,2025-04-20
+2227894,Unknown,Low,South Australia,2025-04-20
+4736804,Unknown,Low,Victoria,2025-04-20
+9609404,Unknown,Low,Victoria,2025-04-20
+5993504,Female,Medium,Western Australia,2025-04-20
+971504,Unknown,Low,Tasmania,2025-04-20
+5511604,Unknown,Low,South Australia,2025-04-20
+6211704,Unknown,High,Tasmania,2025-04-20
+7762604,Female,High,New South Wales,2025-04-20
+7444804,Unknown,Low,Western Australia,2025-04-20
+8746304,Unknown,Medium,Tasmania,2025-04-20
+8080404,Unknown,High,Victoria,2025-04-20
+3914894,Unknown,Medium,Australian Capital Territory,2025-04-20
+9594004,Unknown,Low,South Australia,2025-04-20
+168504,Unknown,Medium,South Australia,2025-04-20
+8816804,Unknown,Medium,Tasmania,2025-04-20
+9260794,Unknown,Medium,Victoria,2025-04-20
+900604,Unknown,Medium,New South Wales,2025-04-20
+4287304,Unknown,Medium,South Australia,2025-04-21
+2726504,Unknown,High,Northern Territory,2025-04-21
+856004,Unknown,Medium,New South Wales,2025-04-21
+4917894,Unknown,High,Queensland,2025-04-21
+7067694,Unknown,Medium,South Australia,2025-04-21
+7220304,Unknown,Medium,Northern Territory,2025-04-21
+3249404,Unknown,High,New South Wales,2025-04-21
+9070094,Unknown,High,Australian Capital Territory,2025-04-21
+4656904,Unknown,Low,Victoria,2025-04-21
+6436504,Unknown,Medium,Australian Capital Territory,2025-04-21
+7989794,Unknown,High,Queensland,2025-04-21
+4511094,Unknown,High,Tasmania,2025-04-21
+3649404,Unknown,Low,Tasmania,2025-04-21
+3620804,Unknown,Low,Victoria,2025-04-21
+5605504,Unknown,Low,Australian Capital Territory,2025-04-21
+5012404,Unknown,Medium,Australian Capital Territory,2025-04-21
+9417304,Unknown,Low,South Australia,2025-04-21
+2455404,Unknown,Low,Queensland,2025-04-22
+4792404,Unknown,Medium,Victoria,2025-04-22
+2564104,Unknown,Low,Northern Territory,2025-04-22
+266004,Unknown,Medium,Queensland,2025-04-22
+9923504,Unknown,Medium,Western Australia,2025-04-22
+2549404,Unknown,High,Queensland,2025-04-22
+7430194,Unknown,High,Northern Territory,2025-04-22
+2850304,Unknown,Medium,New South Wales,2025-04-22
+7021094,Male,Medium,Australian Capital Territory,2025-04-22
+2236904,Unknown,Low,Northern Territory,2025-04-23
+7958604,Unknown,High,Australian Capital Territory,2025-04-23
+8670404,Unknown,Medium,Northern Territory,2025-04-23
+2647304,Unknown,High,Tasmania,2025-04-23
+3785404,Unknown,High,Western Australia,2025-04-24
+3119404,Unknown,Medium,Queensland,2025-04-24
+4174804,Unknown,Medium,Queensland,2025-04-24
+9516304,Unknown,Medium,Australian Capital Territory,2025-04-24
+2020504,Unknown,Medium,Western Australia,2025-04-24
+4788304,Female,Low,Australian Capital Territory,2025-04-24
+9827004,Unknown,High,Western Australia,2025-04-24
+3127004,Unknown,Medium,Western Australia,2025-04-24
+3017804,Unknown,Medium,Northern Territory,2025-04-24
+2744504,Unknown,High,Queensland,2025-04-24
+5046404,Unknown,High,Victoria,2025-04-25
+5694804,Female,Low,Victoria,2025-04-25
+2312704,Unknown,High,Northern Territory,2025-04-25
+5230504,Unknown,Medium,Tasmania,2025-04-25
+7815504,Unknown,Low,Queensland,2025-04-25
+2992704,Unknown,High,Australian Capital Territory,2025-04-25
+2554804,Unknown,High,Tasmania,2025-04-25
+1337004,Unknown,High,Tasmania,2025-04-25
+5947304,Unknown,Low,Queensland,2025-04-25
+7852804,Unknown,Medium,Australian Capital Territory,2025-04-25
+7611094,Unknown,High,Australian Capital Territory,2025-04-25
+5661194,Unknown,Low,Western Australia,2025-04-25
+9347094,Male,High,Northern Territory,2025-04-25
+5809404,Unknown,Low,South Australia,2025-04-25
+901604,Unknown,Low,New South Wales,2025-04-25
+8952894,Unknown,High,South Australia,2025-04-25
+7237004,Unknown,Medium,Australian Capital Territory,2025-04-25
+3846194,Unknown,High,Australian Capital Territory,2025-04-25
+5740504,Unknown,High,Queensland,2025-04-25
+6706094,Unknown,High,Western Australia,2025-04-25
+6693604,Unknown,High,Tasmania,2025-04-26
+3909994,Unknown,Medium,New South Wales,2025-04-26
+9856504,Unknown,Medium,Australian Capital Territory,2025-04-26
+2706404,Unknown,Medium,Western Australia,2025-04-26
+6348504,Unknown,Medium,Western Australia,2025-04-26
+8753804,Female,Low,Northern Territory,2025-04-26
+4134094,Female,Low,Tasmania,2025-04-26
+1637004,Unknown,Medium,Australian Capital Territory,2025-04-26
+2862604,Unknown,Medium,Australian Capital Territory,2025-04-26
+8519804,Unknown,Medium,Tasmania,2025-04-26
+6667704,Unknown,Medium,Australian Capital Territory,2025-04-26
+5162604,Unknown,Low,South Australia,2025-04-26
+9623804,Unknown,High,Victoria,2025-04-26
+2195704,Unknown,High,Queensland,2025-04-26
+737004,Unknown,Medium,Victoria,2025-04-26
+311604,Unknown,Medium,Queensland,2025-04-27
+7694404,Unknown,Medium,Queensland,2025-04-27
+1147004,Unknown,Medium,New South Wales,2025-04-27
+5742704,Unknown,Low,Western Australia,2025-04-27
+9583194,Unknown,Medium,Victoria,2025-04-27
+2047004,Unknown,Medium,New South Wales,2025-04-27
+4642994,Unknown,High,Queensland,2025-04-27
+9373004,Unknown,Low,Queensland,2025-04-27
+266194,Unknown,High,South Australia,2025-04-27
+7961894,Unknown,High,Australian Capital Territory,2025-04-27
+8213994,Unknown,Medium,South Australia,2025-04-27
+4255304,Unknown,High,Australian Capital Territory,2025-04-27
+6844804,Unknown,High,New South Wales,2025-04-27
+4784404,Unknown,Medium,South Australia,2025-04-27
+5846004,Unknown,Low,Australian Capital Territory,2025-04-27
+2811094,Unknown,Medium,Australian Capital Territory,2025-04-27
+5102404,Unknown,Medium,Western Australia,2025-04-27
+7947704,Unknown,Low,Tasmania,2025-04-27
+2775704,Female,Medium,South Australia,2025-04-27
+4547004,Unknown,Medium,Tasmania,2025-04-27
+3047004,Unknown,Medium,Queensland,2025-04-27
+9159004,Unknown,Medium,Tasmania,2025-04-27
+6647004,Unknown,Low,New South Wales,2025-04-27
+257004,Unknown,Low,Australian Capital Territory,2025-04-28
+8994894,Female,Low,Australian Capital Territory,2025-04-28
+3887194,Unknown,Low,Queensland,2025-04-28
+5756504,Unknown,Medium,Northern Territory,2025-04-28
+6260604,Unknown,High,Tasmania,2025-04-28
+1651894,Unknown,High,Tasmania,2025-04-28
+6374504,Unknown,Medium,Australian Capital Territory,2025-04-28
+2057004,Unknown,High,Australian Capital Territory,2025-04-28
+7941504,Unknown,Low,Tasmania,2025-04-28
+1994804,Unknown,High,South Australia,2025-04-28
+8938804,Unknown,Medium,Western Australia,2025-04-28
+9301604,Female,High,Western Australia,2025-04-28
+3934094,Unknown,Low,South Australia,2025-04-28
+8661194,Unknown,Low,Northern Territory,2025-04-28
+1396704,Unknown,Medium,Victoria,2025-04-28
+3057004,Unknown,High,South Australia,2025-04-28
+5267704,Unknown,High,Tasmania,2025-04-28
+9992994,Unknown,Low,Queensland,2025-04-28
+2705204,Unknown,High,Tasmania,2025-04-29
+4203994,Unknown,Low,Australian Capital Territory,2025-04-29
+1557004,Unknown,Low,Western Australia,2025-04-29
+8504504,Unknown,Medium,South Australia,2025-04-29
+9739404,Unknown,Low,Queensland,2025-04-29
+6188404,Unknown,High,Australian Capital Territory,2025-04-29
+2547094,Unknown,High,Queensland,2025-04-29
+7061504,Unknown,Low,Western Australia,2025-04-29
+2082504,Unknown,Medium,Western Australia,2025-04-29
+1696304,Unknown,High,Queensland,2025-04-29
+3960104,Unknown,High,Victoria,2025-04-29
+557004,Unknown,High,South Australia,2025-04-29
+5457004,Unknown,High,Northern Territory,2025-04-29
+5366094,Unknown,Medium,Australian Capital Territory,2025-04-29
+5947794,Unknown,Medium,South Australia,2025-04-30
+5733094,Unknown,Medium,Queensland,2025-04-30
+7150804,Unknown,High,Northern Territory,2025-04-30
+2268704,Unknown,High,Western Australia,2025-04-30
+3370994,Unknown,Low,Tasmania,2025-04-30
+1801604,Unknown,Medium,Western Australia,2025-04-30
+6892404,Unknown,Medium,New South Wales,2025-04-30
+5189794,Unknown,High,South Australia,2025-04-30
+4494804,Unknown,Medium,New South Wales,2025-04-30
+6412504,Unknown,Medium,Victoria,2025-04-30
+7541894,Unknown,Medium,South Australia,2025-04-30
+7619804,Unknown,Medium,Victoria,2025-05-01
+6850504,Female,Medium,Northern Territory,2025-05-01
+6975504,Male,High,Victoria,2025-05-01
+367004,Unknown,Low,Tasmania,2025-05-01
+9302404,Unknown,Low,South Australia,2025-05-01
+7826304,Unknown,Low,Queensland,2025-05-01
+4629194,Unknown,Medium,South Australia,2025-05-01
+4403994,Female,Low,Northern Territory,2025-05-01
+9309704,Unknown,Low,Northern Territory,2025-05-02
+1197004,Unknown,Medium,Victoria,2025-05-02
+7849894,Unknown,Medium,Northern Territory,2025-05-02
+3598304,Female,Low,New South Wales,2025-05-02
+6215804,Female,Medium,Victoria,2025-05-02
+3603404,Unknown,Medium,South Australia,2025-05-02
+4268304,Male,High,Western Australia,2025-05-02
+9664504,Unknown,High,New South Wales,2025-05-02
+3497004,Unknown,Medium,Queensland,2025-05-02
+6114404,Unknown,High,New South Wales,2025-05-02
+9756504,Unknown,Low,South Australia,2025-05-02
+1397004,Unknown,High,Queensland,2025-05-02
+4012704,Male,Medium,Northern Territory,2025-05-02
+5424404,Unknown,High,South Australia,2025-05-02
+4540804,Unknown,Medium,Western Australia,2025-05-02
+7397004,Unknown,Medium,South Australia,2025-05-02
+9133804,Unknown,High,Western Australia,2025-05-02
+8714894,Unknown,Medium,Queensland,2025-05-02
+9982994,Unknown,Medium,New South Wales,2025-05-03
+3942804,Unknown,Medium,New South Wales,2025-05-03
+5797004,Unknown,Medium,Tasmania,2025-05-03
+7997004,Unknown,Low,Queensland,2025-05-03
+8937704,Unknown,Medium,Western Australia,2025-05-03
+7933794,Male,Low,Queensland,2025-05-03
+3897004,Unknown,Medium,Queensland,2025-05-03
+9676894,Unknown,Low,Western Australia,2025-05-03
+9864304,Unknown,Low,Western Australia,2025-05-03
+6670304,Unknown,Medium,South Australia,2025-05-03
+3570304,Unknown,Medium,South Australia,2025-05-03
+7897004,Unknown,Low,Tasmania,2025-05-03
+9533894,Unknown,High,Australian Capital Territory,2025-05-03
+9364504,Unknown,Medium,New South Wales,2025-05-03
+7340804,Male,High,South Australia,2025-05-03
+6756504,Unknown,Low,Victoria,2025-05-03
+5207804,Unknown,Medium,New South Wales,2025-05-04
+5772504,Unknown,Medium,Queensland,2025-05-04
+4287404,Unknown,Medium,New South Wales,2025-05-04
+7978304,Unknown,Low,Victoria,2025-05-04
+520604,Unknown,Low,Western Australia,2025-05-04
+9632304,Unknown,Medium,Western Australia,2025-05-04
+7020304,Unknown,High,Australian Capital Territory,2025-05-04
+4798694,Unknown,Low,Queensland,2025-05-04
+1898694,Unknown,Low,Northern Territory,2025-05-04
+5153304,Female,High,Queensland,2025-05-04
+5456194,Unknown,Medium,Australian Capital Territory,2025-05-04
+5416304,Unknown,Low,Queensland,2025-05-04
+8608004,Unknown,Low,Northern Territory,2025-05-04
+8157004,Unknown,High,Australian Capital Territory,2025-05-04
+8573904,Unknown,Medium,New South Wales,2025-05-04
+9233504,Unknown,Low,Victoria,2025-05-04
+9996704,Unknown,Medium,Tasmania,2025-05-04
+9358804,Unknown,Medium,Northern Territory,2025-05-04
+9702804,Unknown,Low,Victoria,2025-05-04
+4130804,Unknown,High,Queensland,2025-05-04
+6208004,Unknown,High,Northern Territory,2025-05-04
+562604,Unknown,Medium,Australian Capital Territory,2025-05-04
+8867804,Unknown,Medium,Northern Territory,2025-05-05
+6907704,Unknown,Low,Queensland,2025-05-05
+8618704,Unknown,High,South Australia,2025-05-05
+4093404,Unknown,Medium,Tasmania,2025-05-05
+8902904,Unknown,Low,South Australia,2025-05-05
+5018004,Unknown,Medium,Tasmania,2025-05-05
+4402804,Unknown,Medium,Western Australia,2025-05-05
+3356404,Unknown,Medium,Queensland,2025-05-05
+7255794,Unknown,Low,Tasmania,2025-05-05
+3742994,Unknown,Medium,New South Wales,2025-05-05
+7994404,Unknown,Medium,Northern Territory,2025-05-05
+3983994,Unknown,High,Tasmania,2025-05-05
+8621794,Unknown,High,Australian Capital Territory,2025-05-05
+7453004,Unknown,Low,Tasmania,2025-05-05
+5203804,Unknown,Medium,South Australia,2025-05-05
+8442704,Unknown,Medium,Northern Territory,2025-05-05
+4425604,Male,Low,South Australia,2025-05-05
+7005404,Unknown,Medium,Queensland,2025-05-05
+5822094,Unknown,Medium,Northern Territory,2025-05-05
+7932704,Unknown,Medium,South Australia,2025-05-05
+7341804,Unknown,Low,New South Wales,2025-05-06
+7877404,Unknown,High,Western Australia,2025-05-06
+9109994,Unknown,Medium,Victoria,2025-05-06
+6919404,Unknown,Medium,Northern Territory,2025-05-06
+3133094,Unknown,High,Victoria,2025-05-06
+5686404,Unknown,Medium,Western Australia,2025-05-06
+2477194,Unknown,Medium,South Australia,2025-05-06
+6986904,Unknown,Medium,Northern Territory,2025-05-06
+2646504,Unknown,Low,Western Australia,2025-05-06
+6084504,Unknown,Medium,Tasmania,2025-05-06
+9760994,Unknown,Low,Western Australia,2025-05-06
+3238804,Unknown,Medium,Tasmania,2025-05-06
+7883504,Unknown,High,Northern Territory,2025-05-06
+2922904,Unknown,Medium,New South Wales,2025-05-06
+2398404,Unknown,Medium,Victoria,2025-05-06
+6318004,Unknown,High,Victoria,2025-05-06
+6762604,Female,Medium,New South Wales,2025-05-07
+5717704,Unknown,Low,Victoria,2025-05-07
+3322404,Unknown,Medium,Northern Territory,2025-05-07
+3824404,Unknown,Medium,Tasmania,2025-05-07
+3958504,Unknown,High,Victoria,2025-05-07
+6352904,Unknown,High,Australian Capital Territory,2025-05-07
+3044804,Unknown,Low,South Australia,2025-05-07
+5737004,Male,Low,Victoria,2025-05-07
+8172794,Unknown,Low,Northern Territory,2025-05-07
+3130804,Unknown,Low,South Australia,2025-05-07
+9473194,Unknown,Medium,Northern Territory,2025-05-07
+7057004,Unknown,Low,Northern Territory,2025-05-07
+6338004,Unknown,Low,Western Australia,2025-05-08
+4742894,Unknown,Low,Victoria,2025-05-08
+7223004,Unknown,Low,Victoria,2025-05-08
+7143504,Unknown,Medium,Australian Capital Territory,2025-05-08
+2968004,Unknown,Low,Australian Capital Territory,2025-05-08
+1098004,Unknown,Low,New South Wales,2025-05-08
+758004,Unknown,High,Western Australia,2025-05-08
+7039894,Unknown,Low,New South Wales,2025-05-08
+1994894,Unknown,High,Tasmania,2025-05-08
+3405894,Unknown,Medium,Western Australia,2025-05-08
+3655304,Unknown,Medium,Victoria,2025-05-08
+5012704,Female,High,South Australia,2025-05-08
+3017304,Unknown,Medium,Victoria,2025-05-08
+5932704,Unknown,High,South Australia,2025-05-08
+8178004,Unknown,High,Tasmania,2025-05-08
+8811704,Unknown,High,Tasmania,2025-05-08
+6541804,Unknown,Medium,Northern Territory,2025-05-08
+5645304,Unknown,Medium,Tasmania,2025-05-09
+3609904,Unknown,Medium,Western Australia,2025-05-09
+3812804,Unknown,Medium,New South Wales,2025-05-09
+8081704,Unknown,Medium,Victoria,2025-05-09
+8754804,Unknown,Low,Western Australia,2025-05-09
+5596904,Unknown,High,Northern Territory,2025-05-09
+2898004,Unknown,High,Northern Territory,2025-05-09
+6495704,Unknown,Medium,Northern Territory,2025-05-09
+4789894,Unknown,Medium,Northern Territory,2025-05-09
+4405504,Unknown,Low,Australian Capital Territory,2025-05-09
+8729504,Unknown,Medium,South Australia,2025-05-09
+2346504,Unknown,Low,Victoria,2025-05-09
+2890804,Unknown,Medium,South Australia,2025-05-09
+5921304,Unknown,High,Western Australia,2025-05-09
+8698004,Unknown,High,Victoria,2025-05-09
+598004,Unknown,Low,Tasmania,2025-05-09
+1598004,Unknown,Medium,South Australia,2025-05-09
+6270304,Unknown,High,New South Wales,2025-05-09
+6055194,Unknown,High,Tasmania,2025-05-10
+5868094,Unknown,Medium,Northern Territory,2025-05-10
+6026804,Unknown,Medium,Western Australia,2025-05-10
+3867604,Unknown,Medium,New South Wales,2025-05-10
+2573504,Unknown,Medium,Victoria,2025-05-10
+9862894,Unknown,Medium,South Australia,2025-05-10
+8892304,Unknown,High,Northern Territory,2025-05-10
+8309004,Unknown,Medium,Western Australia,2025-05-10
+9309004,Unknown,Medium,South Australia,2025-05-10
+2059194,Unknown,High,Queensland,2025-05-10
+1009004,Unknown,High,Queensland,2025-05-10
+3835994,Unknown,Medium,South Australia,2025-05-10
+5940704,Unknown,High,Queensland,2025-05-10
+5421794,Unknown,Medium,Western Australia,2025-05-10
+409004,Unknown,Low,Tasmania,2025-05-10
+9459894,Unknown,High,Queensland,2025-05-10
+3007804,Unknown,High,Northern Territory,2025-05-10
+2122704,Unknown,Medium,Victoria,2025-05-10
+3009004,Unknown,High,Western Australia,2025-05-10
+6019004,Unknown,Medium,Tasmania,2025-05-11
+5984194,Unknown,High,Queensland,2025-05-11
+6609004,Unknown,High,Victoria,2025-05-11
+4394804,Unknown,High,Queensland,2025-05-11
+1624894,Unknown,Medium,Australian Capital Territory,2025-05-11
+3190804,Unknown,High,South Australia,2025-05-11
+7121804,Unknown,Low,New South Wales,2025-05-11
+8042504,Unknown,High,South Australia,2025-05-11
+9594804,Unknown,Low,Queensland,2025-05-11
+7713004,Unknown,Medium,Queensland,2025-05-11
+8258304,Unknown,Low,Queensland,2025-05-11
+3922804,Unknown,High,New South Wales,2025-05-11
+2957994,Unknown,Medium,Australian Capital Territory,2025-05-12
+4516404,Unknown,Medium,South Australia,2025-05-12
+6219004,Unknown,Low,Western Australia,2025-05-12
+5358804,Unknown,Low,Western Australia,2025-05-12
+8272504,Unknown,Low,Queensland,2025-05-12
+8677404,Unknown,High,Tasmania,2025-05-12
+9098404,Unknown,Medium,Tasmania,2025-05-12
+9454904,Unknown,High,Northern Territory,2025-05-12
+319004,Unknown,Medium,South Australia,2025-05-12
+6909004,Unknown,Medium,Victoria,2025-05-12
+8319004,Unknown,Medium,Queensland,2025-05-12
+3663004,Unknown,Medium,Queensland,2025-05-12
+2505404,Unknown,High,Tasmania,2025-05-12
+2171504,Female,Medium,Northern Territory,2025-05-12
+6648504,Unknown,Medium,Queensland,2025-05-12
+4733894,Female,Medium,Northern Territory,2025-05-12
+1619004,Unknown,Medium,Western Australia,2025-05-12
+5044894,Unknown,Low,Northern Territory,2025-05-12
+9748804,Unknown,Low,Queensland,2025-05-12
+4319004,Unknown,High,South Australia,2025-05-12
+1419004,Unknown,High,Victoria,2025-05-12
+2589894,Female,Low,Northern Territory,2025-05-13
+5342004,Unknown,High,Australian Capital Territory,2025-05-13
+9819004,Unknown,High,Western Australia,2025-05-13
+6698804,Male,High,South Australia,2025-05-13
+7911504,Unknown,Medium,Tasmania,2025-05-13
+5572604,Unknown,High,Victoria,2025-05-13
+7935304,Male,Low,New South Wales,2025-05-13
+2303994,Unknown,Medium,Northern Territory,2025-05-13
+2042704,Unknown,Medium,Queensland,2025-05-13
+7817704,Unknown,Medium,New South Wales,2025-05-13
+4134604,Unknown,Low,Western Australia,2025-05-14
+6922804,Unknown,High,Victoria,2025-05-14
+2195694,Unknown,Medium,New South Wales,2025-05-14
+3850094,Unknown,Medium,Australian Capital Territory,2025-05-14
+5067304,Unknown,High,Australian Capital Territory,2025-05-14
+7029504,Female,Medium,Northern Territory,2025-05-14
+7015804,Unknown,Medium,Australian Capital Territory,2025-05-14
+1929804,Unknown,Medium,Queensland,2025-05-14
+7823504,Unknown,Low,Queensland,2025-05-14
+2937794,Unknown,Medium,Northern Territory,2025-05-15
+9175894,Unknown,Medium,South Australia,2025-05-15
+9432094,Unknown,Low,Queensland,2025-05-15
+7649004,Unknown,Medium,New South Wales,2025-05-15
+2971004,Unknown,Low,Western Australia,2025-05-15
+2698894,Unknown,Low,Western Australia,2025-05-15
+8663194,Unknown,High,Australian Capital Territory,2025-05-15
+8442604,Female,Medium,South Australia,2025-05-15
+5054904,Unknown,High,South Australia,2025-05-15
+6481704,Unknown,High,South Australia,2025-05-15
+8377404,Unknown,High,New South Wales,2025-05-15
+4159404,Unknown,Medium,Western Australia,2025-05-15
+7610504,Unknown,Low,New South Wales,2025-05-15
+4301604,Male,High,Queensland,2025-05-15
+2855894,Unknown,High,New South Wales,2025-05-15
+3615794,Unknown,Low,Queensland,2025-05-15
+4539004,Unknown,Medium,Western Australia,2025-05-15
+7791194,Unknown,High,South Australia,2025-05-15
+7501094,Unknown,Medium,Queensland,2025-05-15
+7149804,Unknown,High,New South Wales,2025-05-15
+6195404,Unknown,High,South Australia,2025-05-16
+5549004,Unknown,High,Australian Capital Territory,2025-05-16
+5414304,Unknown,High,New South Wales,2025-05-16
+3056004,Unknown,Medium,New South Wales,2025-05-16
+6662504,Unknown,Low,New South Wales,2025-05-16
+6070304,Unknown,Low,Northern Territory,2025-05-16
+1809994,Unknown,High,Victoria,2025-05-16
+5841904,Unknown,Low,New South Wales,2025-05-16
+9873704,Male,High,Tasmania,2025-05-16
+3493604,Unknown,Medium,Queensland,2025-05-16
+2532304,Unknown,Medium,Western Australia,2025-05-16
+3070094,Unknown,Low,Western Australia,2025-05-16
+3081504,Unknown,Low,Tasmania,2025-05-16
+5644604,Unknown,High,Tasmania,2025-05-16
+5259004,Unknown,Low,Victoria,2025-05-17
+3838804,Unknown,Medium,Tasmania,2025-05-17
+4820304,Female,Medium,Western Australia,2025-05-17
+7780404,Unknown,Low,Victoria,2025-05-17
+5749004,Unknown,Medium,Australian Capital Territory,2025-05-17
+9832704,Unknown,Low,Western Australia,2025-05-17
+1670094,Unknown,High,South Australia,2025-05-17
+7949004,Unknown,Medium,South Australia,2025-05-17
+4760994,Unknown,High,South Australia,2025-05-17
+7218004,Unknown,Low,Tasmania,2025-05-17
+6607704,Unknown,High,Northern Territory,2025-05-17
+3462504,Unknown,Medium,Queensland,2025-05-17
+2052604,Unknown,Medium,Queensland,2025-05-17
+2232094,Unknown,High,Queensland,2025-05-18
+5369004,Unknown,Medium,New South Wales,2025-05-18
+6269004,Unknown,Medium,New South Wales,2025-05-18
+2658094,Unknown,Medium,Northern Territory,2025-05-18
+5582504,Unknown,Medium,Australian Capital Territory,2025-05-18
+8546804,Unknown,Low,Queensland,2025-05-18
+8702704,Male,Medium,Northern Territory,2025-05-18
+9207604,Unknown,Medium,Tasmania,2025-05-18
+6267304,Female,High,New South Wales,2025-05-18
+6759004,Unknown,Medium,Northern Territory,2025-05-18
+8242704,Unknown,Low,Northern Territory,2025-05-18
+3783894,Unknown,High,Queensland,2025-05-18
+1454004,Unknown,Medium,Western Australia,2025-05-18
+5602404,Unknown,Low,Victoria,2025-05-18
+2127904,Unknown,Medium,Western Australia,2025-05-18
+9669004,Unknown,Low,Australian Capital Territory,2025-05-19
+8774194,Unknown,Medium,Victoria,2025-05-19
+6000404,Unknown,Low,Northern Territory,2025-05-19
+4141504,Unknown,Medium,Western Australia,2025-05-19
+3029804,Unknown,High,Western Australia,2025-05-19
+4888704,Female,High,Northern Territory,2025-05-19
+3522404,Unknown,Medium,Queensland,2025-05-19
+5021704,Unknown,Medium,Australian Capital Territory,2025-05-19
+7307604,Unknown,High,Tasmania,2025-05-19
+5869004,Unknown,High,Victoria,2025-05-19
+2115804,Unknown,Medium,Victoria,2025-05-19
+1140004,Unknown,High,Western Australia,2025-05-19
+3364804,Unknown,High,South Australia,2025-05-19
+3220804,Unknown,High,Queensland,2025-05-19
+2769004,Unknown,Medium,Victoria,2025-05-19
+8046504,Unknown,High,South Australia,2025-05-20
+8775404,Unknown,Low,Northern Territory,2025-05-20
+4609404,Unknown,Medium,New South Wales,2025-05-20
+1727704,Female,Low,Australian Capital Territory,2025-05-20
+4958094,Unknown,Low,Australian Capital Territory,2025-05-20
+2704404,Unknown,High,Victoria,2025-05-20
+4375694,Unknown,High,Queensland,2025-05-20
+3532804,Unknown,Medium,Victoria,2025-05-20
+5467694,Unknown,High,Australian Capital Territory,2025-05-21
+2150604,Unknown,Low,Northern Territory,2025-05-21
+2267704,Male,Low,New South Wales,2025-05-21
+9592894,Unknown,Low,Victoria,2025-05-21
+4357194,Unknown,High,Australian Capital Territory,2025-05-21
+8081504,Unknown,Low,Northern Territory,2025-05-21
+5898004,Unknown,Medium,Northern Territory,2025-05-21
+8990604,Unknown,High,Western Australia,2025-05-21
+7706404,Unknown,Low,South Australia,2025-05-21
+4638404,Female,High,Australian Capital Territory,2025-05-21
+3557704,Unknown,Medium,New South Wales,2025-05-21
+5015804,Unknown,Medium,Victoria,2025-05-21
+8157804,Unknown,Medium,Northern Territory,2025-05-21
+7112404,Unknown,High,South Australia,2025-05-21
+7273604,Unknown,Medium,Queensland,2025-05-21
+7149094,Unknown,Low,Victoria,2025-05-21
+6611094,Unknown,High,Northern Territory,2025-05-21
+8819404,Unknown,Low,Tasmania,2025-05-21
+4908704,Unknown,High,Victoria,2025-05-22
+6869194,Unknown,Low,Queensland,2025-05-22
+3706504,Unknown,Low,Western Australia,2025-05-22
+4269894,Unknown,Medium,Northern Territory,2025-05-22
+2184304,Unknown,Medium,New South Wales,2025-05-22
+6598404,Unknown,High,Western Australia,2025-05-22
+2449404,Unknown,High,Tasmania,2025-05-22
+2796804,Unknown,High,Tasmania,2025-05-22
+1108004,Unknown,Medium,South Australia,2025-05-22
